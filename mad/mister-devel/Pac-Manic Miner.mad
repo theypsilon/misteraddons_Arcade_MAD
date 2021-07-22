@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname></setname>
+	<name>Pac-Manic Miner</name>
+	<region></region>
+	<version></version>
+	<alternative></alternative>
+	<platform></platform>
+	<series>Pac-Man</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>2013</year>
+	<manufacturer>Jim Bagley</manufacturer>
+	<category>Platform - Climb</category>
+
+	<rotation>vertical (cw)</rotation>
+	<flip>yes</flip>
+	<resolution>15kHz</resolution>
+
+	<players>2 (alternating)</players>
+	<joystick>4-way</joystick>
+	<special_controls></special_controls>
+	<buttons>0</buttons>
+
+</misterarcadedescription>

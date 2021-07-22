@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>pmba3000</setname>
+	<name>Pac-Man Babies 3000 [hb]</name>
+	<region></region>
+	<version></version>
+	<alternative>Pac-Man</alternative>
+	<platform></platform>
+	<series>Pac-Man</series>
+	<homebrew>yes</homebrew>
+	<bootleg>no</bootleg>
+	<year>1980</year>
+	<manufacturer>Blue Justice</manufacturer>
+	<category>Maze</category>
+
+	<rotation>vertical (cw)</rotation>
+	<flip>yes</flip>
+	<resolution>15kHz</resolution>
+
+	<players>2 (alternating)</players>
+	<joystick>4-way</joystick>
+	<special_controls></special_controls>
+	<buttons>0</buttons>
+
+</misterarcadedescription>

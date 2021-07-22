@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>pang3b</setname>
+	<name>Pang! 3 -bootleg-</name>
+	<region></region>
+	<version></version>
+	<alternative>Pang! 3</alternative>
+	<platform>Capcom CPS-1</platform>
+	<series>Pang!</series>
+	<homebrew>no</homebrew>
+	<bootleg>yes</bootleg>
+	<year>1995</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Ball and Paddle</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>4-way</joystick>
+	<special_controls></special_controls>
+	<buttons>1</buttons>
+</misterarcadedescription>

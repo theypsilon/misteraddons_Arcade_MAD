@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>sf2qp1</setname>
+	<name>Street Fighter II  The World Warrior -Quicken Pt-I, bootleg-</name>
+	<region></region>
+	<version>Quicken Pt. 1</version>
+	<alternative>Street Fighter II</alternative>
+	<platform>Capcom CPS-1</platform>
+	<series>Street Fighter</series>
+	<homebrew>no</homebrew>
+	<bootleg>yes</bootleg>
+	<year>1991</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Fighting</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>6</buttons>
+</misterarcadedescription>

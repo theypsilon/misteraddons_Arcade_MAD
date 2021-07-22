@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>3wondersr1</setname>
+	<name>Three Wonders -World 910513-</name>
+	<region>World</region>
+	<version>910513</version>
+	<alternative>Three Wonders</alternative>
+	<platform>Capcom CPS-1</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1991</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Mixed</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>3</buttons>
+</misterarcadedescription>

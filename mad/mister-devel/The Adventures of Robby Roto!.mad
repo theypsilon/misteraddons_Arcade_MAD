@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>robby</setname>
+	<name>The Adventures of Robby Roto!</name>
+	<region></region>
+	<version></version>
+	<alternative></alternative>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1981</year>
+	<manufacturer>Dave Nutting Associates</manufacturer>
+	<manufacturer>Bally</manufacturer>
+	<manufacturer>Midway</manufacturer>
+	<category>Maze</category>
+
+	<rotation>horizontal</rotation>
+	<flip></flip>
+	<resolution>15kHz</resolution>
+
+	<players>2 (alternating)</players>
+	<joystick>4-way</joystick>
+	<special_controls></special_controls>
+	<buttons>1</buttons>
+
+</misterarcadedescription>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>qndream</setname>
+	<name>Quiz Nanairo Dreams Nijiirochou no Kiseki (Japan 960826)</name>
+	<region>Japan</region>
+	<version>960826</version>
+	<alternative></alternative>
+	<platform>Capcom CPS-2</platform>
+	<series>Puzz Loop</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1996</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Quiz</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>4-way</joystick>
+	<special_controls></special_controls>
+	<buttons>4</buttons>
+</misterarcadedescription>

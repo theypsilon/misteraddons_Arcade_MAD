@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>ddragonw</setname>
+	<name>Double Dragon (World set 1)</name>
+	<region>World</region>
+	<version>Set 1</version>
+	<alternative>Double Dragon</alternative>
+	<platform></platform>
+	<series>Double Dragon</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1987</year>
+	<manufacturer>Technos</manufacturer>
+	<category>Beat 'em Up</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>3</buttons>
+</misterarcadedescription>

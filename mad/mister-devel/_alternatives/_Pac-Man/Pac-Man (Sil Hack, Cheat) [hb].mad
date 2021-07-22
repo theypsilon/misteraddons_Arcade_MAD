@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>namcosil</setname>
+	<name>Pac-Man (Sil Hack, Cheat) [hb]</name>
+	<region></region>
+	<version>Sil Hack, Cheat</version>
+	<alternative>Pac-Man</alternative>
+	<platform></platform>
+	<series>Pac-Man</series>
+	<homebrew>yes</homebrew>
+	<bootleg>no</bootleg>
+	<year>1980</year>
+	<manufacturer>Namco</manufacturer>
+	<manufacturer>Midway</manufacturer>
+	<category>Maze</category>
+
+	<rotation>vertical (cw)</rotation>
+	<flip>yes</flip>
+	<resolution>15kHz</resolution>
+
+	<players>2 (alternating)</players>
+	<joystick>4-way</joystick>
+	<special_controls></special_controls>
+	<buttons>0</buttons>
+
+</misterarcadedescription>
