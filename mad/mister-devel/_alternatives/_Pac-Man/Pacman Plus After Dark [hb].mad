@@ -1,17 +1,17 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>xensad</setname>
-	<name>Xens Revenge After Dark [hb]</name>
+	<setname>pplusad</setname>
+	<name>Pacman Plus After Dark [hb]</name>
 	<region></region>
 	<version></version>
 	<alternative>Pac-Man</alternative>
 	<platform></platform>
-	<series></series>
+	<series>Pac-Man</series>
 	<homebrew>yes</homebrew>
 	<bootleg>no</bootleg>
 	<year>2000</year>
-	<manufacturer>Jeff Morris</manufacturer>
+	<manufacturer>[Bally Midway]</manufacturer>
 	<category>Maze</category>
 
 	<rotation>vertical (cw)</rotation>

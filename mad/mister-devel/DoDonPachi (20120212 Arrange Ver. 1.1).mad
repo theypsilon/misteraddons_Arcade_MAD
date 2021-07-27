@@ -14,13 +14,13 @@
 	<manufacturer>Hack (trap15)</manufacturer>
 	<category>Shooter</category>
 
-	<rotation></rotation>
-	<flip></flip>
-	<resolution></resolution>
+	<rotation>vertical (ccw)</rotation>
+	<flip>yes</flip>
+	<resolution>15kHz</resolution>
 
-	<players></players>
-	<joystick></joystick>
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
 	<special_controls></special_controls>
-	<buttons></buttons>
+	<buttons>3</buttons>
 
 </misterarcadedescription>

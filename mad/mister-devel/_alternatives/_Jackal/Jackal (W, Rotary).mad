@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>jackalr</setname>
+	<name>Jackal (W, Rotary)</name>
+	<region>World</region>
+	<version>Rotary</version>
+	<alternative>Jackal</alternative>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1986</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Shooter - Multidirectional</category>
+
+	<rotation>vertical (cw)</rotation>
+	<flip>yes</flip>
+	<resolution>15kHz</resolution>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls>rotary</special_controls>
+	<buttons>4</buttons>
+
+</misterarcadedescription>

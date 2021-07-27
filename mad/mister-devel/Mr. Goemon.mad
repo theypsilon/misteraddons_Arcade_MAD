@@ -8,19 +8,19 @@
 	<alternative></alternative>
 	<platform></platform>
 	<series></series>
-	<homebrew></homebrew>
-	<bootleg></bootleg>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
 	<year>1986</year>
 	<manufacturer>Konami</manufacturer>
 	<category>Platform</category>
 
-	<rotation></rotation>
+	<rotation>horizontal</rotation>
 	<flip></flip>
-	<resolution></resolution>
+	<resolution>15kHz</resolution>
 
-	<players></players>
-	<joystick></joystick>
+	<players>2 (alternating)</players>
+	<joystick>8-way</joystick>
 	<special_controls></special_controls>
-	<buttons></buttons>
+	<buttons>2</buttons>
 
 </misterarcadedescription>

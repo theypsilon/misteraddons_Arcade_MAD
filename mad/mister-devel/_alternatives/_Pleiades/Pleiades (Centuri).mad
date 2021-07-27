@@ -2,25 +2,25 @@
 <misterarcadedescription>
 
 	<setname>pleiadce</setname>
-	<name>Pleiads (Centuri)</name>
+	<name>Pleiades (Centuri)</name>
 	<region></region>
 	<version></version>
-	<alternative></alternative>
+	<alternative>Pleiades</alternative>
 	<platform></platform>
 	<series></series>
-	<homebrew></homebrew>
-	<bootleg></bootleg>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
 	<year>1981</year>
 	<manufacturer>Centuri</manufacturer>
 	<category>Shooter - Gallery</category>
 
-	<rotation></rotation>
-	<flip></flip>
-	<resolution></resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>yes</flip>
+	<resolution>15kHz</resolution>
 
-	<players></players>
-	<joystick></joystick>
+	<players>2 (alternating)</players>
+	<joystick>2-way (horizontal</joystick>
 	<special_controls></special_controls>
-	<buttons></buttons>
+	<buttons>1</buttons>
 
 </misterarcadedescription>

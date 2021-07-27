@@ -2,25 +2,25 @@
 <misterarcadedescription>
 
 	<setname>llander</setname>
-	<name>Lunar Lander (rev 2)</name>
+	<name>Lunar Lander (Rev 2)</name>
 	<region></region>
-	<version></version>
+	<version>Rev 2</version>
 	<alternative></alternative>
 	<platform></platform>
 	<series></series>
-	<homebrew></homebrew>
-	<bootleg></bootleg>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
 	<year>1979</year>
 	<manufacturer>Atari</manufacturer>
 	<category>Lander</category>
 
-	<rotation></rotation>
+	<rotation>horizontal</rotation>
 	<flip></flip>
-	<resolution></resolution>
+	<resolution>31kHz</resolution>
 
-	<players></players>
-	<joystick></joystick>
+	<players>1</players>
+	<joystick>2-way horizontal</joystick>
 	<special_controls></special_controls>
-	<buttons></buttons>
+	<buttons>1</buttons>
 
 </misterarcadedescription>

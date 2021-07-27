@@ -21,6 +21,6 @@
 	<players>2 (alternating)</players>
 	<joystick></joystick>
 	<special_controls>spinner</special_controls>
-	<buttons>0</buttons>
+	<buttons>1</buttons>
 
 </misterarcadedescription>

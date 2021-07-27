@@ -1,18 +1,17 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>galagamw</setname>
-	<name>Galaga (Midway, Set 1)</name>
+	<setname>gatsbee</setname>
+	<name>Gatsbee</name>
 	<region></region>
-	<version>Midway, Set 1</version>
-	<alternative></alternative>
+	<version></version>
+	<alternative>Galaga</alternative>
 	<platform></platform>
-	<series>Galaxian</series>
+	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1981</year>
-	<manufacturer>Namco</manufacturer>
-	<manufacturer>Midway</manufacturer>
+	<year>1984</year>
+	<manufacturer>Uchida</manufacturer>
 	<category>Shooter - Gallery</category>
 
 	<rotation>vertical (cw)</rotation>
@@ -20,7 +19,7 @@
 	<resolution>15kHz</resolution>
 
 	<players>2 (alternating)</players>
-	<joystick>2-way horizontal</joystick>
+	<joystick>8-way</joystick>
 	<special_controls></special_controls>
 	<buttons>1</buttons>
 

@@ -2,25 +2,25 @@
 <misterarcadedescription>
 
 	<setname>asteroid</setname>
-	<name>Asteroids (rev 4)</name>
+	<name>Asteroids (Rev 4)</name>
 	<region></region>
 	<version></version>
 	<alternative></alternative>
 	<platform></platform>
-	<series></series>
+	<series>Asteroids</series>
 	<homebrew></homebrew>
 	<bootleg></bootleg>
 	<year>1979</year>
 	<manufacturer>Atari</manufacturer>
 	<category>Shooter - Multidirectional</category>
 
-	<rotation></rotation>
+	<rotation>horizontal</rotation>
 	<flip></flip>
-	<resolution></resolution>
+	<resolution>31kHz</resolution>
 
-	<players></players>
-	<joystick></joystick>
+	<players>2 (alternating)</players>
+	<joystick>8-way</joystick>
 	<special_controls></special_controls>
-	<buttons></buttons>
+	<buttons>3</buttons>
 
 </misterarcadedescription>

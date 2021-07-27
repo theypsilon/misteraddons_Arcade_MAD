@@ -1,18 +1,18 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>chopliftu</setname>
-	<name>Choplifter (Unprotected)</name>
-	<region></region>
-	<version>Unprotected</version>
-	<alternative></alternative>
-	<platform>Sega System 1</platform>
+	<setname>kidnikiu</setname>
+	<name>Kid Niki - Radical Ninja (US)</name>
+	<region>USA</region>
+	<version></version>
+	<alternative>Kid Niki - Radical Ninja</alternative>
+	<platform>Irem M62</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1985</year>
-	<manufacturer>Sega</manufacturer>
-	<category>Shooter - Horizontal</category>
+	<year>1986</year>
+	<manufacturer>Irem</manufacturer>
+	<category>Platform</category>
 
 	<rotation>horizontal</rotation>
 	<flip></flip>

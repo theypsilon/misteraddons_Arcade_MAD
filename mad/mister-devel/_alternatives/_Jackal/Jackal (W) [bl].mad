@@ -1,24 +1,24 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>futurespy</setname>
-	<name>Future Spy</name>
-	<region></region>
+	<setname>jackalbl</setname>
+	<name>Jackal (W) [bl]</name>
+	<region>World</region>
 	<version></version>
-	<alternative></alternative>
+	<alternative>Jackal</alternative>
 	<platform></platform>
 	<series></series>
-	<homebrew></homebrew>
-	<bootleg></bootleg>
-	<year>1982</year>
-	<manufacturer>Sega/Gremlin</manufacturer>
-	<category>Shooter - Isometric</category>
+	<homebrew>no</homebrew>
+	<bootleg>yes</bootleg>
+	<year>1986</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Shooter - Multidirectional</category>
 
 	<rotation>vertical (cw)</rotation>
 	<flip>yes</flip>
 	<resolution>15kHz</resolution>
 
-	<players>2 (alternating)</players>
+	<players>2 (simultaneous)</players>
 	<joystick>8-way</joystick>
 	<special_controls></special_controls>
 	<buttons>2</buttons>

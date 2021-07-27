@@ -2,25 +2,25 @@
 <misterarcadedescription>
 
 	<setname>ckonga3</setname>
-	<name>Crazy Kong Part II -2 - HBMame</name>
+	<name>Crazy Kong Part II - 2 [hb]</name>
 	<region></region>
 	<version></version>
 	<alternative></alternative>
 	<platform></platform>
-	<series></series>
-	<homebrew></homebrew>
-	<bootleg></bootleg>
+	<series>Donkey Kong</series>
+	<homebrew>yes</homebrew>
+	<bootleg>no</bootleg>
 	<year>1981</year>
 	<manufacturer>bootleg</manufacturer>
 	<category>Platform - Climb</category>
 
-	<rotation></rotation>
-	<flip></flip>
-	<resolution></resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>no</flip>
+	<resolution>15kHz</resolution>
 
-	<players></players>
-	<joystick></joystick>
+	<players>2 (alternating)</players>
+	<joystick>4-way</joystick>
 	<special_controls></special_controls>
-	<buttons></buttons>
+	<buttons>1</buttons>
 
 </misterarcadedescription>

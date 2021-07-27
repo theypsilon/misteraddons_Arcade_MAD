@@ -15,8 +15,8 @@
 	<category>Run 'n' Gun - Vertical</category>
 
 	<rotation>vertical (ccw)</rotation>
-	<flip></flip>
-	<resolution>15 kHz</resolution>
+	<flip>no</flip>
+	<resolution>15kHz</resolution>
 
 	<players>2 (alternating)</players>
 	<joystick>8-way</joystick>

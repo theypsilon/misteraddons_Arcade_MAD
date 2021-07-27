@@ -8,9 +8,9 @@
 	<alternative></alternative>
 	<platform></platform>
 	<series>Pac-Man</series>
-	<homebrew>no</homebrew>
+	<homebrew>yes</homebrew>
 	<bootleg>no</bootleg>
-	<year>1980</year>
+	<year>1982</year>
 	<manufacturer>Namco</manufacturer>
 	<manufacturer>Midway</manufacturer>
 	<category>Maze</category>
