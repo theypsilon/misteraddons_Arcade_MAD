@@ -7,7 +7,7 @@
 	<version>GP3</version>
 	<alternative>Gaplus</alternative>
 	<platform></platform>
-	<series>Galaxian</series>
+	<series>Galaga</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1984</year>
@@ -19,7 +19,7 @@
 	<resolution>15kHz</resolution>
 
 	<players>2 (alternating)</players>
-	<joystick>8-way</joystick>
+	<joystick>2-way horizontal</joystick>
 	<special_controls></special_controls>
 	<buttons>1</buttons>
 

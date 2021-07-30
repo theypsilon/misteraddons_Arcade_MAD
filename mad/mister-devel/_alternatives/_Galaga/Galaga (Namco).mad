@@ -1,21 +1,21 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>galaga3c</setname>
-	<name>Galaga 3 (Set 4)</name>
+	<setname>galaga</setname>
+	<name>Galaga (Namco)</name>
 	<region></region>
-	<version>Set 4</version>
-	<alternative>Gaplus</alternative>
+	<version>Namco</version>
+	<alternative>Galaga</alternative>
 	<platform></platform>
 	<series>Galaga</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1984</year>
+	<year>1981</year>
 	<manufacturer>Namco</manufacturer>
 	<category>Shooter - Gallery</category>
 
 	<rotation>vertical (cw)</rotation>
-	<flip>no</flip>
+	<flip>yes</flip>
 	<resolution>15kHz</resolution>
 
 	<players>2 (alternating)</players>
