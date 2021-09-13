@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>sf2mix</setname>
+	<name>Street Fighter 2 Mix (Ver 0.98c 201214)</name>
+	<region></region>
+	<version>v0.98c</version>
+	<alternative>Street Fighter II</alternative>
+	<platform>Capcom CPS-1</platform>
+	<series>Street Fighter</series>
+	<homebrew>yes</homebrew>
+	<bootleg>no</bootleg>
+	<year>2020</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Fighting</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>6</buttons>
+</misterarcadedescription>

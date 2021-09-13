@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>aliensyn3</setname>
+	<name>Alien Syndrome (Set 3, System 16B, FD1089A 317-0033).mra</name>
+	<region>World</region>
+	<version>Set 3</version>
+	<alternative>Alien Syndrome</alternative>
+	<platform>Sega System 16B</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1987</year>
+	<manufacturer>Sega</manufacturer>
+	<category>Shooter - Multidirectional</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>1</buttons>
+</misterarcadedescription>

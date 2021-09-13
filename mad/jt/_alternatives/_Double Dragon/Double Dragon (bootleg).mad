@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>ddragonb2</setname>
+	<name>Double Dragon (bootleg)</name>
+	<region></region>
+	<version></version>
+	<alternative>Double Dragon</alternative>
+	<platform></platform>
+	<series>Double Dragon</series>
+	<homebrew>no</homebrew>
+	<bootleg>yes</bootleg>
+	<year>1987</year>
+	<manufacturer>Technos</manufacturer>
+	<category>Beat 'em Up</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>3</buttons>
+</misterarcadedescription>

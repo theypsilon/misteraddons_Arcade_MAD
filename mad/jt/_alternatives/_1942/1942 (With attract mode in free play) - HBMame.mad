@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>1942fpa</setname>
+	<name>1942 (With attract mode in free play) - HBMame</name>
+	<region></region>
+	<version>Attract Mode</version>
+	<alternative>1942</alternative>
+	<platform>Capcom CPS-0</platform>
+	<series>19XX</series>
+	<homebrew>yes</homebrew>
+	<bootleg>no</bootleg>
+	<year>1984</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Shooter - Vertical</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (ccw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>2</buttons>
+</misterarcadedescription>

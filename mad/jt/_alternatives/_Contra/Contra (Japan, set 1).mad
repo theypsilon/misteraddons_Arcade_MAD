@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>contraj</setname>
+	<name>Contra (Japan, set 1)</name>
+	<region>Japan</region>
+	<version>Set 1</version>
+	<alternative>Contra</alternative>
+	<platform></platform>
+	<series>Contra</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1987</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Run 'n' Gun - Horizontal</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>2</buttons>
+</misterarcadedescription>
