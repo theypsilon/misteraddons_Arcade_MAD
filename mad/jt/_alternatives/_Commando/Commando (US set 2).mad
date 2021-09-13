@@ -1,16 +1,16 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>comdelux</setname>
+	<setname>commandou2</setname>
 	<name>Commando (US set 2)</name>
 	<region>USA</region>
-	<version></version>
+	<version>Set 2</version>
 	<alternative>Commando</alternative>
 	<platform>Capcom CPS-0</platform>
 	<series>Commando</series>
-	<homebrew>yes</homebrew>
+	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>2002</year>
+	<year>1985</year>
 	<manufacturer>Capcom</manufacturer>
 	<category>Run 'n' Gun - Vertical</category>
 

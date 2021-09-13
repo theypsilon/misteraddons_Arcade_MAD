@@ -3,16 +3,16 @@
 
 	<setname>ddonpach</setname>
 	<name>DoDonPachi</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative></alternative>
-	<platform></platform>
-	<series></series>
-	<homebrew></homebrew>
-	<bootleg></bootleg>
+	<platform>Cave 68000</platform>
+	<series>DonPachi</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
 	<year>1997</year>
 	<manufacturer>CAVE</manufacturer>
-	<category>Shooter</category>
+	<category>Shooter - Vertical</category>
 
 	<rotation>vertical (ccw)</rotation>
 	<flip>yes</flip>

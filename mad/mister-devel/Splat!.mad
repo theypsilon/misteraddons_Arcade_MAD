@@ -20,7 +20,7 @@
 
 	<players>2 (alternating)</players>
 	<joystick>8-way</joystick>
-	<special_controls></special_controls>
-	<buttons></buttons>
+	<special_controls>twin stick</special_controls>
+	<buttons>4</buttons>
 
 </misterarcadedescription>

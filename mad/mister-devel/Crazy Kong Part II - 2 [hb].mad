@@ -11,7 +11,7 @@
 	<homebrew>yes</homebrew>
 	<bootleg>no</bootleg>
 	<year>1981</year>
-	<manufacturer>bootleg</manufacturer>
+	<manufacturer></manufacturer>
 	<category>Platform - Climb</category>
 
 	<rotation>vertical (cw)</rotation>

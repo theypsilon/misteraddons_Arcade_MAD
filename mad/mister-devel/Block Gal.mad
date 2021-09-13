@@ -20,7 +20,7 @@
 
 	<players>2 (alternating)</players>
 	<joystick>2-way horizontal</joystick>
-	<special_controls>dial</special_controls>
+	<special_controls>spinner</special_controls>
 	<buttons>0</buttons>
 
 </misterarcadedescription>

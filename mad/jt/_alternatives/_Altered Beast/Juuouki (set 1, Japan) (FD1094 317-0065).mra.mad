@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>altbeastj1</setname>
+	<name>Juuouki (set 1, Japan) (FD1094 317-0065).mra</name>
+	<region>Japan</region>
+	<version>Set 1</version>
+	<alternative>Altered Beast</alternative>
+	<platform>Sega System 16B</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1988</year>
+	<manufacturer>Sega</manufacturer>
+	<category>Platform</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>3</buttons>
+</misterarcadedescription>

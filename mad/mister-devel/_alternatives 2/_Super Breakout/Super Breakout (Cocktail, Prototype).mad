@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>sbrkoutct</setname>
+	<name>Super Breakout (Cocktail, Prototype)</name>
+	<region></region>
+	<version>Cocktail, Prototype</version>
+	<alternative>Super Breakout</alternative>
+	<platform></platform>
+	<series>Breakout</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1978</year>
+	<manufacturer>Atari</manufacturer>
+	<category>Ball and Paddle</category>
+
+	<rotation>vertical (ccw)</rotation>
+	<flip>no</flip>
+	<resolution>15kHz</resolution>
+
+	<players>1</players>
+	<joystick></joystick>
+	<special_controls>spinner</special_controls>
+	<buttons>1</buttons>
+
+</misterarcadedescription>

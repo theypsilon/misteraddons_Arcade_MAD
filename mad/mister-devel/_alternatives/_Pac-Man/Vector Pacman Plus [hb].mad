@@ -10,8 +10,9 @@
 	<series>Pac-Man</series>
 	<homebrew>yes</homebrew>
 	<bootleg>no</bootleg>
-	<year>2000</year>
-	<manufacturer>[Bally Midway]</manufacturer>
+	<year>1980</year>
+	<manufacturer>Bally</manufacturer>
+	<manufacturer>Midway</manufacturer>
 	<category>Maze</category>
 
 	<rotation>vertical (cw)</rotation>

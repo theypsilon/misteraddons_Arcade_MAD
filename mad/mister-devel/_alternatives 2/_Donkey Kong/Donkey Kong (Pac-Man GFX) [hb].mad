@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>dkongpac</setname>
+	<name>Donkey Kong (Pac-Man GFX) [hb]</name>
+	<region></region>
+	<version>Pac-Man GFX</version>
+	<alternative>Donkey Kong</alternative>
+	<platform></platform>
+	<series>Donkey Kong</series>
+	<homebrew>yes</homebrew>
+	<bootleg>no</bootleg>
+	<year>1981</year>
+	<manufacturer>Nintendo</manufacturer>
+	<category>Platform - Climb</category>
+
+	<rotation>vertical (cw)</rotation>
+	<flip>no</flip>
+	<resolution>15kHz</resolution>
+
+	<players>2 (alternating)</players>
+	<joystick>4-way</joystick>
+	<special_controls></special_controls>
+	<buttons>1</buttons>
+
+</misterarcadedescription>

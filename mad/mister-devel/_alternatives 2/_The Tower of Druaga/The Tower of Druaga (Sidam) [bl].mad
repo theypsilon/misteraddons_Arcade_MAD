@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>todruagas</setname>
+	<name>The Tower of Druaga (Sidam) [bl]</name>
+	<region></region>
+	<version>Sidam</version>
+	<alternative>The Tower of Druaga</alternative>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>yes</bootleg>
+	<year>1984</year>
+	<manufacturer>Namco</manufacturer>
+	<category>Maze</category>
+
+	<rotation>vertical (cw)</rotation>
+	<flip>no</flip>
+	<resolution>15kHz</resolution>
+
+	<players>2 (alternating)</players>
+	<joystick>4-way</joystick>
+	<special_controls></special_controls>
+	<buttons>1</buttons>
+
+</misterarcadedescription>

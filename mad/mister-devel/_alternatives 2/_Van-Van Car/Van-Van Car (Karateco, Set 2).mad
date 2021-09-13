@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>vanvanb</setname>
+	<name>Van-Van Car (Karateco, Set 2)</name>
+	<region></region>
+	<version>Karateco, Set 2</version>
+	<alternative>Van-Van Car</alternative>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1983</year>
+	<manufacturer>Sanritsu</manufacturer>
+	<manufacturer>Karateco</manufacturer>
+	<category>Maze</category>
+
+	<rotation>vertical (ccw)</rotation>
+	<flip>yes</flip>
+	<resolution>15kHz</resolution>
+
+	<players>2 (alternating)</players>
+	<joystick>4-way</joystick>
+	<special_controls></special_controls>
+	<buttons>1</buttons>
+
+</misterarcadedescription>

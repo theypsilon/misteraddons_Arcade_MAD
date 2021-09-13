@@ -1,16 +1,16 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname></setname>
+	<setname>mrdonight</setname>
 	<name>Mr. Do Nightmare</name>
 	<region></region>
 	<version></version>
 	<alternative></alternative>
 	<platform></platform>
 	<series>Mr. Do</series>
-	<homebrew>no</homebrew>
+	<homebrew>yes</homebrew>
 	<bootleg>no</bootleg>
-	<year>2004</year>
+	<year>1982</year>
 	<manufacturer>Crazy Ivan</manufacturer>
 	<category>Maze</category>
 

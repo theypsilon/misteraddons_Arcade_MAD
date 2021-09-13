@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>galaxkyo</setname>
+	<name>Galaxian (Kyoko) [hb]</name>
+	<region></region>
+	<version>Kyoko</version>
+	<alternative>Galaxian</alternative>
+	<platform></platform>
+	<series>Galaxian</series>
+	<homebrew>yes</homebrew>
+	<bootleg>no</bootleg>
+	<year>1979</year>
+	<manufacturer>Namco</manufacturer>
+	<manufacturer>Kyoko</manufacturer>
+	<category>Shooter - Gallery</category>
+
+	<rotation>vertical (cw)</rotation>
+	<flip>yes</flip>
+	<resolution>15kHz</resolution>
+
+	<players>2 (alternating)</players>
+	<joystick>2-way horizontal</joystick>
+	<special_controls></special_controls>
+	<buttons>1</buttons>
+
+</misterarcadedescription>
