@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>mshvsfa</setname>
+	<name_nice>Marvel Super Heroes Vs. Street Fighter (AS, 970625)</name_nice>
+	<name>Marvel Super Heroes Vs. Street Fighter (Asia 970625)</name>
+	<region>Asia</region>
+	<version>970625</version>
+	<alternative>Marvel Super Heroes Vs. Street Fighter</alternative>
+	<platform>Capcom CPS-2</platform>
+	<series>Marvel</series>
+	<series>Capcom</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1997</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Fighting</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>6</buttons>
+</misterarcadedescription>

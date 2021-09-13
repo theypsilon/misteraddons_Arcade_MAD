@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>pfghtj</setname>
+	<name_nice>Pocket Fighter (JP, 970904)</name_nice>
+	<name>Pocket Fighter (Japan 970904)</name>
+	<region>Japan</region>
+	<version>970904</version>
+	<alternative>Pocket Fighter</alternative>
+	<platform>Capcom CPS-2</platform>
+	<series>Street Fighter</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1997</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Fighting</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>3</buttons>
+</misterarcadedescription>

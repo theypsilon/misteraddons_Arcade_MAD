@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>progear</setname>
+	<name_nice>Progear (US, 010117, Second Loop) [hb]</name_nice>
+	<name>Progear (USA 010117) [Second Loop]</name>
+	<region>USA</region>
+	<version>010117, Second Loop</version>
+	<alternative>Progear</alternative>
+	<platform>Capcom CPS-2</platform>
+	<series></series>
+	<homebrew>yes</homebrew>
+	<bootleg>no</bootleg>
+	<year>2001</year>
+	<manufacturer>Cave</manufacturer>
+	<manufacturer>Capcom</manufacturer>
+	<category>Shooter - Horizontal</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>3</buttons>
+</misterarcadedescription>

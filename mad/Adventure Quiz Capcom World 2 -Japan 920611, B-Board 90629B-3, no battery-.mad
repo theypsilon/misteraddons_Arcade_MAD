@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>cworld2ja</setname>
+	<name_nice>Adventure Quiz Capcom 2 (JP, 920611, B-Board 90629B-3, no battery)</name_nice>
+	<name>Adventure Quiz Capcom World 2 -Japan 920611, B-Board 90629B-3, no battery-</name>
+	<region>Japan</region>
+	<version>920611, B-Board 90629B-3, no battery</version>
+	<alternative>Adventure Quiz Capcom World 2</alternative>
+	<platform>Capcom CPS-1</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1992</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Quiz</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick></joystick>
+	<special_controls></special_controls>
+	<buttons>4</buttons>
+</misterarcadedescription>

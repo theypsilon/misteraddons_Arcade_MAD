@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>progeara</setname>
+	<name_nice>Progear (AS, 010117)</name_nice>
+	<name>Progear (Asia 010117)</name>
+	<region>Asia</region>
+	<version>010117</version>
+	<alternative>Progear</alternative>
+	<platform>Capcom CPS-2</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>2001</year>
+	<manufacturer>Cave</manufacturer>
+	<manufacturer>Capcom</manufacturer>
+	<category>Shooter - Horizontal</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>3</buttons>
+</misterarcadedescription>

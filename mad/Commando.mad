@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>commando</setname>
+	<name_nice>Commando (W)</name_nice>
+	<name>Commando</name>
+	<region>World</region>
+	<version></version>
+	<alternative></alternative>
+	<platform>Capcom CPS-0</platform>
+	<series>Commando</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1985</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Run 'n' Gun - Vertical</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (ccw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (alternating)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>2</buttons>
+</misterarcadedescription>

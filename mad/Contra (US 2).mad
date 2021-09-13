@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>contra1</setname>
+	<name_nice>Contra (US, Set 2)</name_nice>
+	<name>Contra (US 2)</name>
+	<region>USA</region>
+	<version>Set 2</version>
+	<alternative>Contra</alternative>
+	<platform></platform>
+	<series>Contra</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1987</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Run 'n' Gun - Horizontal</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>2</buttons>
+</misterarcadedescription>

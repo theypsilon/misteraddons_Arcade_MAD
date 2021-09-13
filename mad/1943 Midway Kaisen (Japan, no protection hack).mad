@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>1943jah</setname>
+	<name_nice>1943- Midway Kaisen (no Protection) [hb]</name_nice>
+	<name>1943 Midway Kaisen (Japan, no protection hack)</name>
+	<region></region>
+	<version>no Protection</version>
+	<alternative>1943- The Battle of Midway</alternative>
+	<platform>Capcom CPS-0</platform>
+	<series>19XX</series>
+	<homebrew>yes</homebrew>
+	<bootleg>no</bootleg>
+	<year>1987</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Shooter - Vertical</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>3</buttons>
+</misterarcadedescription>

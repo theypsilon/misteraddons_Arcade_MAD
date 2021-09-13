@@ -34,12 +34,12 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 for _, game in tqdm.tqdm(df.iterrows(), desc="Generating mads", total=df.shape[0]):
 
     # Alternate mads are created in subfolders
-    if len(game.alternative) > 0:
-        alternate_folder = os.path.join(OUTPUT_DIR, "_alternatives", "_"+game.alternative.replace("&amp;", "&"))
-        os.makedirs(alternate_folder, exist_ok=True)
-        mad_filename = os.path.join(alternate_folder, game[MAD_NAME_COLUMN] + ".mad")
-    else:
-        mad_filename = os.path.join(OUTPUT_DIR, game[MAD_NAME_COLUMN] + ".mad")
+    # if len(game.alternative) > 0:
+    #     alternate_folder = os.path.join(OUTPUT_DIR, "_alternatives", "_"+game.alternative.replace("&amp;", "&"))
+    #     os.makedirs(alternate_folder, exist_ok=True)
+    #     mad_filename = os.path.join(alternate_folder, game[MAD_NAME_COLUMN] + ".mad")
+    # else:
+    mad_filename = os.path.join(OUTPUT_DIR, game[MAD_NAME_COLUMN] + ".mad")
 
     with open(mad_filename.replace("&amp;", "&"), 'w') as f:  # Write in file as utf-8
         f.write("<?xml version=\"1.0\" ?>\n")

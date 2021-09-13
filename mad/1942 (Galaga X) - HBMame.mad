@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>galagax</setname>
+	<name_nice>1942 (Galaxy X) [hb]</name_nice>
+	<name>1942 (Galaga X) - HBMame</name>
+	<region></region>
+	<version>Galaxy X</version>
+	<alternative>1942</alternative>
+	<platform>Capcom CPS-0</platform>
+	<series>19XX</series>
+	<homebrew>yes</homebrew>
+	<bootleg>no</bootleg>
+	<year>1984</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Shooter - Vertical</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (ccw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>2</buttons>
+</misterarcadedescription>

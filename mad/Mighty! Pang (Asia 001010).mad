@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>mpanga</setname>
+	<name_nice>Mighty! Pang (AS, 001010)</name_nice>
+	<name>Mighty! Pang (Asia 001010)</name>
+	<region>Asia</region>
+	<version>001010</version>
+	<alternative>Mighty! Pang</alternative>
+	<platform>Capcom CPS-2</platform>
+	<series>Pang!</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>2000</year>
+	<manufacturer>Mitchell</manufacturer>
+	<manufacturer>Capcom</manufacturer>
+	<category>Puzzle</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>1</buttons>
+</misterarcadedescription>
