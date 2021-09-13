@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>tetris2</setname>
+	<name_nice>Tetris (JP, Set 2)</name_nice>
+	<name>Tetris (set 2, Japan, System 16B) (FD1094 317-0092).mra</name>
+	<region>Japan</region>
+	<version>Set 2</version>
+	<alternative>Tetris</alternative>
+	<platform>Sega System 16A</platform>
+	<series>Tetris</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1988</year>
+	<manufacturer>Sega</manufacturer>
+	<category>Puzzle</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>3</buttons>
+</misterarcadedescription>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>xmvsfar1</setname>
+	<name_nice>X-Men Vs. Street Fighter (AS, 961004)</name_nice>
+	<name>X-Men Vs. Street Fighter (Asia 961004)</name>
+	<region>Asia</region>
+	<version>961004</version>
+	<alternative>X-Men Vs. Street Fighter</alternative>
+	<platform>Capcom CPS-2</platform>
+	<series>Marvel</series>
+	<series>Capcom</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1996</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Fighting</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>6</buttons>
+</misterarcadedescription>

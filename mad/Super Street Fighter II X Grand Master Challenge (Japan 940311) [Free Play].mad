@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>ssf2xj</setname>
+	<name_nice>Super Street Fighter II X- Grand Master Challenge (JP, 940311)</name_nice>
+	<name>Super Street Fighter II X Grand Master Challenge (Japan 940311) [Free Play]</name>
+	<region>Japan</region>
+	<version>940311</version>
+	<alternative></alternative>
+	<platform>Capcom CPS-2</platform>
+	<series>Street Fighter</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1994</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Fighting</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>6</buttons>
+</misterarcadedescription>
