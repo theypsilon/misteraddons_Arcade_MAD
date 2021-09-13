@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>guwange</setname>
+	<name>Guwange</name>
+	<region>World</region>
+	<version></version>
+	<alternative></alternative>
+	<platform>Cave 68000</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1999</year>
+	<manufacturer>CAVE</manufacturer>
+	<category>Shooter - Vertical</category>
+
+	<rotation>vertical (ccw)</rotation>
+	<flip>yes</flip>
+	<resolution>15kHz</resolution>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>3</buttons>
+
+</misterarcadedescription>
