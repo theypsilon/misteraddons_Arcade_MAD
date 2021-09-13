@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>devilfsg</setname>
+	<name>Devil Fish (Galaxian Hardware)</name>
+	<region></region>
+	<version>Galaxian Hardware</version>
+	<alternative></alternative>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1984</year>
+	<manufacturer>Vision</manufacturer>
+	<manufacturer>Artic</manufacturer>
+	<category>Maze</category>
+
+	<rotation>vertical (ccw)</rotation>
+	<flip>yes</flip>
+	<resolution>15kHz</resolution>
+
+	<players>2 (alternating)</players>
+	<joystick>4-way</joystick>
+	<special_controls></special_controls>
+	<buttons>1</buttons>
+
+</misterarcadedescription>

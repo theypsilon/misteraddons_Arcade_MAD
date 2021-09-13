@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>topgunbl</setname>
+	<name>Top Gunner (US) [bl]</name>
+	<region>USA</region>
+	<version></version>
+	<alternative>Jackal</alternative>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>yes</bootleg>
+	<year>1986</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Shooter - Multidirectional</category>
+
+	<rotation>vertical (cw)</rotation>
+	<flip>yes</flip>
+	<resolution>15kHz</resolution>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>2</buttons>
+
+</misterarcadedescription>

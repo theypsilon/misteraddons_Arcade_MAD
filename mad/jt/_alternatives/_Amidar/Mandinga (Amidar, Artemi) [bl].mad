@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>mandinga</setname>
+	<name>Mandinga (Amidar, Artemi) [bl]</name>
+	<region></region>
+	<version>Amidar, Artemi</version>
+	<alternative>Amidar</alternative>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>yes</bootleg>
+	<year>1982</year>
+	<manufacturer>Konami</manufacturer>
+	<manufacturer>Artemi</manufacturer>
+	<category>Maze</category>
+
+	<rotation>vertical (cw)</rotation>
+	<flip>no</flip>
+	<resolution>15kHz</resolution>
+
+	<players>2 (alternating)</players>
+	<joystick>4-way</joystick>
+	<special_controls></special_controls>
+	<buttons>1</buttons>
+
+</misterarcadedescription>

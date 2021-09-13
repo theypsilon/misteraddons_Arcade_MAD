@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>phoenixc3</setname>
+	<name>Phoenix (Irecsa - G.G.I Corp, Set 3)</name>
+	<region></region>
+	<version>Irecsa - G.G.I Corp, Set 3</version>
+	<alternative>Phoenix</alternative>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1981</year>
+	<manufacturer>Amstar</manufacturer>
+	<category>Shooter - Gallery</category>
+
+	<rotation>vertical (cw)</rotation>
+	<flip>no</flip>
+	<resolution>15kHz</resolution>
+
+	<players>2 (alternating)</players>
+	<joystick>2-way horizontal</joystick>
+	<special_controls></special_controls>
+	<buttons>2</buttons>
+
+</misterarcadedescription>
