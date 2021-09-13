@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>ddtodhr1</setname>
-	<name>Dungeons &amp; Dragons Tower of Doom (Hispanic 940125)</name>
-	<region>Hispanic</region>
-	<version>940125</version>
-	<alternative>Dungeons & Dragons- Tower of Doom</alternative>
+	<setname>ddtodjr1</setname>
+	<name>Dungeons &amp; Dragons Tower of Doom (Japan 940125)</name>
+	<region>Japan</region>
+	<version>940412</version>
+	<alternative>Dungeons &amp; Dragons- Tower of Doom</alternative>
 	<platform>Capcom CPS-2</platform>
 	<series>Dungeons &amp; Dragons</series>
 	<homebrew>no</homebrew>

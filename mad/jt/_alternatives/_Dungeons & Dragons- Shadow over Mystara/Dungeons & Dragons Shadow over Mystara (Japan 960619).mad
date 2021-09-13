@@ -1,16 +1,16 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>ddtodu</setname>
-	<name>Dungeons &amp; Dragons Tower of Doom (USA 940125)</name>
-	<region>USA</region>
-	<version>940125</version>
-	<alternative>Dungeons & Dragons- Tower of Doom</alternative>
+	<setname>ddsomj</setname>
+	<name>Dungeons &amp; Dragons Shadow over Mystara (Japan 960619)</name>
+	<region>Japan</region>
+	<version>960619</version>
+	<alternative>Dungeons &amp; Dragons- Shadow over Mystara</alternative>
 	<platform>Capcom CPS-2</platform>
 	<series>Dungeons &amp; Dragons</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1993</year>
+	<year>1996</year>
 	<manufacturer>Capcom</manufacturer>
 	<category>Beat 'em Up</category>
 
