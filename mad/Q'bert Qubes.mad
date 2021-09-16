@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>qbertqub</setname>
+	<name>Q'bert Qubes</name>
+	<region></region>
+	<version></version>
+	<alternative></alternative>
+	<platform></platform>
+	<series>Q'bert</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1982</year>
+	<manufacturer>Gottlieb</manufacturer>
+	<category>Platform - Climb</category>
+
+	<rotation></rotation>
+	<flip></flip>
+	<resolution>15kHz</resolution>
+
+	<players>2 (alternating)</players>
+	<joystick>4-way diagonal</joystick>
+	<special_controls></special_controls>
+	<buttons>0</buttons>
+
+</misterarcadedescription>

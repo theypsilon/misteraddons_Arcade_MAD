@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>xmcotaj2</setname>
+	<name>X-Men- Children of the Atom (JP, 941219, Unlocked)</name>
+	<region>Japan</region>
+	<version>941219, Unlocked</version>
+	<alternative>X-Men- Children of the Atom</alternative>
+	<platform>Capcom CPS-2</platform>
+	<series>X-Men</series>
+	<series>Marvel</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1994</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Fighting</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>6</buttons>
+</misterarcadedescription>

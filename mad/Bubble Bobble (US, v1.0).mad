@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>bublboblr1</setname>
+	<name>Bubble Bobble (US, v1.0)</name>
+	<region>USA</region>
+	<version>v1.0</version>
+	<alternative>Bubble Bobble</alternative>
+	<platform></platform>
+	<series>Bubble Bobble</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1986</year>
+	<manufacturer>Taito</manufacturer>
+	<category>Puzzle - Platform</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>2-way horizontal</joystick>
+	<special_controls></special_controls>
+	<buttons>2</buttons>
+</misterarcadedescription>

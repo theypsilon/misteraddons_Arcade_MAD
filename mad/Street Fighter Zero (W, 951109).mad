@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>sfzb</setname>
+	<name>Street Fighter Zero (W, 951109)</name>
+	<region>World</region>
+	<version>951109</version>
+	<alternative>Street Fighter Zero</alternative>
+	<platform>Capcom CPS-2</platform>
+	<series>Street Fighter</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1995</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Fighting</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>6</buttons>
+</misterarcadedescription>

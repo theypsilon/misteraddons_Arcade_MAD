@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>punisherh</setname>
+	<name>The Punisher (HS, 930422)</name>
+	<region>Hispanic</region>
+	<version>930422</version>
+	<alternative>The Punisher</alternative>
+	<platform>Capcom CPS-1.5</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1993</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Beat 'em Up</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>2</buttons>
+</misterarcadedescription>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>1943h</setname>
+	<name>1943- The Battle of Midway [bl]</name>
+	<region></region>
+	<version></version>
+	<alternative>1943- The Battle of Midway</alternative>
+	<platform>Capcom CPS-0</platform>
+	<series>19XX</series>
+	<homebrew>no</homebrew>
+	<bootleg>yes</bootleg>
+	<year>1987</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Shooter - Vertical</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>3</buttons>
+</misterarcadedescription>

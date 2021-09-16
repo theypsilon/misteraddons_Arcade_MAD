@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>mercsu</setname>
+	<name>Mercs (US, 900608)</name>
+	<region>USA</region>
+	<version>900608</version>
+	<alternative>Mercs</alternative>
+	<platform>Capcom CPS-1</platform>
+	<series>Commando</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1990</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Run 'n' Gun - Vertical</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (ccw)</rotation>
+	<flip>yes</flip>
+
+	<players>3</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>2</buttons>
+</misterarcadedescription>

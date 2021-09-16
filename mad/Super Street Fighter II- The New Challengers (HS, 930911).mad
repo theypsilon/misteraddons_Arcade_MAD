@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>ssf2h</setname>
+	<name>Super Street Fighter II- The New Challengers (HS, 930911)</name>
+	<region>Hispanic</region>
+	<version>930911</version>
+	<alternative>Super Street Fighter II- The New Challengers</alternative>
+	<platform>Capcom CPS-2</platform>
+	<series>Street Fighter</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1993</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Fighting</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>6</buttons>
+</misterarcadedescription>

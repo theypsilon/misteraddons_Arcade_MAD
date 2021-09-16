@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>punisherbz</setname>
+	<name>Biaofeng Zhanjing (The Punisher, CPS1, Chinese) [bl]</name>
+	<region></region>
+	<version>The Punisher, CPS1, Chinese</version>
+	<alternative>The Punisher</alternative>
+	<platform>Capcom CPS-1.5</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>yes</bootleg>
+	<year>1993</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Beat 'em Up</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>2</buttons>
+</misterarcadedescription>

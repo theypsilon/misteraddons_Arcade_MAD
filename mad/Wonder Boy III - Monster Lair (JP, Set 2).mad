@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>wb32</setname>
+	<name>Wonder Boy III - Monster Lair (JP, Set 2)</name>
+	<region>Japan</region>
+	<version>Set 2</version>
+	<alternative>Wonder Boy III</alternative>
+	<platform>Sega System 16B</platform>
+	<series>Wonder Boy</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1988</year>
+	<manufacturer>Sega</manufacturer>
+	<category>Platform</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>2</buttons>
+</misterarcadedescription>

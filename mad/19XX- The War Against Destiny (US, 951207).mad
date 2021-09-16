@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>19xxu</setname>
+	<name>19XX- The War Against Destiny (US, 951207)</name>
+	<region>USA</region>
+	<version>951207</version>
+	<alternative>19XX- The War Against Destiny</alternative>
+	<platform>Capcom CPS-2</platform>
+	<series>19XX</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1996</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Shooter - Vertical</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>2</buttons>
+</misterarcadedescription>
