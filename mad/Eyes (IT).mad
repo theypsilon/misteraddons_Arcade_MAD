@@ -5,7 +5,8 @@
 	<name>Eyes (IT)</name>
 	<region>Italy</region>
 	<version></version>
-	<alternative>Eyes</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Eyes</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

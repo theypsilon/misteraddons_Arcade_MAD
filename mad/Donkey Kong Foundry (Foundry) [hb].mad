@@ -5,7 +5,8 @@
 	<name>Donkey Kong Foundry (Foundry) [hb]</name>
 	<region></region>
 	<version>Foundry</version>
-	<alternative>Donkey Kong</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Donkey Kong</parent_title>
 	<platform></platform>
 	<series>Donkey Kong</series>
 	<homebrew>yes</homebrew>

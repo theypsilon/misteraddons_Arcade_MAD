@@ -5,7 +5,8 @@
 	<name>Pleiades (Set 2) [bl]</name>
 	<region></region>
 	<version>Set 2</version>
-	<alternative>Pleiades</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Pleiades</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

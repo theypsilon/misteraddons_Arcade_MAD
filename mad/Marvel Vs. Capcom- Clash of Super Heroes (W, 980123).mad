@@ -3,9 +3,11 @@
 
 	<setname>mvscb</setname>
 	<name>Marvel Vs. Capcom- Clash of Super Heroes (W, 980123)</name>
+	<name_notnice>Marvel Vs. Capcom Clash of Super Heroes (Brazil 980123)</name_notnice>
 	<region>World</region>
 	<version>980123</version>
-	<alternative>Marvel Vs. Capcom- Clash of Super Heroes</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Marvel Vs. Capcom- Clash of Super Heroes</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Marvel</series>
 	<series>Capcom</series>

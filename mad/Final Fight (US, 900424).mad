@@ -3,9 +3,11 @@
 
 	<setname>ffightub</setname>
 	<name>Final Fight (US, 900424)</name>
+	<name_notnice>Final Fight -USA 900424-</name_notnice>
 	<region>USA</region>
 	<version>900424</version>
-	<alternative>Final Fight</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Final Fight</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Final Fight</series>
 	<homebrew>no</homebrew>

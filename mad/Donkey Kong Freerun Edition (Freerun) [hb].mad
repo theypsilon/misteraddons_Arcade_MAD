@@ -5,7 +5,8 @@
 	<name>Donkey Kong Freerun Edition (Freerun) [hb]</name>
 	<region></region>
 	<version>Freerun</version>
-	<alternative>Donkey Kong</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Donkey Kong</parent_title>
 	<platform></platform>
 	<series>Donkey Kong</series>
 	<homebrew>yes</homebrew>

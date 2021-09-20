@@ -3,9 +3,11 @@
 
 	<setname>sfzj</setname>
 	<name>Street Fighter Zero (JP, 950727, Unlocked)</name>
+	<name_notnice>Street Fighter Zero (Japan 950727) [Unlocked]</name_notnice>
 	<region>Japan</region>
 	<version>950727, Unlocked</version>
-	<alternative>Street Fighter Zero</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Street Fighter Zero</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

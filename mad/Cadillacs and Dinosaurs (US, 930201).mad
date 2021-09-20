@@ -3,9 +3,11 @@
 
 	<setname>dinou</setname>
 	<name>Cadillacs and Dinosaurs (US, 930201)</name>
+	<name_notnice>Cadillacs and Dinosaurs (USA 930201)</name_notnice>
 	<region>USA</region>
 	<version>930201</version>
-	<alternative>Cadillacs and Dinosaurs</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Cadillacs and Dinosaurs</parent_title>
 	<platform>Capcom CPS-1.5</platform>
 	<series></series>
 	<homebrew>no</homebrew>

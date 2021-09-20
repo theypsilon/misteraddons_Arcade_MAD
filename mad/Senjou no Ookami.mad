@@ -3,9 +3,11 @@
 
 	<setname>commandoj</setname>
 	<name>Senjou no Ookami</name>
+	<name_notnice>Senjou no Ookami</name_notnice>
 	<region></region>
 	<version></version>
-	<alternative>Commando</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Commando</parent_title>
 	<platform>Capcom CPS-0</platform>
 	<series>Commando</series>
 	<homebrew>no</homebrew>

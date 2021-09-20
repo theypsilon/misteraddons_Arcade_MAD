@@ -3,9 +3,11 @@
 
 	<setname>qadjr</setname>
 	<name>Quiz &amp; Dragons- Capcom Quiz Game (JP, Resale, 940921)</name>
+	<name_notnice>Quiz &amp; Dragons- Capcom Quiz Game -Japan Resale Ver. 940921-</name_notnice>
 	<region>Japan</region>
 	<version>Resale, 940921</version>
-	<alternative>Quiz &amp; Dragons</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Quiz &amp; Dragons</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series></series>
 	<homebrew>no</homebrew>

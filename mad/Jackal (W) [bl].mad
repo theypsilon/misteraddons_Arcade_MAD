@@ -5,7 +5,8 @@
 	<name>Jackal (W) [bl]</name>
 	<region>World</region>
 	<version></version>
-	<alternative>Jackal</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Jackal</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

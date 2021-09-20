@@ -5,7 +5,8 @@
 	<name>Riddle of Pythagoras (Japan)</name>
 	<region>Japan</region>
 	<version></version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Sega System E</platform>
 	<series></series>
 	<homebrew>no</homebrew>

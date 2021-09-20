@@ -5,7 +5,8 @@
 	<name>Spatter (US) (315-5xxx)</name>
 	<region>US</region>
 	<version>315-5xxx</version>
-	<alternative>Spatter</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Spatter</parent_title>
 	<platform>Sega System 1</platform>
 	<series></series>
 	<homebrew>no</homebrew>

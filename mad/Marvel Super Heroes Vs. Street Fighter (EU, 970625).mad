@@ -3,9 +3,11 @@
 
 	<setname>mshvsf</setname>
 	<name>Marvel Super Heroes Vs. Street Fighter (EU, 970625)</name>
+	<name_notnice>Marvel Super Heroes Vs. Street Fighter (Euro 970625)</name_notnice>
 	<region>Europe</region>
 	<version>970625</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Marvel</series>
 	<series>Capcom</series>

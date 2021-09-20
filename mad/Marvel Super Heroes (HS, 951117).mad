@@ -3,9 +3,11 @@
 
 	<setname>mshh</setname>
 	<name>Marvel Super Heroes (HS, 951117)</name>
+	<name_notnice>Marvel Super Heroes (Hispanic 951117)</name_notnice>
 	<region>Hispanic</region>
 	<version>951117</version>
-	<alternative>Marvel Super Heroes</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Marvel Super Heroes</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Marvel</series>
 	<series>Capcom</series>

@@ -5,7 +5,8 @@
 	<name>Dig Dug (Rev 2)</name>
 	<region></region>
 	<version>Rev 2</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series>Dig Dug</series>
 	<homebrew>no</homebrew>

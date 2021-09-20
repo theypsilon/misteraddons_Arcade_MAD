@@ -3,9 +3,11 @@
 
 	<setname>rockmanj</setname>
 	<name>Rockman- The Power Battle (JP, 950922)</name>
+	<name_notnice>Rockman  The Power Battle -CPS1, Japan 950922-</name_notnice>
 	<region>Japan</region>
 	<version>950922</version>
-	<alternative>Mega Man- The Power Battle</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Mega Man- The Power Battle</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Mega Man</series>
 	<homebrew>no</homebrew>

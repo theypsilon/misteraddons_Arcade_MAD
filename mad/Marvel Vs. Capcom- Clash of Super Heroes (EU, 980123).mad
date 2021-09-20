@@ -3,9 +3,11 @@
 
 	<setname>mvsc</setname>
 	<name>Marvel Vs. Capcom- Clash of Super Heroes (EU, 980123)</name>
+	<name_notnice>Marvel Vs. Capcom Clash of Super Heroes (Euro 980123)</name_notnice>
 	<region>Europe</region>
 	<version>980123</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Marvel</series>
 	<series>Capcom</series>

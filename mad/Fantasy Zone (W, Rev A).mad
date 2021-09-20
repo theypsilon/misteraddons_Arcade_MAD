@@ -3,9 +3,11 @@
 
 	<setname>fantzone</setname>
 	<name>Fantasy Zone (W, Rev A)</name>
+	<name_notnice>Fantasy Zone (Rev A, World, S16A) [No Protection]</name_notnice>
 	<region>World</region>
 	<version>Rev A, No Protection</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Sega System 16A</platform>
 	<series></series>
 	<homebrew>no</homebrew>

@@ -3,9 +3,11 @@
 
 	<setname>nwarrb</setname>
 	<name>Night Warriors- Darkstalkers' Revenge (W, 950403)</name>
+	<name_notnice>Night Warriors Darkstalkers Revenge (Brazil 950403)</name_notnice>
 	<region>World</region>
 	<version>950403</version>
-	<alternative>Night Warriors- Darkstalkers' Revenge</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Night Warriors- Darkstalkers' Revenge</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Darkstalkers</series>
 	<homebrew>no</homebrew>

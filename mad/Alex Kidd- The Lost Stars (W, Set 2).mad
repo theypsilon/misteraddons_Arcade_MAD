@@ -3,9 +3,11 @@
 
 	<setname>alexkidd</setname>
 	<name>Alex Kidd- The Lost Stars (W, Set 2)</name>
+	<name_notnice>Alex Kidd- The Lost Stars (Set 2, World, S16A) [No Protection]</name_notnice>
 	<region>World</region>
 	<version>Set 2, No Protection</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Sega System 16A</platform>
 	<series></series>
 	<homebrew>no</homebrew>

@@ -3,9 +3,11 @@
 
 	<setname>aurailj</setname>
 	<name>Aurail (JP, Set 1)</name>
+	<name_notnice>Aurail (set 1, Japan) (FD1089A 317-0167)</name_notnice>
 	<region>Japan</region>
 	<version>Set 1, FD1089A 317-0167</version>
-	<alternative>Aurail</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Aurail</parent_title>
 	<platform>Sega System 16B</platform>
 	<series></series>
 	<homebrew>no</homebrew>

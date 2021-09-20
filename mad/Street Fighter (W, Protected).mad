@@ -3,9 +3,11 @@
 
 	<setname>sfw</setname>
 	<name>Street Fighter (W, Protected)</name>
+	<name_notnice>Street Fighter (World) (protected)</name_notnice>
 	<region>World</region>
 	<version>Protected</version>
-	<alternative>Street Fighter</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Street Fighter</parent_title>
 	<platform>Capcom CPS-0</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

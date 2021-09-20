@@ -5,7 +5,8 @@
 	<name>4-D Warriors (315-5162)</name>
 	<region></region>
 	<version>315-5162</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Sega System 1</platform>
 	<series></series>
 	<homebrew>no</homebrew>

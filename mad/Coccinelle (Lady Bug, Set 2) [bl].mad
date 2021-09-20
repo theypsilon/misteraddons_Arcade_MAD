@@ -5,7 +5,8 @@
 	<name>Coccinelle (Lady Bug, Set 2) [bl]</name>
 	<region></region>
 	<version>Lady Bug, Set 2</version>
-	<alternative>Lady Bug</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Lady Bug</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

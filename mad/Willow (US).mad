@@ -3,9 +3,11 @@
 
 	<setname>willowu</setname>
 	<name>Willow (US)</name>
+	<name_notnice>Willow -USA-</name_notnice>
 	<region>USA</region>
 	<version></version>
-	<alternative>Willow</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Willow</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series></series>
 	<homebrew>no</homebrew>

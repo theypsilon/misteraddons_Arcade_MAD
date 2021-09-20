@@ -3,9 +3,11 @@
 
 	<setname>kodja</setname>
 	<name>The King of Dragons (JP, B-Board, 89625B-1)</name>
+	<name_notnice>The King of Dragons -Japan 910805, B-Board 89625B-1-</name_notnice>
 	<region>Japan</region>
 	<version>B-Board, 89625B-1</version>
-	<alternative>The King of Dragons</alternative>
+	<alternative>yes</alternative>
+	<parent_title>The King of Dragons</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series></series>
 	<homebrew>no</homebrew>

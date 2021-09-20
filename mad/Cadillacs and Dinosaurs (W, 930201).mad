@@ -3,9 +3,11 @@
 
 	<setname>dino</setname>
 	<name>Cadillacs and Dinosaurs (W, 930201)</name>
+	<name_notnice>Cadillacs and Dinosaurs (World 930201)</name_notnice>
 	<region>World</region>
 	<version>930201</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-1.5</platform>
 	<series></series>
 	<homebrew>no</homebrew>

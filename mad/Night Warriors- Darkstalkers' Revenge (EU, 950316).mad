@@ -3,9 +3,11 @@
 
 	<setname>nwarr</setname>
 	<name>Night Warriors- Darkstalkers' Revenge (EU, 950316)</name>
+	<name_notnice>Night Warriors Darkstalkers Revenge (Euro 950316)</name_notnice>
 	<region>Europe</region>
 	<version>950316</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Darkstalkers</series>
 	<homebrew>no</homebrew>

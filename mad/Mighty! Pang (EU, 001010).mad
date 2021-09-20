@@ -3,9 +3,11 @@
 
 	<setname>mpang</setname>
 	<name>Mighty! Pang (EU, 001010)</name>
+	<name_notnice>Mighty! Pang (Euro 001010)</name_notnice>
 	<region>Europe</region>
 	<version>001010</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Pang!</series>
 	<homebrew>no</homebrew>

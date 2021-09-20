@@ -3,9 +3,11 @@
 
 	<setname>mswordu</setname>
 	<name>Magic Sword- Heroic Fantasy (US, 900715)</name>
+	<name_notnice>Magic Sword  Heroic Fantasy -USA 900725-</name_notnice>
 	<region>USA</region>
 	<version>900715</version>
-	<alternative>Magic Sword</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Magic Sword</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series></series>
 	<homebrew>no</homebrew>

@@ -5,7 +5,8 @@
 	<name>Arkanoid (Unl. Lives, slower) [hb]</name>
 	<region></region>
 	<version>Unl. Lives, slower</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>yes</homebrew>

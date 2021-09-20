@@ -3,9 +3,11 @@
 
 	<setname>daimakai</setname>
 	<name>Daimakaimura (JP)</name>
+	<name_notnice>Daimakaimura -Japan-</name_notnice>
 	<region>Japan</region>
 	<version></version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-0</platform>
 	<series>Ghosts 'n</series>
 	<homebrew>no</homebrew>

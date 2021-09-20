@@ -3,9 +3,11 @@
 
 	<setname>sf2uk</setname>
 	<name>Street Fighter II- The Warrior (US, 911101)</name>
+	<name_notnice>Street Fighter II  The World Warrior -USA 911101-</name_notnice>
 	<region>USA</region>
 	<version>911101</version>
-	<alternative>Street Fighter II</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Street Fighter II</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

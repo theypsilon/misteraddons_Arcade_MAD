@@ -3,9 +3,11 @@
 
 	<setname>gulunpa</setname>
 	<name>Gulun.Pa (931220 L, Prototype)</name>
+	<name_notnice>Gulun.Pa_-_Prototype_1993_-_Japan_931220_L-</name_notnice>
 	<region></region>
 	<version>931220 L, Prototype</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series></series>
 	<homebrew>no</homebrew>

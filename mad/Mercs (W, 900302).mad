@@ -3,9 +3,11 @@
 
 	<setname>mercs</setname>
 	<name>Mercs (W, 900302)</name>
+	<name_notnice>Mercs -World 900302-</name_notnice>
 	<region>World</region>
 	<version>900302</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Commando</series>
 	<homebrew>no</homebrew>

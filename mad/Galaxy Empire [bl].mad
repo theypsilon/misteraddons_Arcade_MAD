@@ -5,7 +5,8 @@
 	<name>Galaxy Empire [bl]</name>
 	<region></region>
 	<version></version>
-	<alternative>UniWar S</alternative>
+	<alternative>yes</alternative>
+	<parent_title>UniWar S</parent_title>
 	<platform></platform>
 	<series>Galaxian</series>
 	<homebrew>no</homebrew>

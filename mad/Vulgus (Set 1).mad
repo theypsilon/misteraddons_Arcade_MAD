@@ -3,9 +3,11 @@
 
 	<setname>vulgus</setname>
 	<name>Vulgus (Set 1)</name>
+	<name_notnice>Vulgus</name_notnice>
 	<region></region>
 	<version>Set 1</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

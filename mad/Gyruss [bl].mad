@@ -5,7 +5,8 @@
 	<name>Gyruss [bl]</name>
 	<region></region>
 	<version></version>
-	<alternative>Gyruss</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Gyruss</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

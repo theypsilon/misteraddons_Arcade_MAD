@@ -3,9 +3,11 @@
 
 	<setname>cybots</setname>
 	<name>Cyberbots- Fullmetal Madness (EU, 950424)</name>
+	<name_notnice>Cyberbots Fullmetal Madness (Euro 950424)</name_notnice>
 	<region>Europe</region>
 	<version>950424</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series></series>
 	<homebrew>no</homebrew>

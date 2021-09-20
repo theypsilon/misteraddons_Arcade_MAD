@@ -5,7 +5,8 @@
 	<name>Opa Opa (MC-8123, 317-0042)</name>
 	<region></region>
 	<version>MC-8123, 317-0042</version>
-	<alternative>Opa Opa</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Opa Opa</parent_title>
 	<platform>Sega System E</platform>
 	<series></series>
 	<homebrew>no</homebrew>

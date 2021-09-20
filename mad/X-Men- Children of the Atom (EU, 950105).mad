@@ -3,9 +3,11 @@
 
 	<setname>xmcotar1</setname>
 	<name>X-Men- Children of the Atom (EU, 950105)</name>
+	<name_notnice>X-Men Children of the Atom (Euro 950105)</name_notnice>
 	<region>Europe</region>
 	<version>950105</version>
-	<alternative>X-Men- Children of the Atom</alternative>
+	<alternative>yes</alternative>
+	<parent_title>X-Men- Children of the Atom</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>X-Men</series>
 	<series>Marvel</series>

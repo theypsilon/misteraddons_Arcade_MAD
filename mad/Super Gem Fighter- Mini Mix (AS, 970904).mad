@@ -3,9 +3,11 @@
 
 	<setname>sgemfa</setname>
 	<name>Super Gem Fighter- Mini Mix (AS, 970904)</name>
+	<name_notnice>Super Gem Fighter Mini Mix (Asia 970904)</name_notnice>
 	<region>Asia</region>
 	<version>970904</version>
-	<alternative>Super Gem Fighter- Mini Mix</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Super Gem Fighter- Mini Mix</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

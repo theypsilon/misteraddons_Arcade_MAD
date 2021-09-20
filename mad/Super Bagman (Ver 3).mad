@@ -5,7 +5,8 @@
 	<name>Super Bagman (Ver 3)</name>
 	<region></region>
 	<version>Ver 3</version>
-	<alternative>Super Bagman</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Super Bagman</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

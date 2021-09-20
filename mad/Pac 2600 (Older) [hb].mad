@@ -5,7 +5,8 @@
 	<name>Pac 2600 (Older) [hb]</name>
 	<region></region>
 	<version>Older</version>
-	<alternative>Pac-Man</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Pac-Man</parent_title>
 	<platform></platform>
 	<series>Pac-Man</series>
 	<homebrew>yes</homebrew>

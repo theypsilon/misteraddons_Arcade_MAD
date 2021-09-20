@@ -3,9 +3,11 @@
 
 	<setname>sfa3h</setname>
 	<name>Street Fighter Alpha 3 (HS, 980904)</name>
+	<name_notnice>Street Fighter Alpha 3 (Hispanic 980904)</name_notnice>
 	<region>Hispanic</region>
 	<version>980904</version>
-	<alternative>Street Fighter Alpha 3</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Street Fighter Alpha 3</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

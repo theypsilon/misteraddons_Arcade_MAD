@@ -3,9 +3,11 @@
 
 	<setname>ssf2</setname>
 	<name>Super Street Fighter II- The New Challengers (W, 931005)</name>
+	<name_notnice>Super Street Fighter II The New Challengers (World 931005)</name_notnice>
 	<region>World</region>
 	<version>931005</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

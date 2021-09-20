@@ -3,9 +3,11 @@
 
 	<setname>ddsomr2</setname>
 	<name>Dungeons &amp; Dragons- Shadow over Mystara (EU, 960209)</name>
+	<name_notnice>Dungeons &amp; Dragons Shadow over Mystara (Euro 960209)</name_notnice>
 	<region>Europe</region>
 	<version>960209</version>
-	<alternative>Dungeons &amp; Dragons- Shadow over Mystara</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Dungeons &amp; Dragons- Shadow over Mystara</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Dungeons &amp; Dragons</series>
 	<homebrew>no</homebrew>

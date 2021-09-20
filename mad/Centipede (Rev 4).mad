@@ -5,7 +5,8 @@
 	<name>Centipede (Rev 4)</name>
 	<region></region>
 	<version>Rev 4</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series>*pede</series>
 	<homebrew>no</homebrew>

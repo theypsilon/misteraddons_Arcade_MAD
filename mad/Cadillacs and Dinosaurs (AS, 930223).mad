@@ -3,9 +3,11 @@
 
 	<setname>dinoa</setname>
 	<name>Cadillacs and Dinosaurs (AS, 930223)</name>
+	<name_notnice>Cadillacs and Dinosaurs (Asia TW 930223)</name_notnice>
 	<region>Asia</region>
 	<version>930223</version>
-	<alternative>Cadillacs and Dinosaurs</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Cadillacs and Dinosaurs</parent_title>
 	<platform>Capcom CPS-1.5</platform>
 	<series></series>
 	<homebrew>no</homebrew>

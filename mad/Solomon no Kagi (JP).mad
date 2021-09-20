@@ -5,7 +5,8 @@
 	<name>Solomon no Kagi (JP)</name>
 	<region>Japan</region>
 	<version></version>
-	<alternative>Solomon's Key</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Solomon's Key</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

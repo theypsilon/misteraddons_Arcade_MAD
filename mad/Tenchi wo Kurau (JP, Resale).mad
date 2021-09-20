@@ -3,9 +3,11 @@
 
 	<setname>dynwarjr</setname>
 	<name>Tenchi wo Kurau (JP, Resale)</name>
+	<name_notnice>Tenchi wo Kurau -Japan Resale Ver.-</name_notnice>
 	<region>Japan</region>
 	<version>Resale</version>
-	<alternative>Dynasty Wars</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Dynasty Wars</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Dynasty Wars</series>
 	<homebrew>no</homebrew>

@@ -5,7 +5,8 @@
 	<name>Dig Dug (Atari, Rev 2)</name>
 	<region></region>
 	<version>Atari, Rev 2</version>
-	<alternative>Dig Dug</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Dig Dug</parent_title>
 	<platform></platform>
 	<series>Dig Dug</series>
 	<homebrew>no</homebrew>

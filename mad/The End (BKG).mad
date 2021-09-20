@@ -5,7 +5,8 @@
 	<name>The End (BKG)</name>
 	<region></region>
 	<version>BKG</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

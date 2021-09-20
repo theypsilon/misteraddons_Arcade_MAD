@@ -3,9 +3,11 @@
 
 	<setname>mbombrdj</setname>
 	<name>Muscle Bomber Duo- Heat Up Warriors (JP, 931206)</name>
+	<name_notnice>Muscle Bomber Duo Heat Up Warriors (Japan 931206)</name_notnice>
 	<region>Japan</region>
 	<version>931206</version>
-	<alternative>Slam Masters</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Slam Masters</parent_title>
 	<platform>Capcom CPS-1.5</platform>
 	<series>Slam Masters</series>
 	<homebrew>no</homebrew>

@@ -5,7 +5,8 @@
 	<name>Tapper (Budweiser, 840127)</name>
 	<region></region>
 	<version>Budweiser, 840127</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Midway MCR3</platform>
 	<series></series>
 	<homebrew>no</homebrew>

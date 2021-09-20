@@ -5,7 +5,8 @@
 	<name>Space Invaders Part II (Midway, Cocktail)</name>
 	<region></region>
 	<version>Midway, Cocktail</version>
-	<alternative>Space Invaders</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Space Invaders</parent_title>
 	<platform></platform>
 	<series>Space Invaders</series>
 	<homebrew>no</homebrew>

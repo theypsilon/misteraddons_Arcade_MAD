@@ -3,9 +3,11 @@
 
 	<setname>gunsmokeub</setname>
 	<name>Gun Smoke (US, 851115, Set 2)</name>
+	<name_notnice>Gun Smoke (US, 851115, set 2)</name_notnice>
 	<region>USA</region>
 	<version>851115, Set 2</version>
-	<alternative>Gun Smoke</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Gun Smoke</parent_title>
 	<platform>Capcom CPS-0</platform>
 	<series></series>
 	<homebrew>no</homebrew>

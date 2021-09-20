@@ -3,9 +3,11 @@
 
 	<setname>qad</setname>
 	<name>Quiz &amp; Dragons- Capcom Quiz Game (US, 920701)</name>
+	<name_notnice>Quiz &amp; Dragons- Capcom Quiz Game -USA 920701-</name_notnice>
 	<region>USA</region>
 	<version>920701</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series></series>
 	<homebrew>no</homebrew>

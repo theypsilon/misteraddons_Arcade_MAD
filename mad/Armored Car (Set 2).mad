@@ -5,7 +5,8 @@
 	<name>Armored Car (Set 2)</name>
 	<region></region>
 	<version>Set 2</version>
-	<alternative>Armored Car</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Armored Car</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

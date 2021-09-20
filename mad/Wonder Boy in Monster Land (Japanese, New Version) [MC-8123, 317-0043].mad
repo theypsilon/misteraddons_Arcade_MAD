@@ -5,7 +5,8 @@
 	<name>Wonder Boy in Monster Land (Japanese, New Version) [MC-8123, 317-0043]</name>
 	<region>Japan</region>
 	<version>New Version, Virtual Console</version>
-	<alternative>Wonder Boy</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Wonder Boy</parent_title>
 	<platform>Sega System 1</platform>
 	<series></series>
 	<homebrew>no</homebrew>

@@ -3,9 +3,11 @@
 
 	<setname>sfz2a</setname>
 	<name>Street Fighter Zero 2 (AS, 960227)</name>
+	<name_notnice>Street Fighter Zero 2 (Asia 960227)</name_notnice>
 	<region>Asia</region>
 	<version>960227</version>
-	<alternative>Street Fighter Zero 2</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Street Fighter Zero 2</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

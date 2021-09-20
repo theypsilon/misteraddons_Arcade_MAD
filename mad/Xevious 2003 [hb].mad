@@ -5,7 +5,8 @@
 	<name>Xevious 2003 [hb]</name>
 	<region></region>
 	<version></version>
-	<alternative>Xevious</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Xevious</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>yes</homebrew>

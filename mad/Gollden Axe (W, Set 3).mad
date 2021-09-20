@@ -3,9 +3,11 @@
 
 	<setname>goldenaxe3</setname>
 	<name>Gollden Axe (W, Set 3)</name>
+	<name_notnice>Golden Axe (set 3, World) (FD1094 317-0120)</name_notnice>
 	<region>World</region>
 	<version>Set 3, FD1094 317-0120</version>
-	<alternative>Golden Axe</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Golden Axe</parent_title>
 	<platform>Sega System 16B</platform>
 	<series></series>
 	<homebrew>no</homebrew>

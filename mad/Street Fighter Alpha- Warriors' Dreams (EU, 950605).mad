@@ -3,9 +3,11 @@
 
 	<setname>sfar3</setname>
 	<name>Street Fighter Alpha- Warriors' Dreams (EU, 950605)</name>
+	<name_notnice>Street Fighter Alpha Warriors Dreams (Euro 950605)</name_notnice>
 	<region>Europe</region>
 	<version>950605</version>
-	<alternative>Street Fighter Alpha- Warriors' Dreams</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Street Fighter Alpha- Warriors' Dreams</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

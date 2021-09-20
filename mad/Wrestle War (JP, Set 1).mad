@@ -3,9 +3,11 @@
 
 	<setname>wrestwar1</setname>
 	<name>Wrestle War (JP, Set 1)</name>
+	<name_notnice>Wrestle War (set 1, Japan) (FD1094 317-0090)</name_notnice>
 	<region>Japan</region>
 	<version>Set 1</version>
-	<alternative>Wrestle War</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Wrestle War</parent_title>
 	<platform>Sega System 16B</platform>
 	<series></series>
 	<homebrew>no</homebrew>

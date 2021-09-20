@@ -5,7 +5,8 @@
 	<name>Gauntlet II (DE)</name>
 	<region>Germany</region>
 	<version></version>
-	<alternative>Gauntlet II</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Gauntlet II</parent_title>
 	<platform></platform>
 	<series>Gauntlet</series>
 	<homebrew>no</homebrew>

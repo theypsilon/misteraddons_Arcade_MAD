@@ -3,9 +3,11 @@
 
 	<setname>pang3</setname>
 	<name>Pang! 3 (EU, 950601)</name>
+	<name_notnice>Pang! 3 -Euro 950601-</name_notnice>
 	<region>Europe</region>
 	<version>950601</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Pang!</series>
 	<homebrew>no</homebrew>

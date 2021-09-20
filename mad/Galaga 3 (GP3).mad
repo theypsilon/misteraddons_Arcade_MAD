@@ -5,7 +5,8 @@
 	<name>Galaga 3 (GP3)</name>
 	<region></region>
 	<version>GP3</version>
-	<alternative>Gaplus</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Gaplus</parent_title>
 	<platform></platform>
 	<series>Galaga</series>
 	<homebrew>no</homebrew>

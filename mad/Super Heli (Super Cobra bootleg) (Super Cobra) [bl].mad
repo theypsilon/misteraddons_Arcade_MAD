@@ -5,7 +5,8 @@
 	<name>Super Heli (Super Cobra bootleg) (Super Cobra) [bl]</name>
 	<region></region>
 	<version>Super Cobra</version>
-	<alternative>Super Cobra</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Super Cobra</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

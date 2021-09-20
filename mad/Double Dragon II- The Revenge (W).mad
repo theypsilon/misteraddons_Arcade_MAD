@@ -3,9 +3,11 @@
 
 	<setname>ddragon2</setname>
 	<name>Double Dragon II- The Revenge (W)</name>
+	<name_notnice>Double Dragon II - The Revenge</name_notnice>
 	<region>World</region>
 	<version></version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series>Double Dragon</series>
 	<homebrew>no</homebrew>

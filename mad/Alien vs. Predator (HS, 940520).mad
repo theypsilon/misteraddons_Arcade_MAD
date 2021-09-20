@@ -3,9 +3,11 @@
 
 	<setname>avsph</setname>
 	<name>Alien vs. Predator (HS, 940520)</name>
+	<name_notnice>Alien vs. Predator (Hispanic 940520)</name_notnice>
 	<region>Hispanic</region>
 	<version>940520</version>
-	<alternative>Alien vs. Predator</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Alien vs. Predator</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Aliens</series>
 	<homebrew>no</homebrew>

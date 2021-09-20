@@ -5,7 +5,8 @@
 	<name>Lode Runner III- Majin no Fukkatsu (JP)</name>
 	<region>Japan</region>
 	<version></version>
-	<alternative>Lode Runner III</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Lode Runner III</parent_title>
 	<platform>Irem M62</platform>
 	<series>Lode Runner</series>
 	<homebrew>no</homebrew>

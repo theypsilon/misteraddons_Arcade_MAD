@@ -3,9 +3,11 @@
 
 	<setname>megaman2</setname>
 	<name>Mega Man 2- The Power Fighters (US, 960708)</name>
+	<name_notnice>Mega Man 2 The Power Fighters (USA 960708)</name_notnice>
 	<region>USA</region>
 	<version>960708</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Mega Man</series>
 	<homebrew>no</homebrew>

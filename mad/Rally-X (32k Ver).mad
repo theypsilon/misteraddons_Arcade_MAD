@@ -5,7 +5,8 @@
 	<name>Rally-X (32k Ver)</name>
 	<region></region>
 	<version>32k Ver</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series>Rally-X</series>
 	<homebrew>no</homebrew>

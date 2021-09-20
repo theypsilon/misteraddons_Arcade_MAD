@@ -5,7 +5,8 @@
 	<name>Food Fight (Rev 2)</name>
 	<region></region>
 	<version>Rev 2</version>
-	<alternative>Food Fight</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Food Fight</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

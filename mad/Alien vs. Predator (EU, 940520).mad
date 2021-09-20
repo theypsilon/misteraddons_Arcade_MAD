@@ -3,9 +3,11 @@
 
 	<setname>avsp</setname>
 	<name>Alien vs. Predator (EU, 940520)</name>
+	<name_notnice>Alien vs. Predator (Euro 940520)</name_notnice>
 	<region>Europe</region>
 	<version>940520</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Aliens</series>
 	<homebrew>no</homebrew>

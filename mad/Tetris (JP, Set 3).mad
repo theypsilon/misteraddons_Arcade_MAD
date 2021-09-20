@@ -3,9 +3,11 @@
 
 	<setname>tetris3</setname>
 	<name>Tetris (JP, Set 3)</name>
+	<name_notnice>Tetris (Set 3, Japan, S16A) [FD1094 317-0093a]</name_notnice>
 	<region>Japan</region>
 	<version>Set 3</version>
-	<alternative>Tetris</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Tetris</parent_title>
 	<platform>Sega System 16A</platform>
 	<series>Tetris</series>
 	<homebrew>no</homebrew>

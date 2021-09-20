@@ -5,7 +5,8 @@
 	<name>Aerolitos (Spanish)</name>
 	<region></region>
 	<version>Spanish</version>
-	<alternative>Asteroids</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Asteroids</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

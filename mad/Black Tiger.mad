@@ -3,9 +3,11 @@
 
 	<setname>blktiger</setname>
 	<name>Black Tiger</name>
+	<name_notnice>Black Tiger</name_notnice>
 	<region></region>
 	<version></version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-0</platform>
 	<series></series>
 	<homebrew>no</homebrew>

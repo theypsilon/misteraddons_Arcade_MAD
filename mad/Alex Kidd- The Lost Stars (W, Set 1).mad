@@ -3,9 +3,11 @@
 
 	<setname>alexkidd1</setname>
 	<name>Alex Kidd- The Lost Stars (W, Set 1)</name>
+	<name_notnice>Alex Kidd The Lost Stars (Set 1, World, S16A) [FD1089A 317-0021]</name_notnice>
 	<region>World</region>
 	<version>Set 1, 317-0021</version>
-	<alternative>Alex Kidd</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Alex Kidd</parent_title>
 	<platform>Sega System 16A</platform>
 	<series></series>
 	<homebrew>no</homebrew>

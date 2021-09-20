@@ -5,7 +5,8 @@
 	<name>Devil Fish (Galaxian Hardware)</name>
 	<region></region>
 	<version>Galaxian Hardware</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

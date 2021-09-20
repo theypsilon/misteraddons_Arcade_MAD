@@ -3,9 +3,11 @@
 
 	<setname>dumpmtmt</setname>
 	<name>Dump Matsumoto (JP, 317-0011a)</name>
+	<name_notnice>Dump Matsumoto (Japan, S16A) [8751 317-0011a]</name_notnice>
 	<region>Japan</region>
 	<version>317-0011a</version>
-	<alternative>Body Slam</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Body Slam</parent_title>
 	<platform>Sega System 16A</platform>
 	<series></series>
 	<homebrew>no</homebrew>

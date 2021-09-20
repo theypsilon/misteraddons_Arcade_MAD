@@ -5,7 +5,8 @@
 	<name>Ms. Pac Attack</name>
 	<region></region>
 	<version></version>
-	<alternative>Ms. Pac-Man</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Ms. Pac-Man</parent_title>
 	<platform></platform>
 	<series>Pac-Man</series>
 	<homebrew>no</homebrew>

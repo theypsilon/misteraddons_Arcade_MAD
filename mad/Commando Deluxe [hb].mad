@@ -3,9 +3,11 @@
 
 	<setname>comdelux</setname>
 	<name>Commando Deluxe [hb]</name>
+	<name_notnice>Commando Deluxe - HBMAME</name_notnice>
 	<region>World</region>
 	<version></version>
-	<alternative>Commando</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Commando</parent_title>
 	<platform>Capcom CPS-0</platform>
 	<series>Commando</series>
 	<homebrew>yes</homebrew>

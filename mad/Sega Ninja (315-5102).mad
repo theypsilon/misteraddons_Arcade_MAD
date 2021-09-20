@@ -5,7 +5,8 @@
 	<name>Sega Ninja (315-5102)</name>
 	<region></region>
 	<version>315-5102</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Sega System 1</platform>
 	<series></series>
 	<homebrew>no</homebrew>

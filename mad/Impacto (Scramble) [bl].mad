@@ -5,7 +5,8 @@
 	<name>Impacto (Scramble) [bl]</name>
 	<region></region>
 	<version>Scramble</version>
-	<alternative>Scramble</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Scramble</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

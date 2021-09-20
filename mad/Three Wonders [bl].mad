@@ -3,9 +3,11 @@
 
 	<setname>3wondersb</setname>
 	<name>Three Wonders [bl]</name>
+	<name_notnice>Three Wonders -bootleg-</name_notnice>
 	<region></region>
 	<version></version>
-	<alternative>Three Wonders</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Three Wonders</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series></series>
 	<homebrew>no</homebrew>

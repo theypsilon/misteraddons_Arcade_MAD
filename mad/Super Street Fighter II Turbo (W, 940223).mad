@@ -3,9 +3,11 @@
 
 	<setname>ssf2t</setname>
 	<name>Super Street Fighter II Turbo (W, 940223)</name>
+	<name_notnice>Super Street Fighter II Turbo (World 940223)</name_notnice>
 	<region>World</region>
 	<version>940223</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

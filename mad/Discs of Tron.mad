@@ -5,7 +5,8 @@
 	<name>Discs of Tron</name>
 	<region></region>
 	<version></version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Midway MCR3</platform>
 	<series>Tron</series>
 	<homebrew>no</homebrew>

@@ -5,7 +5,8 @@
 	<name>Scramble (Stern, Set 1)</name>
 	<region></region>
 	<version>Stern, Set 1</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series>Scramble</series>
 	<homebrew>no</homebrew>

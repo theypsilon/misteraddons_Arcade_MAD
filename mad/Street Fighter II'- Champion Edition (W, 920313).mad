@@ -3,9 +3,11 @@
 
 	<setname>sf2ceea</setname>
 	<name>Street Fighter II'- Champion Edition (W, 920313)</name>
+	<name_notnice>Street Fighter II'  Champion Edition -World 920313-</name_notnice>
 	<region>World</region>
 	<version>920313</version>
-	<alternative>Street Fighter II</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Street Fighter II</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

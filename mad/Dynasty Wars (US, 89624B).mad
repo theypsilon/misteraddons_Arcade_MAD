@@ -3,9 +3,11 @@
 
 	<setname>dynwar</setname>
 	<name>Dynasty Wars (US, 89624B)</name>
+	<name_notnice>Dynasty Wars -USA, B-Board 89624B- -</name_notnice>
 	<region>USA</region>
 	<version>89624B</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Dynasty Wars</series>
 	<homebrew>no</homebrew>

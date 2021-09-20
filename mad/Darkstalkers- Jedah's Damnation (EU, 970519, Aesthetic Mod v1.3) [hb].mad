@@ -3,9 +3,11 @@
 
 	<setname>vsav</setname>
 	<name>Darkstalkers- Jedah's Damnation (EU, 970519, Aesthetic Mod v1.3) [hb]</name>
+	<name_notnice>Darkstalkers Jedah's Damnation (Euro 970519) [Aesthetic Mod v1.3]</name_notnice>
 	<region>Europe</region>
 	<version>970519, Aesthetic Mod v1.3</version>
-	<alternative>Vampire Savior- The Lord of Vampire</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Vampire Savior- The Lord of Vampire</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Darkstalkers</series>
 	<homebrew>yes</homebrew>

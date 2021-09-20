@@ -3,9 +3,11 @@
 
 	<setname>dinohunt</setname>
 	<name>Dinosaur Hunter (Cadillacs and Dinosaurs, CPS1, Chinese) [bl]</name>
+	<name_notnice>Dinosaur Hunter -Chinese bootleg of Cadillacs and Dinosaurs-</name_notnice>
 	<region></region>
 	<version>Cadillacs and Dinosaurs, CPS1, Chinese</version>
-	<alternative>Cadillacs and Dinosaurs</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Cadillacs and Dinosaurs</parent_title>
 	<platform>Capcom CPS-1.5</platform>
 	<series></series>
 	<homebrew>no</homebrew>

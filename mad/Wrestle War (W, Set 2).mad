@@ -3,9 +3,11 @@
 
 	<setname>wrestwar2</setname>
 	<name>Wrestle War (W, Set 2)</name>
+	<name_notnice>Wrestle War (set 2, World) (FD1094 317-0102)</name_notnice>
 	<region>World</region>
 	<version>Set 2</version>
-	<alternative>Wrestle War</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Wrestle War</parent_title>
 	<platform>Sega System 16B</platform>
 	<series></series>
 	<homebrew>no</homebrew>

@@ -3,9 +3,11 @@
 
 	<setname>strideruc</setname>
 	<name>Strider (US, B-Board, 89624B-3)</name>
+	<name_notnice>Strider -USA, B-Board 90629B-3, buggy Street Fighter II conversion-</name_notnice>
 	<region>USA</region>
 	<version>B-Board, 89624B-3</version>
-	<alternative>Strider</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Strider</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Strider</series>
 	<homebrew>no</homebrew>

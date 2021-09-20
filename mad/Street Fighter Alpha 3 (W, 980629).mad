@@ -3,9 +3,11 @@
 
 	<setname>sfa3b</setname>
 	<name>Street Fighter Alpha 3 (W, 980629)</name>
+	<name_notnice>Street Fighter Alpha 3 (Brazil 980629)</name_notnice>
 	<region>World</region>
 	<version>980629</version>
-	<alternative>Street Fighter Alpha 3</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Street Fighter Alpha 3</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

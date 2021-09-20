@@ -5,7 +5,8 @@
 	<name>Meteor (Asteroids, Proel) [bl]</name>
 	<region></region>
 	<version>Asteroids, Proel</version>
-	<alternative>Asteroids</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Asteroids</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

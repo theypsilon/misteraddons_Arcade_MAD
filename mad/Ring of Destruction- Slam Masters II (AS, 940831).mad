@@ -3,9 +3,11 @@
 
 	<setname>ringdesta</setname>
 	<name>Ring of Destruction- Slam Masters II (AS, 940831)</name>
+	<name_notnice>Ring of Destruction Slam Masters II (Asia 940831)</name_notnice>
 	<region>Asia</region>
 	<version>940831</version>
-	<alternative>Ring of Destruction- Slam Masters II</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Ring of Destruction- Slam Masters II</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Muscle Bomber</series>
 	<homebrew>no</homebrew>

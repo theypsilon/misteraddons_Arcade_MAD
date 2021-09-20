@@ -3,9 +3,11 @@
 
 	<setname>xmvsfar1</setname>
 	<name>X-Men Vs. Street Fighter (AS, 961004)</name>
+	<name_notnice>X-Men Vs. Street Fighter (Asia 961004)</name_notnice>
 	<region>Asia</region>
 	<version>961004</version>
-	<alternative>X-Men Vs. Street Fighter</alternative>
+	<alternative>yes</alternative>
+	<parent_title>X-Men Vs. Street Fighter</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Marvel</series>
 	<series>Capcom</series>

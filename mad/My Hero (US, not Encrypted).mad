@@ -5,7 +5,8 @@
 	<name>My Hero (US, not Encrypted)</name>
 	<region>USA</region>
 	<version>not Encrypted</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Sega System 1</platform>
 	<series></series>
 	<homebrew>no</homebrew>

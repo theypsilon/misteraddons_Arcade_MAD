@@ -3,9 +3,11 @@
 
 	<setname>eswatj1</setname>
 	<name>E-Swat - Cyber Police (JP, Set 1)</name>
+	<name_notnice>E-Swat - Cyber Police (set 1, Japan) (FD1094 317-0131)</name_notnice>
 	<region>World</region>
 	<version>Set 1, FD1094 317-0131</version>
-	<alternative>E-Swat</alternative>
+	<alternative>yes</alternative>
+	<parent_title>E-Swat</parent_title>
 	<platform>Sega System 16B</platform>
 	<series></series>
 	<homebrew>no</homebrew>

@@ -5,7 +5,8 @@
 	<name>SWAT (315-5048)</name>
 	<region></region>
 	<version>315-5048</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Sega System 1</platform>
 	<series></series>
 	<homebrew>no</homebrew>

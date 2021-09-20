@@ -3,9 +3,11 @@
 
 	<setname>bublbobl</setname>
 	<name>Bubble Bobble (68705) [bl]</name>
+	<name_notnice>Bubble Bobble (Japan, Ver 0.1)</name_notnice>
 	<region>Japan</region>
 	<version>v0.1</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series>Bubble Bobble</series>
 	<homebrew>no</homebrew>

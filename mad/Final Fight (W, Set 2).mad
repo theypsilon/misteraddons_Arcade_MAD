@@ -3,9 +3,11 @@
 
 	<setname>ffighta</setname>
 	<name>Final Fight (W, Set 2)</name>
+	<name_notnice>Final Fight -World, set 2-</name_notnice>
 	<region>World</region>
 	<version>Set 2</version>
-	<alternative>Final Fight</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Final Fight</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Final Fight</series>
 	<homebrew>no</homebrew>

@@ -5,7 +5,8 @@
 	<name>Sea Wolf II</name>
 	<region></region>
 	<version></version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series>Sea Wolf</series>
 	<homebrew>no</homebrew>

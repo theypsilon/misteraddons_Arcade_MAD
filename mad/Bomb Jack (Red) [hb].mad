@@ -5,7 +5,8 @@
 	<name>Bomb Jack (Red) [hb]</name>
 	<region></region>
 	<version>Red</version>
-	<alternative>Bomb Jack</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Bomb Jack</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>yes</homebrew>

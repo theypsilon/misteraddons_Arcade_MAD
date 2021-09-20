@@ -3,9 +3,11 @@
 
 	<setname>vsav</setname>
 	<name>Vampire Savior- The Lord of Vampire (EU, 9705199, Aesthetic Mod) [hb]</name>
+	<name_notnice>Vampire Savior The Lord of Vampire (Euro 970519) [Aesthetic Mod v1.3]</name_notnice>
 	<region>Europe</region>
 	<version>9705199, Aesthetic Mod</version>
-	<alternative>Vampire Savior- The Lord of Vampire</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Vampire Savior- The Lord of Vampire</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Darkstalkers</series>
 	<homebrew>yes</homebrew>

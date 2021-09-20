@@ -3,9 +3,11 @@
 
 	<setname>spf2xj</setname>
 	<name>Super Puzzle Fighter II X (JP, 960531)</name>
+	<name_notnice>Super Puzzle Fighter II X (Japan 960531)</name_notnice>
 	<region>Japan</region>
 	<version>960531</version>
-	<alternative>Super Puzzle Fighter II Turbo</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Super Puzzle Fighter II Turbo</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

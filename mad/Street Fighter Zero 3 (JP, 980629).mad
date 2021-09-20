@@ -3,9 +3,11 @@
 
 	<setname>sfz3jr2</setname>
 	<name>Street Fighter Zero 3 (JP, 980629)</name>
+	<name_notnice>Street Fighter Zero 3 (Japan 980629)</name_notnice>
 	<region>Japan</region>
 	<version>980629</version>
-	<alternative>Street Fighter Zero 3</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Street Fighter Zero 3</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

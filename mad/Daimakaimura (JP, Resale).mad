@@ -3,9 +3,11 @@
 
 	<setname>daimakair</setname>
 	<name>Daimakaimura (JP, Resale)</name>
+	<name_notnice>Daimakaimura -Japan Resale Ver.-</name_notnice>
 	<region>Japan</region>
 	<version>Resale</version>
-	<alternative>Ghouls 'n Ghosts</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Ghouls 'n Ghosts</parent_title>
 	<platform>Capcom CPS-0</platform>
 	<series>Ghosts 'n</series>
 	<homebrew>no</homebrew>

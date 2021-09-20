@@ -5,7 +5,8 @@
 	<name>Demolition Derby (MCR-3 Mono Board Version)</name>
 	<region></region>
 	<version>MCR-3 Mono Board Version</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Midway MCR3</platform>
 	<series></series>
 	<homebrew>no</homebrew>

@@ -3,9 +3,11 @@
 
 	<setname>timescan</setname>
 	<name>Time Scanner (W, Set 2)</name>
+	<name_notnice>Time Scanner (Set 2, System16B)</name_notnice>
 	<region>World</region>
 	<version>Set 2</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Sega System 16B</platform>
 	<series></series>
 	<homebrew>no</homebrew>

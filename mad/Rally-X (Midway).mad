@@ -5,7 +5,8 @@
 	<name>Rally-X (Midway)</name>
 	<region></region>
 	<version>Midway</version>
-	<alternative>Rally-X</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Rally-X</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

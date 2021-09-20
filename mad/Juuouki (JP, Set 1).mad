@@ -3,9 +3,11 @@
 
 	<setname>altbeastj1</setname>
 	<name>Juuouki (JP, Set 1)</name>
+	<name_notnice>Juuouki (set 1, Japan) (FD1094 317-0065)</name_notnice>
 	<region>Japan</region>
 	<version>Set 1</version>
-	<alternative>Altered Beast</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Altered Beast</parent_title>
 	<platform>Sega System 16B</platform>
 	<series></series>
 	<homebrew>no</homebrew>

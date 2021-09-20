@@ -3,9 +3,11 @@
 
 	<setname>trojanr</setname>
 	<name>Trojan (Romstar)</name>
+	<name_notnice>Trojan (Romstar)</name_notnice>
 	<region></region>
 	<version>Romstar</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

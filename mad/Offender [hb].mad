@@ -5,7 +5,8 @@
 	<name>Offender [hb]</name>
 	<region></region>
 	<version></version>
-	<alternative>Scramble</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Scramble</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>yes</homebrew>

@@ -5,7 +5,8 @@
 	<name>The Battle-Road</name>
 	<region></region>
 	<version></version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Irem M62</platform>
 	<series></series>
 	<homebrew>no</homebrew>

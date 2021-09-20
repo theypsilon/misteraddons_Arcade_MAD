@@ -5,7 +5,8 @@
 	<name>Galaxian (Set 2)</name>
 	<region></region>
 	<version>Set 2</version>
-	<alternative>Galaxian</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Galaxian</parent_title>
 	<platform></platform>
 	<series>Galaxian</series>
 	<homebrew>no</homebrew>

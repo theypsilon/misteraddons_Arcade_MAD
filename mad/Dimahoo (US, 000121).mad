@@ -3,9 +3,11 @@
 
 	<setname>dimahoou</setname>
 	<name>Dimahoo (US, 000121)</name>
+	<name_notnice>Dimahoo (USA 000121)</name_notnice>
 	<region>USA</region>
 	<version>000121</version>
-	<alternative>Dimahoo</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Dimahoo</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series></series>
 	<homebrew>no</homebrew>

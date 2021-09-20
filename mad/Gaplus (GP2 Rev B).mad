@@ -5,7 +5,8 @@
 	<name>Gaplus (GP2 Rev B)</name>
 	<region></region>
 	<version>GP2 Rev B</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series>Galaxian</series>
 	<homebrew>no</homebrew>

@@ -3,9 +3,11 @@
 
 	<setname>bbredux</setname>
 	<name>Bubble Bobble (Redux, for BB PCB) [bl]</name>
+	<name_notnice>Bubble Bobble (bootleg redux hack for Bobble Bobble PCB)</name_notnice>
 	<region></region>
 	<version>Redux, for BB PCB</version>
-	<alternative>Bubble Bobble</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Bubble Bobble</parent_title>
 	<platform></platform>
 	<series>Bubble Bobble</series>
 	<homebrew>no</homebrew>

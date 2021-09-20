@@ -3,9 +3,11 @@
 
 	<setname>1943j</setname>
 	<name>1943- Midway Kaisen (JP, Rev B)</name>
+	<name_notnice>1943 Midway Kaisen</name_notnice>
 	<region>Japan</region>
 	<version>Rev B</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-0</platform>
 	<series>19XX</series>
 	<homebrew>no</homebrew>

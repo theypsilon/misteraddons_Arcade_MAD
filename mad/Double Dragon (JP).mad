@@ -3,9 +3,11 @@
 
 	<setname>ddragon</setname>
 	<name>Double Dragon (JP)</name>
+	<name_notnice>Double Dragon</name_notnice>
 	<region>Japan</region>
 	<version></version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series>Double Dragon</series>
 	<homebrew>no</homebrew>

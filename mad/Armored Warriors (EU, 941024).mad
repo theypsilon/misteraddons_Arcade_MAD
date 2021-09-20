@@ -3,9 +3,11 @@
 
 	<setname>armwar</setname>
 	<name>Armored Warriors (EU, 941024)</name>
+	<name_notnice>Armored Warriors (Euro 941024)</name_notnice>
 	<region>Europe</region>
 	<version>941024</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series></series>
 	<homebrew>no</homebrew>

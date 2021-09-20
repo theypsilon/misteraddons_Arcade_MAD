@@ -3,9 +3,11 @@
 
 	<setname>wof</setname>
 	<name>Warriors of Fate (W, 921031)</name>
+	<name_notnice>Warriors of Fate (World 921031)</name_notnice>
 	<region>World</region>
 	<version>921031</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-1.5</platform>
 	<series>Dynasty Wars</series>
 	<homebrew>no</homebrew>

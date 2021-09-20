@@ -3,9 +3,11 @@
 
 	<setname>commando</setname>
 	<name>Commando (W)</name>
+	<name_notnice>Commando</name_notnice>
 	<region>World</region>
 	<version></version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-0</platform>
 	<series>Commando</series>
 	<homebrew>no</homebrew>

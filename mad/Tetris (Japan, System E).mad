@@ -5,7 +5,8 @@
 	<name>Tetris (Japan, System E)</name>
 	<region>Japan</region>
 	<version>System E</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Sega System E</platform>
 	<series></series>
 	<homebrew>no</homebrew>

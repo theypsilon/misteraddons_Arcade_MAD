@@ -5,7 +5,8 @@
 	<name>Kamakazi III (Superg) [hb]</name>
 	<region></region>
 	<version>Superg</version>
-	<alternative>Scramble</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Scramble</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>yes</homebrew>

@@ -3,9 +3,11 @@
 
 	<setname>xmcotab</setname>
 	<name>X-Men- Children of the Atom (W, 950331)</name>
+	<name_notnice>X-Men Children of the Atom (Brazil 950331)</name_notnice>
 	<region>World</region>
 	<version>950331</version>
-	<alternative>X-Men- Children of the Atom</alternative>
+	<alternative>yes</alternative>
+	<parent_title>X-Men- Children of the Atom</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>X-Men</series>
 	<series>Marvel</series>

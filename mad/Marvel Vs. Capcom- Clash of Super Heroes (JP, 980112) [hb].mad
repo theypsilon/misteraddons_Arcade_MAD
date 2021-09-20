@@ -3,9 +3,11 @@
 
 	<setname>mvscjr1</setname>
 	<name>Marvel Vs. Capcom- Clash of Super Heroes (JP, 980112) [hb]</name>
+	<name_notnice>Marvel Vs. Capcom Clash of Super Heroes (USA 980112) [Onslaught Edition]</name_notnice>
 	<region>Japan</region>
 	<version>980112</version>
-	<alternative>Marvel Vs. Capcom- Clash of Super Heroes</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Marvel Vs. Capcom- Clash of Super Heroes</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Marvel</series>
 	<series>Capcom</series>

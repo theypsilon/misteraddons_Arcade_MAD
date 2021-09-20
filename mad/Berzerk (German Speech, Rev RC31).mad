@@ -5,7 +5,8 @@
 	<name>Berzerk (German Speech, Rev RC31)</name>
 	<region></region>
 	<version>German Speech, Rev RC31</version>
-	<alternative>Berzerk</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Berzerk</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

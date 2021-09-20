@@ -5,7 +5,8 @@
 	<name>Star Jacker (Japan) [No Protection]</name>
 	<region>Japan</region>
 	<version>Alt</version>
-	<alternative>Star Jacker</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Star Jacker</parent_title>
 	<platform>Sega System 1</platform>
 	<series></series>
 	<homebrew>no</homebrew>

@@ -5,7 +5,8 @@
 	<name>Asteroids Deluxe (Rev 1)</name>
 	<region></region>
 	<version>Rev 1</version>
-	<alternative>Asteroids Deluxe</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Asteroids Deluxe</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

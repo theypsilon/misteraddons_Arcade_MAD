@@ -5,7 +5,8 @@
 	<name>Crazy Kong (Kyoei)</name>
 	<region></region>
 	<version>Kyoei</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series>Donkey Kong</series>
 	<homebrew>no</homebrew>

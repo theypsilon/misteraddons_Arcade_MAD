@@ -5,7 +5,8 @@
 	<name>Q'bert Qubes</name>
 	<region></region>
 	<version></version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series>Q'bert</series>
 	<homebrew>no</homebrew>

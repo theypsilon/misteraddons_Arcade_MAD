@@ -3,9 +3,11 @@
 
 	<setname>contrae</setname>
 	<name>Contra (US, Set 3)</name>
+	<name_notnice>Contra (US 3)</name_notnice>
 	<region>USA</region>
 	<version>Set 3</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series>Contra</series>
 	<homebrew>no</homebrew>

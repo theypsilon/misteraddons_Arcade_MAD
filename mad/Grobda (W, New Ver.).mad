@@ -5,7 +5,8 @@
 	<name>Grobda (W, New Ver.)</name>
 	<region>World</region>
 	<version>New Ver.</version>
-	<alternative></alternative>
+	<alternative>yes</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

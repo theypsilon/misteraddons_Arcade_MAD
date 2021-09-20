@@ -5,7 +5,8 @@
 	<name>Crazy Kong Part II (Set 1)</name>
 	<region></region>
 	<version>Set 1</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series>Donkey Kong</series>
 	<homebrew>no</homebrew>

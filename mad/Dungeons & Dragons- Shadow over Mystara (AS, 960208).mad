@@ -3,9 +3,11 @@
 
 	<setname>ddsomar1</setname>
 	<name>Dungeons &amp; Dragons- Shadow over Mystara (AS, 960208)</name>
+	<name_notnice>Dungeons &amp; Dragons Shadow over Mystara (Asia 960208)</name_notnice>
 	<region>Asia</region>
 	<version>960208</version>
-	<alternative>Dungeons &amp; Dragons- Shadow over Mystara</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Dungeons &amp; Dragons- Shadow over Mystara</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Dungeons &amp; Dragons</series>
 	<homebrew>no</homebrew>

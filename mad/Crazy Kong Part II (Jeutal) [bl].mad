@@ -5,7 +5,8 @@
 	<name>Crazy Kong Part II (Jeutal) [bl]</name>
 	<region></region>
 	<version>Jeutal</version>
-	<alternative>Crazy Kong</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Crazy Kong</parent_title>
 	<platform></platform>
 	<series>Donkey Kong</series>
 	<homebrew>no</homebrew>

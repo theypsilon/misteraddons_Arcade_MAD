@@ -3,9 +3,11 @@
 
 	<setname>trojanb</setname>
 	<name>Trojan [bl]</name>
+	<name_notnice>Trojan (bootleg)</name_notnice>
 	<region></region>
 	<version></version>
-	<alternative>Trojan</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Trojan</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

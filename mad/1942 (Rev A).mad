@@ -3,9 +3,11 @@
 
 	<setname>1942a</setname>
 	<name>1942 (Rev A)</name>
+	<name_notnice>1942 (Revision A)</name_notnice>
 	<region></region>
 	<version>Rev A</version>
-	<alternative>1942</alternative>
+	<alternative>yes</alternative>
+	<parent_title>1942</parent_title>
 	<platform>Capcom CPS-0</platform>
 	<series>19XX</series>
 	<homebrew>no</homebrew>

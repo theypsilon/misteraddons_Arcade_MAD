@@ -5,7 +5,8 @@
 	<name>DoDonPachi (20120212 Arrange Ver. 1.1)</name>
 	<region></region>
 	<version>Arrange V1.1</version>
-	<alternative>DonPachi</alternative>
+	<alternative>yes</alternative>
+	<parent_title>DonPachi</parent_title>
 	<platform>CAVE 68000</platform>
 	<series>DonPachi</series>
 	<homebrew>yes</homebrew>

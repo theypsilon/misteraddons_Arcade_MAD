@@ -5,7 +5,8 @@
 	<name>TeddyBoy Blues (315-5115, New Ver)</name>
 	<region></region>
 	<version>315-5115, New Ver</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Sega System 1</platform>
 	<series></series>
 	<homebrew>no</homebrew>

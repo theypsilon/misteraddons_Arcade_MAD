@@ -3,9 +3,11 @@
 
 	<setname>batcira</setname>
 	<name>Battle Circuit (AS, 970319)</name>
+	<name_notnice>Battle Circuit (Asia 970319)</name_notnice>
 	<region>Asia</region>
 	<version>970319</version>
-	<alternative>Battle Circuit</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Battle Circuit</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series></series>
 	<homebrew>no</homebrew>

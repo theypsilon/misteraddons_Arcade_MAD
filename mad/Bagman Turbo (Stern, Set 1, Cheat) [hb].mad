@@ -5,7 +5,8 @@
 	<name>Bagman Turbo (Stern, Set 1, Cheat) [hb]</name>
 	<region></region>
 	<version>Stern, Set 1, Cheat</version>
-	<alternative>Bagman</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Bagman</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>yes</homebrew>

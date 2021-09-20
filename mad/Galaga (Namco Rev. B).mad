@@ -5,7 +5,8 @@
 	<name>Galaga (Namco Rev. B)</name>
 	<region></region>
 	<version>Namco Rev. B</version>
-	<alternative>Galaga</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Galaga</parent_title>
 	<platform></platform>
 	<series>Galaga</series>
 	<homebrew>no</homebrew>

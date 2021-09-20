@@ -5,7 +5,8 @@
 	<name>DoDonPachi (JP)</name>
 	<region>Japan</region>
 	<version></version>
-	<alternative>DonPachi</alternative>
+	<alternative>yes</alternative>
+	<parent_title>DonPachi</parent_title>
 	<platform>CAVE 68000</platform>
 	<series>DonPachi</series>
 	<homebrew>no</homebrew>

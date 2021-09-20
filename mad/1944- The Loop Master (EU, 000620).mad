@@ -3,9 +3,11 @@
 
 	<setname>1944</setname>
 	<name>1944- The Loop Master (EU, 000620)</name>
+	<name_notnice>1944 The Loop Master (Euro 000620)</name_notnice>
 	<region>Europe</region>
 	<version>000620</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>19XX</series>
 	<homebrew>no</homebrew>

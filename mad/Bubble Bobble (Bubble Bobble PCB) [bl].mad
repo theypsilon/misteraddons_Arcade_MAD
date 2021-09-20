@@ -3,9 +3,11 @@
 
 	<setname>bublboblb</setname>
 	<name>Bubble Bobble (Bubble Bobble PCB) [bl]</name>
+	<name_notnice>Bubble Bobble (for Bobble Bobble PCB)</name_notnice>
 	<region></region>
 	<version>Bubble Bobble PCB</version>
-	<alternative>Bubble Bobble</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Bubble Bobble</parent_title>
 	<platform></platform>
 	<series>Bubble Bobble</series>
 	<homebrew>no</homebrew>

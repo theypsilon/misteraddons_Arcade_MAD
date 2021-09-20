@@ -5,7 +5,8 @@
 	<name>Ms. Pac-Man</name>
 	<region></region>
 	<version></version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series>Pac-Man</series>
 	<homebrew>no</homebrew>

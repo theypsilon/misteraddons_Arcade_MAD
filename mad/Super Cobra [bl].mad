@@ -5,7 +5,8 @@
 	<name>Super Cobra [bl]</name>
 	<region></region>
 	<version></version>
-	<alternative>Super Cobra</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Super Cobra</parent_title>
 	<platform></platform>
 	<series>Scramble</series>
 	<homebrew>no</homebrew>

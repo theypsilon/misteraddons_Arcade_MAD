@@ -3,9 +3,11 @@
 
 	<setname>sfua</setname>
 	<name>Street Fighter (US, Protected, Set 2)</name>
+	<name_notnice>Street Fighter (US, set 2) (protected)</name_notnice>
 	<region>USA</region>
 	<version>Protected, Set 2</version>
-	<alternative>Street Fighter</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Street Fighter</parent_title>
 	<platform>Capcom CPS-0</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

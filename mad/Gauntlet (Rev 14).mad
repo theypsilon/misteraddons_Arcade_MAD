@@ -5,7 +5,8 @@
 	<name>Gauntlet (Rev 14)</name>
 	<region></region>
 	<version>Rev 14</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series>Gauntlet</series>
 	<homebrew>no</homebrew>

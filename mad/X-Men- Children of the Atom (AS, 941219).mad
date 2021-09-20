@@ -3,9 +3,11 @@
 
 	<setname>xmcotaar1</setname>
 	<name>X-Men- Children of the Atom (AS, 941219)</name>
+	<name_notnice>X-Men Children of the Atom (Asia 941219)</name_notnice>
 	<region>Asia</region>
 	<version>941219</version>
-	<alternative>X-Men- Children of the Atom</alternative>
+	<alternative>yes</alternative>
+	<parent_title>X-Men- Children of the Atom</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>X-Men</series>
 	<series>Marvel</series>

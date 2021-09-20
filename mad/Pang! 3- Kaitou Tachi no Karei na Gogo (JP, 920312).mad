@@ -3,9 +3,11 @@
 
 	<setname>pang3j</setname>
 	<name>Pang! 3- Kaitou Tachi no Karei na Gogo (JP, 920312)</name>
+	<name_notnice>Pang! 3  Kaitou Tachi no Karei na Gogo -Japan 950511-</name_notnice>
 	<region>Japan</region>
 	<version>920312</version>
-	<alternative>Pang! 3</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Pang! 3</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Pang!</series>
 	<homebrew>no</homebrew>

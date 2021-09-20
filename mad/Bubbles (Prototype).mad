@@ -5,7 +5,8 @@
 	<name>Bubbles (Prototype)</name>
 	<region></region>
 	<version>Prototype</version>
-	<alternative>Bubbles</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Bubbles</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

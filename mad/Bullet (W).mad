@@ -3,9 +3,11 @@
 
 	<setname>bullet</setname>
 	<name>Bullet (W)</name>
+	<name_notnice>Bullet (FD1094 317-0041)</name_notnice>
 	<region>World</region>
 	<version>FD1094 317-0041</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Sega System 16B</platform>
 	<series></series>
 	<homebrew>no</homebrew>

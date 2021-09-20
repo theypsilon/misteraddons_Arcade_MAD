@@ -5,7 +5,8 @@
 	<name>DoDonPachi</name>
 	<region>World</region>
 	<version></version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>CAVE 68000</platform>
 	<series>DonPachi</series>
 	<homebrew>no</homebrew>

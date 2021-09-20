@@ -5,7 +5,8 @@
 	<name>Frogger (Sega, Set 2)</name>
 	<region></region>
 	<version>Sega, Set 2</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

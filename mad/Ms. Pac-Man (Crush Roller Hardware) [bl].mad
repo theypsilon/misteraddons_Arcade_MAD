@@ -5,7 +5,8 @@
 	<name>Ms. Pac-Man (Crush Roller Hardware) [bl]</name>
 	<region></region>
 	<version>Crush Roller Hardware</version>
-	<alternative>Ms. Pac-Man</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Ms. Pac-Man</parent_title>
 	<platform></platform>
 	<series>Pac-Man</series>
 	<homebrew>no</homebrew>

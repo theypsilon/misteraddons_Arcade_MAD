@@ -5,7 +5,8 @@
 	<name>Fantasy Zone II - The Tears of Opa-Opa (MC-8123, 317-0057)</name>
 	<region>Japan</region>
 	<version>MC8123, 317-0057</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Sega System E</platform>
 	<series></series>
 	<homebrew>no</homebrew>

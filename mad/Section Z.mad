@@ -3,9 +3,11 @@
 
 	<setname>sectionz</setname>
 	<name>Section Z</name>
+	<name_notnice>SectionZ</name_notnice>
 	<region></region>
 	<version></version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

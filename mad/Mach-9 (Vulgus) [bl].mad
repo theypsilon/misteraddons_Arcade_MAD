@@ -3,9 +3,11 @@
 
 	<setname>mach9</setname>
 	<name>Mach-9 (Vulgus) [bl]</name>
+	<name_notnice>Mach-9 (bootleg of Vulgus)</name_notnice>
 	<region></region>
 	<version>Vulgus</version>
-	<alternative>Vulgus</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Vulgus</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

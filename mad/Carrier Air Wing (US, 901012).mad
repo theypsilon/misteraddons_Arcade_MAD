@@ -3,9 +3,11 @@
 
 	<setname>cawingur1</setname>
 	<name>Carrier Air Wing (US, 901012)</name>
+	<name_notnice>Carrier Air Wing -USA 901012-</name_notnice>
 	<region>USA</region>
 	<version>901012</version>
-	<alternative>Carrier Air Wing</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Carrier Air Wing</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>U.N. Squadron</series>
 	<homebrew>no</homebrew>

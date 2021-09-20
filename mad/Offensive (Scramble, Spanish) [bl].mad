@@ -5,7 +5,8 @@
 	<name>Offensive (Scramble, Spanish) [bl]</name>
 	<region></region>
 	<version>Scramble, Spanish</version>
-	<alternative>Scramble</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Scramble</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

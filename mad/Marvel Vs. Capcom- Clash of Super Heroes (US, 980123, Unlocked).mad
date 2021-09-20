@@ -3,9 +3,11 @@
 
 	<setname>mvscu</setname>
 	<name>Marvel Vs. Capcom- Clash of Super Heroes (US, 980123, Unlocked)</name>
+	<name_notnice>Marvel Vs. Capcom Clash of Super Heroes (USA 980123) [Unlocked]</name_notnice>
 	<region>USA</region>
 	<version>980123, Unlocked</version>
-	<alternative>Marvel Vs. Capcom- Clash of Super Heroes</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Marvel Vs. Capcom- Clash of Super Heroes</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Marvel</series>
 	<series>Capcom</series>

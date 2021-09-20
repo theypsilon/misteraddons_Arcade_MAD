@@ -3,9 +3,11 @@
 
 	<setname>bublcave10</setname>
 	<name>Bubble Bobble- Lost Cave (v1.0) [hb]</name>
+	<name_notnice>Bubble Bobble Lost Cave V1.0</name_notnice>
 	<region></region>
 	<version>v1.0</version>
-	<alternative>Bubble Bobble</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Bubble Bobble</parent_title>
 	<platform></platform>
 	<series>Bubble Bobble</series>
 	<homebrew>yes</homebrew>

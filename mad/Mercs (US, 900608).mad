@@ -3,9 +3,11 @@
 
 	<setname>mercsu</setname>
 	<name>Mercs (US, 900608)</name>
+	<name_notnice>Mercs -USA 900608-</name_notnice>
 	<region>USA</region>
 	<version>900608</version>
-	<alternative>Mercs</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Mercs</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Commando</series>
 	<homebrew>no</homebrew>

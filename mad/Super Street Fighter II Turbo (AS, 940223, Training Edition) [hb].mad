@@ -3,9 +3,11 @@
 
 	<setname>ssf2ta</setname>
 	<name>Super Street Fighter II Turbo (AS, 940223, Training Edition) [hb]</name>
+	<name_notnice>Super Street Fighter II Turbo (Asia 940223) [Training Edition]</name_notnice>
 	<region>Asia</region>
 	<version>940223, Training Edition</version>
-	<alternative>Super Street Fighter II Turbo</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Super Street Fighter II Turbo</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Street Fighter</series>
 	<homebrew>yes</homebrew>

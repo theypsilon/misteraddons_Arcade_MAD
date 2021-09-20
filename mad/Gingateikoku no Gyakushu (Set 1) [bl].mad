@@ -5,7 +5,8 @@
 	<name>Gingateikoku no Gyakushu (Set 1) [bl]</name>
 	<region></region>
 	<version>Set 1</version>
-	<alternative>UniWar S</alternative>
+	<alternative>yes</alternative>
+	<parent_title>UniWar S</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

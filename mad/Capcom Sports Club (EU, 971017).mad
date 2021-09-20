@@ -3,9 +3,11 @@
 
 	<setname>csclub</setname>
 	<name>Capcom Sports Club (EU, 971017)</name>
+	<name_notnice>Capcom Sports Club (Euro 971017)</name_notnice>
 	<region>Europe</region>
 	<version>971017</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series></series>
 	<homebrew>no</homebrew>

@@ -5,7 +5,8 @@
 	<name>Traverse (US, bootleg)</name>
 	<region>USA</region>
 	<version>bootleg</version>
-	<alternative>Traverse USA</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Traverse USA</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

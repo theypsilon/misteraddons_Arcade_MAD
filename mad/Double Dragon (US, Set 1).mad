@@ -3,9 +3,11 @@
 
 	<setname>ddragonu</setname>
 	<name>Double Dragon (US, Set 1)</name>
+	<name_notnice>Double Dragon (US set 1)</name_notnice>
 	<region>USA</region>
 	<version>Set 1</version>
-	<alternative>Double Dragon</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Double Dragon</parent_title>
 	<platform></platform>
 	<series>Double Dragon</series>
 	<homebrew>no</homebrew>

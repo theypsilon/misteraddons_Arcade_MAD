@@ -3,9 +3,11 @@
 
 	<setname>tokioo</setname>
 	<name>Tokio (Scramble Formation) (Older)</name>
+	<name_notnice>Tokio - Scramble Formation (older)</name_notnice>
 	<region></region>
 	<version>Older</version>
-	<alternative>Scramble Formation</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Scramble Formation</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

@@ -5,7 +5,8 @@
 	<name>Falcon (8085A CPU) [bl]</name>
 	<region></region>
 	<version>8085A CPU</version>
-	<alternative>Phoenix</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Phoenix</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

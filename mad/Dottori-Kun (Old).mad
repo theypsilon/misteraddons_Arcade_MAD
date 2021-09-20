@@ -5,7 +5,8 @@
 	<name>Dottori-Kun (Old)</name>
 	<region></region>
 	<version>Old</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Dottori-Kun</platform>
 	<series></series>
 	<homebrew>no</homebrew>

@@ -3,9 +3,11 @@
 
 	<setname>striderjr</setname>
 	<name>Strider Hiryu (JP, Resale)</name>
+	<name_notnice>Strider Hiryu -Japan Resale Ver.-</name_notnice>
 	<region>Japan</region>
 	<version>Resale</version>
-	<alternative>Strider</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Strider</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Strider</series>
 	<homebrew>no</homebrew>

@@ -3,9 +3,11 @@
 
 	<setname>gmahou</setname>
 	<name>Great Mahou Daisakusen (JP, 000121)</name>
+	<name_notnice>Great Mahou Daisakusen (Japan 000121)</name_notnice>
 	<region>Japan</region>
 	<version>000121</version>
-	<alternative>Dimahoo</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Dimahoo</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series></series>
 	<homebrew>no</homebrew>

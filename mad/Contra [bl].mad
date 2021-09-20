@@ -3,9 +3,11 @@
 
 	<setname>contrab</setname>
 	<name>Contra [bl]</name>
+	<name_notnice>Contra (bootleg)</name_notnice>
 	<region></region>
 	<version></version>
-	<alternative>Contra</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Contra</parent_title>
 	<platform></platform>
 	<series>Contra</series>
 	<homebrew>no</homebrew>

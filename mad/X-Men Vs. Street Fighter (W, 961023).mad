@@ -3,9 +3,11 @@
 
 	<setname>xmvsfb</setname>
 	<name>X-Men Vs. Street Fighter (W, 961023)</name>
+	<name_notnice>X-Men Vs. Street Fighter (Brazil 961023)</name_notnice>
 	<region>World</region>
 	<version>961023</version>
-	<alternative>X-Men Vs. Street Fighter</alternative>
+	<alternative>yes</alternative>
+	<parent_title>X-Men Vs. Street Fighter</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Marvel</series>
 	<series>Capcom</series>

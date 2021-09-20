@@ -3,9 +3,11 @@
 
 	<setname>cybotsj</setname>
 	<name>Cyberbots- Fullmetal Madness (JP, 940524)</name>
+	<name_notnice>Cyberbots Fullmetal Madness (Japan 950420)</name_notnice>
 	<region>Japan</region>
 	<version>940524</version>
-	<alternative>Cyberbots Fullmetal Madness</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Cyberbots Fullmetal Madness</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series></series>
 	<homebrew>no</homebrew>

@@ -3,9 +3,11 @@
 
 	<setname>bublboblr</setname>
 	<name>Bubble Bobble (US, v5.1)</name>
+	<name_notnice>Bubble Bobble (US, Ver 5.1)</name_notnice>
 	<region>USA</region>
 	<version>v5.1</version>
-	<alternative>Bubble Bobble</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Bubble Bobble</parent_title>
 	<platform></platform>
 	<series>Bubble Bobble</series>
 	<homebrew>no</homebrew>

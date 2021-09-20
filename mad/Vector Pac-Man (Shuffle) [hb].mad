@@ -5,7 +5,8 @@
 	<name>Vector Pac-Man (Shuffle) [hb]</name>
 	<region></region>
 	<version>Shuffle</version>
-	<alternative>Pac-Man</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Pac-Man</parent_title>
 	<platform></platform>
 	<series>Pac-Man</series>
 	<homebrew>yes</homebrew>

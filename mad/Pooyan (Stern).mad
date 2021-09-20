@@ -5,7 +5,8 @@
 	<name>Pooyan (Stern)</name>
 	<region></region>
 	<version>Stern</version>
-	<alternative>Pooyan</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Pooyan</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

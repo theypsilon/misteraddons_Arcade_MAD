@@ -3,9 +3,11 @@
 
 	<setname>shinobi</setname>
 	<name>Shinobi (W, Set 6)</name>
+	<name_notnice>Shinobi (Set 6, World, S16A) [No Protection]</name_notnice>
 	<region>World</region>
 	<version>Set 6, No Protection</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Sega System 16A</platform>
 	<series>Shinobi</series>
 	<homebrew>no</homebrew>

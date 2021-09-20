@@ -5,7 +5,8 @@
 	<name>Bump 'n' Jump (Reverse) [hb]</name>
 	<region></region>
 	<version>Reverse</version>
-	<alternative>Burning Rubber</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Burning Rubber</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>yes</homebrew>

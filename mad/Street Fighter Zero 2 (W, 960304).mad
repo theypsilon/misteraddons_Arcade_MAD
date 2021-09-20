@@ -3,9 +3,11 @@
 
 	<setname>sfz2br1</setname>
 	<name>Street Fighter Zero 2 (W, 960304)</name>
+	<name_notnice>Street Fighter Zero 2 (Brazil 960304)</name_notnice>
 	<region>World</region>
 	<version>960304</version>
-	<alternative>Street Fighter Zero 2</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Street Fighter Zero 2</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

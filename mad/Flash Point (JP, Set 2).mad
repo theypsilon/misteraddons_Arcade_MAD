@@ -3,9 +3,11 @@
 
 	<setname>fpoint</setname>
 	<name>Flash Point (JP, Set 2)</name>
+	<name_notnice>Flash Point (set 2, Japan) (FD1094 317-0127A)</name_notnice>
 	<region>Japan</region>
 	<version>Set 2, FD1094 317-0127A</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Sega System 16B</platform>
 	<series></series>
 	<homebrew>no</homebrew>

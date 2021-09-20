@@ -3,9 +3,11 @@
 
 	<setname>spf2th</setname>
 	<name>Super Puzzle Fighter II Turbo (HS, 960531)</name>
+	<name_notnice>Super Puzzle Fighter II Turbo (Hispanic 960531)</name_notnice>
 	<region>Hispanic</region>
 	<version>960531</version>
-	<alternative>Super Puzzle Fighter II Turbo</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Super Puzzle Fighter II Turbo</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

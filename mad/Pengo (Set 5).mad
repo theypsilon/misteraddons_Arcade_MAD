@@ -5,7 +5,8 @@
 	<name>Pengo (Set 5)</name>
 	<region></region>
 	<version>Set 5</version>
-	<alternative>Pengo</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Pengo</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

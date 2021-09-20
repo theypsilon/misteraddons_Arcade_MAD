@@ -3,9 +3,11 @@
 
 	<setname>mbombrd</setname>
 	<name>Muscle Bomber Duo- Ultimate Team Battle (W, 931206)</name>
+	<name_notnice>Muscle Bomber Duo Ultimate Team Battle (World 931206)</name_notnice>
 	<region>World</region>
 	<version>931206</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-1.5</platform>
 	<series>Slam Masters</series>
 	<homebrew>no</homebrew>

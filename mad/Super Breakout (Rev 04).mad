@@ -5,7 +5,8 @@
 	<name>Super Breakout (Rev 04)</name>
 	<region></region>
 	<version>Rev 04</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series>Breakout</series>
 	<homebrew>no</homebrew>

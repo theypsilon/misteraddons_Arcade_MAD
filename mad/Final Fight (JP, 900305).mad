@@ -3,9 +3,11 @@
 
 	<setname>ffightj2</setname>
 	<name>Final Fight (JP, 900305)</name>
+	<name_notnice>Final Fight -Japan 900305-</name_notnice>
 	<region>Japan</region>
 	<version>900305</version>
-	<alternative>Final Fight</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Final Fight</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Final Fight</series>
 	<homebrew>no</homebrew>

@@ -3,9 +3,11 @@
 
 	<setname>progear</setname>
 	<name>Progear (US, 010117)</name>
+	<name_notnice>Progear (USA 010117)</name_notnice>
 	<region>USA</region>
 	<version>010117</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series></series>
 	<homebrew>no</homebrew>

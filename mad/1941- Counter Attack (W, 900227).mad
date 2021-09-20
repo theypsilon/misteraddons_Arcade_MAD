@@ -3,9 +3,11 @@
 
 	<setname>1941</setname>
 	<name>1941- Counter Attack (W, 900227)</name>
+	<name_notnice>1941  Counter Attack -World 900227-</name_notnice>
 	<region>World</region>
 	<version>900227</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>19XX</series>
 	<homebrew>no</homebrew>

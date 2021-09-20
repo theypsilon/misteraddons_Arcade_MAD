@@ -3,9 +3,11 @@
 
 	<setname>pzloop2</setname>
 	<name>Puzz Loop 2 (EU, 010302)</name>
+	<name_notnice>Puzz Loop 2 (Euro 010302)</name_notnice>
 	<region>Europe</region>
 	<version>010302</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Puzz Loop</series>
 	<homebrew>no</homebrew>

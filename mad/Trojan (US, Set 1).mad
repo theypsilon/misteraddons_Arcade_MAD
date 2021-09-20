@@ -3,9 +3,11 @@
 
 	<setname>trojan</setname>
 	<name>Trojan (US, Set 1)</name>
+	<name_notnice>Trojan (US set 1)</name_notnice>
 	<region>USA</region>
 	<version>Set 1</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

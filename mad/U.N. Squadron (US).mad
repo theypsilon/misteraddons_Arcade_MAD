@@ -3,9 +3,11 @@
 
 	<setname>unsquad</setname>
 	<name>U.N. Squadron (US)</name>
+	<name_notnice>U.N. Squadron -USA-</name_notnice>
 	<region>USA</region>
 	<version></version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>U.N. Squadron</series>
 	<homebrew>no</homebrew>

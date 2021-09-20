@@ -3,9 +3,11 @@
 
 	<setname>xmvsf</setname>
 	<name>X-Men Vs. Street Fighter (EU, 961004)</name>
+	<name_notnice>X-Men Vs. Street Fighter (Euro 961004)</name_notnice>
 	<region>Europe</region>
 	<version>961004</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Marvel</series>
 	<series>Capcom</series>

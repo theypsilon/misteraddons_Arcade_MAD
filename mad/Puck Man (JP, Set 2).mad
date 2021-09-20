@@ -5,7 +5,8 @@
 	<name>Puck Man (JP, Set 2)</name>
 	<region>Japan</region>
 	<version>Set 2</version>
-	<alternative>Pac-Man</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Pac-Man</parent_title>
 	<platform></platform>
 	<series>Pac-Man</series>
 	<homebrew>no</homebrew>

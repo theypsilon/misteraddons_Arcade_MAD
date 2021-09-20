@@ -3,9 +3,11 @@
 
 	<setname>1941u</setname>
 	<name>1941- Counter Attack (US, 900227)</name>
+	<name_notnice>1941  Counter Attack -USA 900227-</name_notnice>
 	<region>USA</region>
 	<version>900227</version>
-	<alternative>1941- Counter Attack</alternative>
+	<alternative>yes</alternative>
+	<parent_title>1941- Counter Attack</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>19XX</series>
 	<homebrew>no</homebrew>

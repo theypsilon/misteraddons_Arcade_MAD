@@ -5,7 +5,8 @@
 	<name>War of the Bugs or Monsterous Manouvers in a Mushroom Maze (US)</name>
 	<region>USA</region>
 	<version></version>
-	<alternative>War of the Bugs</alternative>
+	<alternative>yes</alternative>
+	<parent_title>War of the Bugs</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

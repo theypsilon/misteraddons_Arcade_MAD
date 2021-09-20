@@ -3,9 +3,11 @@
 
 	<setname>qndream</setname>
 	<name>Quiz Nanairo Dreams- Nijiirochou no Kiseki (JP, 960826)</name>
+	<name_notnice>Quiz Nanairo Dreams Nijiirochou no Kiseki (Japan 960826)</name_notnice>
 	<region>Japan</region>
 	<version>960826</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Puzz Loop</series>
 	<homebrew>no</homebrew>

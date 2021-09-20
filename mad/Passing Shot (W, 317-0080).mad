@@ -3,9 +3,11 @@
 
 	<setname>passsht</setname>
 	<name>Passing Shot (W, 317-0080)</name>
+	<name_notnice>Passing Shot (World, 2 Players) (FD1094 317-0080)</name_notnice>
 	<region>World</region>
 	<version>2 Players, FD1094 317-0080</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Sega System 16B</platform>
 	<series></series>
 	<homebrew>no</homebrew>

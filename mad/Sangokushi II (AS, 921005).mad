@@ -3,9 +3,11 @@
 
 	<setname>wofa</setname>
 	<name>Sangokushi II (AS, 921005)</name>
+	<name_notnice>Sangokushi II (Asia 921005)</name_notnice>
 	<region>Asia</region>
 	<version>921005</version>
-	<alternative>Sangokushi II</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Sangokushi II</parent_title>
 	<platform>Capcom CPS-1.5</platform>
 	<series></series>
 	<homebrew>no</homebrew>

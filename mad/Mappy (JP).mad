@@ -5,7 +5,8 @@
 	<name>Mappy (JP)</name>
 	<region>Japan</region>
 	<version></version>
-	<alternative>Mappy</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Mappy</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

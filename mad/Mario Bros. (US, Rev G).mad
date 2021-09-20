@@ -5,7 +5,8 @@
 	<name>Mario Bros. (US, Rev G)</name>
 	<region>USA</region>
 	<version>Rev G</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series>Mario</series>
 	<homebrew>no</homebrew>

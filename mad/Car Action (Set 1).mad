@@ -5,7 +5,8 @@
 	<name>Car Action (Set 1)</name>
 	<region></region>
 	<version>Set 1</version>
-	<alternative>Burning Rubber</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Burning Rubber</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

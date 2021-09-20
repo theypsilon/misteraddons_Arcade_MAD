@@ -3,9 +3,11 @@
 
 	<setname>hsf2j1</setname>
 	<name>Hyper Street Fighter II- The Anniversary Edition (JP, 031222)</name>
+	<name_notnice>Hyper Street Fighter II The Anniversary Edition (Japan 031222)</name_notnice>
 	<region>Japan</region>
 	<version>031222</version>
-	<alternative>Hyper Street Fighter II- The Anniversary Edition</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Hyper Street Fighter II- The Anniversary Edition</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

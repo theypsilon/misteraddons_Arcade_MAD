@@ -3,9 +3,11 @@
 
 	<setname>punisher</setname>
 	<name>The Punisher (W, 930422)</name>
+	<name_notnice>The Punisher (World 930422)</name_notnice>
 	<region>World</region>
 	<version>930422</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-1.5</platform>
 	<series></series>
 	<homebrew>no</homebrew>

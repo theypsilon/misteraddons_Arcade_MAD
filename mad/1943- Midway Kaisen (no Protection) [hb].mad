@@ -3,9 +3,11 @@
 
 	<setname>1943jah</setname>
 	<name>1943- Midway Kaisen (no Protection) [hb]</name>
+	<name_notnice>1943 Midway Kaisen (Japan, no protection hack)</name_notnice>
 	<region></region>
 	<version>no Protection</version>
-	<alternative>1943- The Battle of Midway</alternative>
+	<alternative>yes</alternative>
+	<parent_title>1943- The Battle of Midway</parent_title>
 	<platform>Capcom CPS-0</platform>
 	<series>19XX</series>
 	<homebrew>yes</homebrew>

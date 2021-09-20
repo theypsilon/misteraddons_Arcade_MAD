@@ -5,7 +5,8 @@
 	<name>Gardia (317-0006)</name>
 	<region></region>
 	<version>317-0006</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Sega System 1</platform>
 	<series></series>
 	<homebrew>no</homebrew>

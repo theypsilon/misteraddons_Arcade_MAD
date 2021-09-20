@@ -3,9 +3,11 @@
 
 	<setname>19xx</setname>
 	<name>19XX- The War Against Destiny (EU, 960104)</name>
+	<name_notnice>19XX The War Against Destiny (Euro 960104)</name_notnice>
 	<region>Europe</region>
 	<version>960104</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>19XX</series>
 	<homebrew>no</homebrew>

@@ -3,9 +3,11 @@
 
 	<setname>sf2hfj</setname>
 	<name>Street Fighter II' Turbo- Hyper Fighting (JP, 921209)</name>
+	<name_notnice>Street Fighter II' Turbo  Hyper Fighting -Japan 921209-</name_notnice>
 	<region>Japan</region>
 	<version>921209</version>
-	<alternative>Street Fighter II</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Street Fighter II</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

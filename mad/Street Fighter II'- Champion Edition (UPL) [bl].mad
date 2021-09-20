@@ -3,9 +3,11 @@
 
 	<setname>sf2ceupl</setname>
 	<name>Street Fighter II'- Champion Edition (UPL) [bl]</name>
+	<name_notnice>Street Fighter II'  Champion Edition -UPL bootleg-</name_notnice>
 	<region></region>
 	<version>UPL</version>
-	<alternative>Street Fighter II</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Street Fighter II</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

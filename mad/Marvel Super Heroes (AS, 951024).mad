@@ -3,9 +3,11 @@
 
 	<setname>msha</setname>
 	<name>Marvel Super Heroes (AS, 951024)</name>
+	<name_notnice>Marvel Super Heroes (Asia 951024)</name_notnice>
 	<region>Asia</region>
 	<version>951024</version>
-	<alternative>Marvel Super Heroes</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Marvel Super Heroes</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Marvel</series>
 	<series>Capcom</series>

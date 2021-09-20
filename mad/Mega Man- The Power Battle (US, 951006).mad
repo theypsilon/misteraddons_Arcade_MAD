@@ -3,9 +3,11 @@
 
 	<setname>megaman</setname>
 	<name>Mega Man- The Power Battle (US, 951006)</name>
+	<name_notnice>Mega Man  The Power Battle -CPS1, USA 951006-</name_notnice>
 	<region>USA</region>
 	<version>951006</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Mega Man</series>
 	<homebrew>no</homebrew>

@@ -3,9 +3,11 @@
 
 	<setname>sfa2</setname>
 	<name>Street Fighter Alpha 2 (EU, 960229, Training Edition) [hb]</name>
+	<name_notnice>Street Fighter Alpha 2 (Euro 960229) [Training Edition]</name_notnice>
 	<region>Europe</region>
 	<version>960229, Training Edition</version>
-	<alternative>Street Fighter Alpha 2</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Street Fighter Alpha 2</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Street Fighter</series>
 	<homebrew>yes</homebrew>

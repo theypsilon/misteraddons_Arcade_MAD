@@ -3,9 +3,11 @@
 
 	<setname>f1dream</setname>
 	<name>F-1 Dream</name>
+	<name_notnice>F-1 Dream</name_notnice>
 	<region></region>
 	<version></version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

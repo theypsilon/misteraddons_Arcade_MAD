@@ -3,9 +3,11 @@
 
 	<setname>ssf2j</setname>
 	<name>Super Street Fighter II- The New Challengers (JP, 931005)</name>
+	<name_notnice>Super Street Fighter II The New Challengers (Japan 931005)</name_notnice>
 	<region>Japan</region>
 	<version>931005</version>
-	<alternative>Super Street Fighter II- The New Challengers</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Super Street Fighter II- The New Challengers</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

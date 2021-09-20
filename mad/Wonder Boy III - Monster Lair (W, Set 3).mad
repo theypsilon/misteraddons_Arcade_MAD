@@ -3,9 +3,11 @@
 
 	<setname>wb33</setname>
 	<name>Wonder Boy III - Monster Lair (W, Set 3)</name>
+	<name_notnice>Wonder Boy III - Monster Lair (set 3, World, System 16B) (FD1094 317-0089)</name_notnice>
 	<region>World</region>
 	<version>Set 3</version>
-	<alternative>Wonder Boy III</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Wonder Boy III</parent_title>
 	<platform>Sega System 16B</platform>
 	<series>Wonder Boy</series>
 	<homebrew>no</homebrew>

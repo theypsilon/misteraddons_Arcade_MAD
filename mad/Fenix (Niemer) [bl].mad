@@ -5,7 +5,8 @@
 	<name>Fenix (Niemer) [bl]</name>
 	<region></region>
 	<version>Niemer</version>
-	<alternative>Phoenix</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Phoenix</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

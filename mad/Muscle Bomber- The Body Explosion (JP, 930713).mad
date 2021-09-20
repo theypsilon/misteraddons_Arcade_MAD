@@ -3,9 +3,11 @@
 
 	<setname>mbomberj</setname>
 	<name>Muscle Bomber- The Body Explosion (JP, 930713)</name>
+	<name_notnice>Muscle Bomber The Body Explosion (Japan 930713)</name_notnice>
 	<region>Japan</region>
 	<version>930713</version>
-	<alternative>Slam Masters</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Slam Masters</parent_title>
 	<platform>Capcom CPS-1.5</platform>
 	<series>Slam Masters</series>
 	<homebrew>no</homebrew>

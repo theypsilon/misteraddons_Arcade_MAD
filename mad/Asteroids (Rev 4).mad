@@ -5,7 +5,8 @@
 	<name>Asteroids (Rev 4)</name>
 	<region></region>
 	<version></version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series>Asteroids</series>
 	<homebrew></homebrew>

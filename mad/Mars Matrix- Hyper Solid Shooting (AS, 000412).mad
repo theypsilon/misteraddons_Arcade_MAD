@@ -3,9 +3,11 @@
 
 	<setname>mmatrix</setname>
 	<name>Mars Matrix- Hyper Solid Shooting (AS, 000412)</name>
+	<name_notnice>Mars Matrix Hyper Solid Shooting (Asia 000412)</name_notnice>
 	<region>Asia</region>
 	<version>000412</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series></series>
 	<homebrew>no</homebrew>

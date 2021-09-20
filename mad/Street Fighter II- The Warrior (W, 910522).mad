@@ -3,9 +3,11 @@
 
 	<setname>sf2</setname>
 	<name>Street Fighter II- The Warrior (W, 910522)</name>
+	<name_notnice>Street Fighter II  The World Warrior -World 910522-</name_notnice>
 	<region>World</region>
 	<version>910522</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

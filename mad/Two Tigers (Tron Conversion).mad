@@ -5,7 +5,8 @@
 	<name>Two Tigers (Tron Conversion)</name>
 	<region></region>
 	<version>Tron Conversion</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Midway MCR2</platform>
 	<series></series>
 	<homebrew>no</homebrew>

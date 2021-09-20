@@ -5,7 +5,8 @@
 	<name>Spelunker (JP)</name>
 	<region>Japan</region>
 	<version></version>
-	<alternative>Spelunker</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Spelunker</parent_title>
 	<platform>Irem M62</platform>
 	<series></series>
 	<homebrew>no</homebrew>

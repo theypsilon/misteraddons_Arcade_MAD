@@ -3,9 +3,11 @@
 
 	<setname>kodr2</setname>
 	<name>The King of Dragons (W, 910731)</name>
+	<name_notnice>The King of Dragons -World 910731-</name_notnice>
 	<region>World</region>
 	<version>910731</version>
-	<alternative>The King of Dragons</alternative>
+	<alternative>yes</alternative>
+	<parent_title>The King of Dragons</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series></series>
 	<homebrew>no</homebrew>

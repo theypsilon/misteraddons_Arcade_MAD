@@ -3,9 +3,11 @@
 
 	<setname>slammast</setname>
 	<name>Saturday Night Slam Masters (W, 930713)</name>
+	<name_notnice>Saturday Night Slam Masters (World 930713)</name_notnice>
 	<region>World</region>
 	<version>930713</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-1.5</platform>
 	<series>Slam Masters</series>
 	<homebrew>no</homebrew>

@@ -3,9 +3,11 @@
 
 	<setname>avspu</setname>
 	<name>Alien vs. Predator (US, 940520)</name>
+	<name_notnice>Alien vs. Predator (USA 940520)</name_notnice>
 	<region>USA</region>
 	<version>940520</version>
-	<alternative>Alien vs. Predator</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Alien vs. Predator</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Aliens</series>
 	<homebrew>no</homebrew>

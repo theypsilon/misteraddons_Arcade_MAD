@@ -3,9 +3,11 @@
 
 	<setname>sidearmsur1</setname>
 	<name>Side Arms- Hyper Dyne (US, 861128)</name>
+	<name_notnice>Side Arms - Hyper Dyne (US, 861128)</name_notnice>
 	<region>USA</region>
 	<version>861128</version>
-	<alternative>Side Arms</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Side Arms</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

@@ -3,9 +3,11 @@
 
 	<setname>mmancp2ur2</setname>
 	<name>Mega Man- The Power Battle (US, CPS2, 950925, SAMPLE Version)</name>
+	<name_notnice>Mega Man The Power Battle (CPS2, USA 950925, SAMPLE Version)</name_notnice>
 	<region>USA</region>
 	<version>CPS2, 950925, SAMPLE Version</version>
-	<alternative>Mega Man- The Power Battle</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Mega Man- The Power Battle</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Mega Man</series>
 	<homebrew>no</homebrew>

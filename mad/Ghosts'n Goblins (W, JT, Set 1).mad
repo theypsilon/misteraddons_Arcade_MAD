@@ -3,9 +3,11 @@
 
 	<setname>gng</setname>
 	<name>Ghosts'n Goblins (W, JT, Set 1)</name>
+	<name_notnice>Ghosts'n Goblins (JT)</name_notnice>
 	<region>World</region>
 	<version>JT, Set 1</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-0</platform>
 	<series>Ghosts 'n</series>
 	<homebrew>no</homebrew>

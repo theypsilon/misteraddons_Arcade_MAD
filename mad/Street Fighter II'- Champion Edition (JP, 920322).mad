@@ -3,9 +3,11 @@
 
 	<setname>sf2ceja</setname>
 	<name>Street Fighter II'- Champion Edition (JP, 920322)</name>
+	<name_notnice>Street Fighter II'  Champion Edition -Japan 920322-</name_notnice>
 	<region>Japan</region>
 	<version>920322</version>
-	<alternative>Street Fighter II</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Street Fighter II</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

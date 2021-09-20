@@ -5,7 +5,8 @@
 	<name>Handi-Man in Cyberworld [hb]</name>
 	<region></region>
 	<version></version>
-	<alternative>Tron</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Tron</parent_title>
 	<platform>Midway MCR</platform>
 	<series></series>
 	<homebrew>yes</homebrew>

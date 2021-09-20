@@ -5,7 +5,8 @@
 	<name>Breakout (TTL)</name>
 	<region></region>
 	<version>TTL</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series>Breakout</series>
 	<homebrew>no</homebrew>

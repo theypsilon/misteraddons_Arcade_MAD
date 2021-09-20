@@ -5,7 +5,8 @@
 	<name>Pac-Man (Midway)</name>
 	<region></region>
 	<version>Midway</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series>Pac-Man</series>
 	<homebrew>no</homebrew>

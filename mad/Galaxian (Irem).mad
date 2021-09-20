@@ -5,7 +5,8 @@
 	<name>Galaxian (Irem)</name>
 	<region></region>
 	<version>Irem</version>
-	<alternative>Galaxian</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Galaxian</parent_title>
 	<platform></platform>
 	<series>Galaxian</series>
 	<homebrew>no</homebrew>

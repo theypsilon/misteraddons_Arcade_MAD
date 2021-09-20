@@ -3,9 +3,11 @@
 
 	<setname>1943</setname>
 	<name>1943- The Battle of Midway (EU)</name>
+	<name_notnice>1943 The Battle of Midway (Euro)</name_notnice>
 	<region>Europe</region>
 	<version></version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-0</platform>
 	<series>19XX</series>
 	<homebrew>no</homebrew>

@@ -3,9 +3,11 @@
 
 	<setname>xmvsfu</setname>
 	<name>X-Men Vs. Street Fighter (US, 961023)</name>
+	<name_notnice>X-Men Vs. Street Fighter (USA 961023)</name_notnice>
 	<region>USA</region>
 	<version>961023</version>
-	<alternative>X-Men Vs. Street Fighter</alternative>
+	<alternative>yes</alternative>
+	<parent_title>X-Men Vs. Street Fighter</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Marvel</series>
 	<series>Capcom</series>

@@ -3,9 +3,11 @@
 
 	<setname>ddragonb2</setname>
 	<name>Double Dragon [bl]</name>
+	<name_notnice>Double Dragon (bootleg)</name_notnice>
 	<region></region>
 	<version></version>
-	<alternative>Double Dragon</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Double Dragon</parent_title>
 	<platform></platform>
 	<series>Double Dragon</series>
 	<homebrew>no</homebrew>

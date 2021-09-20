@@ -3,9 +3,11 @@
 
 	<setname>msh</setname>
 	<name>Marvel Super Heroes (EU, 951024)</name>
+	<name_notnice>Marvel Super Heroes (Euro 951024)</name_notnice>
 	<region>Europe</region>
 	<version>951024</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Marvel</series>
 	<series>Capcom</series>

@@ -5,7 +5,8 @@
 	<name>Galaga 3 (Set 5)</name>
 	<region></region>
 	<version>Set 5</version>
-	<alternative>Gaplus</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Gaplus</parent_title>
 	<platform></platform>
 	<series>Galaga</series>
 	<homebrew>no</homebrew>

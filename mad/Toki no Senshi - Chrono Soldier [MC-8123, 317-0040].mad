@@ -5,7 +5,8 @@
 	<name>Toki no Senshi - Chrono Soldier [MC-8123, 317-0040]</name>
 	<region></region>
 	<version>MC-8123, 317-0040</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Sega System 1</platform>
 	<series></series>
 	<homebrew>no</homebrew>

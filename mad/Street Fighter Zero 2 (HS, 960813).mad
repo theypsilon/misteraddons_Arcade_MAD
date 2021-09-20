@@ -3,9 +3,11 @@
 
 	<setname>sfz2alh</setname>
 	<name>Street Fighter Zero 2 (HS, 960813)</name>
+	<name_notnice>Street Fighter Zero 2 Alpha (Hispanic 960813)</name_notnice>
 	<region>Hispanic</region>
 	<version>960813</version>
-	<alternative>Street Fighter Zero 2</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Street Fighter Zero 2</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

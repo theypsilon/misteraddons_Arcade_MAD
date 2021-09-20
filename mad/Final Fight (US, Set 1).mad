@@ -3,9 +3,11 @@
 
 	<setname>ffightu</setname>
 	<name>Final Fight (US, Set 1)</name>
+	<name_notnice>Final Fight -USA, set 1-</name_notnice>
 	<region>USA</region>
 	<version>Set 1</version>
-	<alternative>Final Fight</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Final Fight</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Final Fight</series>
 	<homebrew>no</homebrew>

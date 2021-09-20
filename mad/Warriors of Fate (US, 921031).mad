@@ -3,9 +3,11 @@
 
 	<setname>wofu</setname>
 	<name>Warriors of Fate (US, 921031)</name>
+	<name_notnice>Warriors of Fate (USA 921031)</name_notnice>
 	<region>USA</region>
 	<version>921031</version>
-	<alternative>Dynasty Wars</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Dynasty Wars</parent_title>
 	<platform>Capcom CPS-1.5</platform>
 	<series>Dynasty Wars</series>
 	<homebrew>no</homebrew>

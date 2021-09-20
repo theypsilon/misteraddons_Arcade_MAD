@@ -5,7 +5,8 @@
 	<name>MotoTour- Zippy Race (Tecfri license)</name>
 	<region></region>
 	<version></version>
-	<alternative>Traverse USA</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Traverse USA</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

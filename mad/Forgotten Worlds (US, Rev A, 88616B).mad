@@ -3,9 +3,11 @@
 
 	<setname>forgottnua</setname>
 	<name>Forgotten Worlds (US, Rev A, 88616B)</name>
+	<name_notnice>Forgotten Worlds -USA, B-Board 88618B-2, Rev. A-</name_notnice>
 	<region>USA</region>
 	<version>Rev A, 88616B</version>
-	<alternative>Forgotten Worlds</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Forgotten Worlds</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series></series>
 	<homebrew>no</homebrew>

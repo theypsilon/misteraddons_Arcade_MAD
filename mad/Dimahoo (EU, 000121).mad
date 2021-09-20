@@ -3,9 +3,11 @@
 
 	<setname>dimahoo</setname>
 	<name>Dimahoo (EU, 000121)</name>
+	<name_notnice>Dimahoo (Euro 000121) [Unlocked]</name_notnice>
 	<region>Europe</region>
 	<version>000121</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series></series>
 	<homebrew>no</homebrew>

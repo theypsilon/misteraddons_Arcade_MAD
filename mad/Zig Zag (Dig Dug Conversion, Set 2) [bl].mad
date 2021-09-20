@@ -5,7 +5,8 @@
 	<name>Zig Zag (Dig Dug Conversion, Set 2) [bl]</name>
 	<region></region>
 	<version>Dig Dug Conversion, Set 2</version>
-	<alternative>Dig Dug</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Dig Dug</parent_title>
 	<platform></platform>
 	<series>Dig Dug</series>
 	<homebrew>no</homebrew>

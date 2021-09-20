@@ -3,9 +3,11 @@
 
 	<setname>pfghtj</setname>
 	<name>Pocket Fighter (JP, 970904)</name>
+	<name_notnice>Pocket Fighter (Japan 970904)</name_notnice>
 	<region>Japan</region>
 	<version>970904</version>
-	<alternative>Pocket Fighter</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Pocket Fighter</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

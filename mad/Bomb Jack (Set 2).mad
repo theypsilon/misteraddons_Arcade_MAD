@@ -5,7 +5,8 @@
 	<name>Bomb Jack (Set 2)</name>
 	<region></region>
 	<version>Set 2</version>
-	<alternative>Bomb Jack</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Bomb Jack</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

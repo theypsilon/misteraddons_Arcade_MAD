@@ -3,9 +3,11 @@
 
 	<setname>ssf2tnl</setname>
 	<name>Super Street Fighter II Turbo (W, New Legacy v0.4)</name>
+	<name_notnice>Super Street Fighter II The New Legacy [Beta 0.4]</name_notnice>
 	<region>World</region>
 	<version>New Legacy v0.4</version>
-	<alternative>Super Street Fighter II Turbo</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Super Street Fighter II Turbo</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

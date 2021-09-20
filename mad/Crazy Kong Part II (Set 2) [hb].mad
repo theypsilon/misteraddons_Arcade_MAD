@@ -5,7 +5,8 @@
 	<name>Crazy Kong Part II (Set 2) [hb]</name>
 	<region></region>
 	<version>Set 2</version>
-	<alternative>Crazy Kong</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Crazy Kong</parent_title>
 	<platform></platform>
 	<series>Donkey Kong</series>
 	<homebrew>yes</homebrew>

@@ -5,7 +5,8 @@
 	<name>Donkey Kong Junior (US, Set F-2)</name>
 	<region>USA</region>
 	<version>Set F-2</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series>Donkey Kong</series>
 	<homebrew>no</homebrew>

@@ -5,7 +5,8 @@
 	<name>Pengo (Set 1, Rev C)</name>
 	<region></region>
 	<version>Set 1, Rev C</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

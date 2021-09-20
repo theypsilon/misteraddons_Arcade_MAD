@@ -3,9 +3,11 @@
 
 	<setname>mtwins</setname>
 	<name>Mega Twins (W, 900619)</name>
+	<name_notnice>Mega Twins -World 900619-</name_notnice>
 	<region>World</region>
 	<version>900619</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Mega Twins</series>
 	<homebrew>no</homebrew>

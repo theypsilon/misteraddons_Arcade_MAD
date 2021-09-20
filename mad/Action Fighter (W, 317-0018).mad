@@ -3,9 +3,11 @@
 
 	<setname>afighterh</setname>
 	<name>Action Fighter (W, 317-0018)</name>
+	<name_notnice>Action Fighter (System 16B, FD1089A 317-0018)</name_notnice>
 	<region>World</region>
 	<version>FD1089A 317-0018</version>
-	<alternative>Action Fighter</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Action Fighter</parent_title>
 	<platform>Sega System 16B</platform>
 	<series></series>
 	<homebrew>no</homebrew>

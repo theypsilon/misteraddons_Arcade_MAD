@@ -5,7 +5,8 @@
 	<name>Moon War (Older)</name>
 	<region></region>
 	<version>Older</version>
-	<alternative>Moon War</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Moon War</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

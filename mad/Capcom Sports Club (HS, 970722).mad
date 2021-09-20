@@ -3,9 +3,11 @@
 
 	<setname>csclubh</setname>
 	<name>Capcom Sports Club (HS, 970722)</name>
+	<name_notnice>Capcom Sports Club (Hispanic 970722)</name_notnice>
 	<region>Hispanic</region>
 	<version>970722</version>
-	<alternative>Capcom Sports Club</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Capcom Sports Club</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series></series>
 	<homebrew>no</homebrew>

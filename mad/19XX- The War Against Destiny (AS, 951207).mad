@@ -3,9 +3,11 @@
 
 	<setname>19xxar1</setname>
 	<name>19XX- The War Against Destiny (AS, 951207)</name>
+	<name_notnice>19XX The War Against Destiny (Asia 951207)</name_notnice>
 	<region>Asia</region>
 	<version>951207</version>
-	<alternative>19XX- The War Against Destiny</alternative>
+	<alternative>yes</alternative>
+	<parent_title>19XX- The War Against Destiny</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>19XX</series>
 	<homebrew>no</homebrew>

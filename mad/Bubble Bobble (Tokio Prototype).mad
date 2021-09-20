@@ -3,9 +3,11 @@
 
 	<setname>bublboblp</setname>
 	<name>Bubble Bobble (Tokio Prototype)</name>
+	<name_notnice>Bubble Bobble (prototype on Tokio hardware)</name_notnice>
 	<region></region>
 	<version>Tokio Prototype</version>
-	<alternative>Bubble Bobble</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Bubble Bobble</parent_title>
 	<platform></platform>
 	<series>Bubble Bobble</series>
 	<homebrew>no</homebrew>

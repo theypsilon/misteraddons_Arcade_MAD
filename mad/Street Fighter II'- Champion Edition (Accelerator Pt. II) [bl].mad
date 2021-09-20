@@ -3,9 +3,11 @@
 
 	<setname>sf2accp2</setname>
 	<name>Street Fighter II'- Champion Edition (Accelerator Pt. II) [bl]</name>
+	<name_notnice>Street Fighter II'  Champion Edition -Accelerator Pt.II, bootleg-</name_notnice>
 	<region></region>
 	<version>Accelerator Pt. II</version>
-	<alternative>Street Fighter II</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Street Fighter II</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

@@ -5,7 +5,8 @@
 	<name>The Tower of Druaga (Sidam) [bl]</name>
 	<region></region>
 	<version>Sidam</version>
-	<alternative>The Tower of Druaga</alternative>
+	<alternative>yes</alternative>
+	<parent_title>The Tower of Druaga</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

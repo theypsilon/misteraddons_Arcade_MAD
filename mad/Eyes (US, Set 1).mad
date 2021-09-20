@@ -5,7 +5,8 @@
 	<name>Eyes (US, Set 1)</name>
 	<region>USA</region>
 	<version>Set 1</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

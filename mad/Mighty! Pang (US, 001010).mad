@@ -3,9 +3,11 @@
 
 	<setname>mpangu</setname>
 	<name>Mighty! Pang (US, 001010)</name>
+	<name_notnice>Mighty! Pang (USA 001010)</name_notnice>
 	<region>USA</region>
 	<version>001010</version>
-	<alternative>Mighty! Pang</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Mighty! Pang</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Pang!</series>
 	<homebrew>no</homebrew>

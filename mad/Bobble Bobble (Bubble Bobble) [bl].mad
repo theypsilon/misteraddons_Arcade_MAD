@@ -3,9 +3,11 @@
 
 	<setname>boblbobl</setname>
 	<name>Bobble Bobble (Bubble Bobble) [bl]</name>
+	<name_notnice>Bobble Bobble (bootleg of Bubble Bobble)</name_notnice>
 	<region></region>
 	<version>Bubble Bobble</version>
-	<alternative>Bubble Bobble</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Bubble Bobble</parent_title>
 	<platform></platform>
 	<series>Bubble Bobble</series>
 	<homebrew>no</homebrew>

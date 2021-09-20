@@ -3,9 +3,11 @@
 
 	<setname>ddragonw</setname>
 	<name>Double Dragon (W, Set 1)</name>
+	<name_notnice>Double Dragon (World set 1)</name_notnice>
 	<region>World</region>
 	<version>Set 1</version>
-	<alternative>Double Dragon</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Double Dragon</parent_title>
 	<platform></platform>
 	<series>Double Dragon</series>
 	<homebrew>no</homebrew>

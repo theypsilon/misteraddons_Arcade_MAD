@@ -5,7 +5,8 @@
 	<name>Mustafa and 40 Thieves [bl]</name>
 	<region></region>
 	<version></version>
-	<alternative>Alibaba</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Alibaba</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

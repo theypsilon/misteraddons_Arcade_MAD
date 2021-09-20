@@ -3,9 +3,11 @@
 
 	<setname>megaman</setname>
 	<name>Mega Man- The Power Battle (CPS1.5 Qsound) [hb]</name>
+	<name_notnice>Mega Man - CPS1.5</name_notnice>
 	<region></region>
 	<version>CPS1.5 Qsound</version>
-	<alternative>Mega Man- The Power Battle</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Mega Man- The Power Battle</parent_title>
 	<platform>Capcom CPS-1.5</platform>
 	<series></series>
 	<homebrew>yes</homebrew>

@@ -5,7 +5,8 @@
 	<name>Gyruss (Centuri)</name>
 	<region></region>
 	<version>Centuri</version>
-	<alternative>Gyruss</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Gyruss</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

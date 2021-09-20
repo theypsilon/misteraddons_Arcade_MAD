@@ -3,9 +3,11 @@
 
 	<setname>vsava</setname>
 	<name>Vampire Savior- The Lord of Vampire (AS, 970519)</name>
+	<name_notnice>Vampire Savior The Lord of Vampire (Asia 970519)</name_notnice>
 	<region>Asia</region>
 	<version>970519</version>
-	<alternative>Vampire Savior- The Lord of Vampire</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Vampire Savior- The Lord of Vampire</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Darkstalkers</series>
 	<homebrew>no</homebrew>

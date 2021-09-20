@@ -3,9 +3,11 @@
 
 	<setname>ssf2tbh</setname>
 	<name>Super Street Fighter II- The Tournament Battle (HS, 931005)</name>
+	<name_notnice>Super Street Fighter II The Tournament Battle (Hispanic 931005)</name_notnice>
 	<region>Hispanic</region>
 	<version>931005</version>
-	<alternative>Super Street Fighter II- The Tournament Battle</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Super Street Fighter II- The Tournament Battle</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

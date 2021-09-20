@@ -5,7 +5,8 @@
 	<name>Time Pilot (Centuri)</name>
 	<region></region>
 	<version>Centuri</version>
-	<alternative>Time Pilot</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Time Pilot</parent_title>
 	<platform></platform>
 	<series>Time Pilot</series>
 	<homebrew>no</homebrew>

@@ -3,9 +3,11 @@
 
 	<setname>fantzonep</setname>
 	<name>Fantasy Zone (W, 317-5000)</name>
+	<name_notnice>Fantasy Zone (World, S16A) [317-5000]</name_notnice>
 	<region>World</region>
 	<version>317-5000</version>
-	<alternative>Fantasy Zone</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Fantasy Zone</parent_title>
 	<platform>Sega System 16A</platform>
 	<series></series>
 	<homebrew>no</homebrew>

@@ -3,9 +3,11 @@
 
 	<setname>ssf2tb</setname>
 	<name>Super Street Fighter II- The Tournament Battle (W, 931119)</name>
+	<name_notnice>Super Street Fighter II The Tournament Battle (World 931119)</name_notnice>
 	<region>World</region>
 	<version>931119</version>
-	<alternative></alternative>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

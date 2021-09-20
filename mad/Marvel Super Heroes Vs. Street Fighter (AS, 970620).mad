@@ -3,9 +3,11 @@
 
 	<setname>mshvsfa1</setname>
 	<name>Marvel Super Heroes Vs. Street Fighter (AS, 970620)</name>
+	<name_notnice>Marvel Super Heroes Vs. Street Fighter (Asia 970620)</name_notnice>
 	<region>Asia</region>
 	<version>970620</version>
-	<alternative>Marvel Super Heroes Vs. Street Fighter</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Marvel Super Heroes Vs. Street Fighter</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Marvel</series>
 	<series>Capcom</series>

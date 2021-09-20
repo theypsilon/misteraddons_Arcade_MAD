@@ -3,9 +3,11 @@
 
 	<setname>commandou2</setname>
 	<name>Command (US, Set 2)</name>
+	<name_notnice>Commando (US set 2)</name_notnice>
 	<region>USA</region>
 	<version>Set 2</version>
-	<alternative>Commando</alternative>
+	<alternative>yes</alternative>
+	<parent_title>Commando</parent_title>
 	<platform>Capcom CPS-0</platform>
 	<series>Commando</series>
 	<homebrew>no</homebrew>
