@@ -3,7 +3,6 @@
 
 	<setname>willowuo</setname>
 	<name>Willow (US, Old Ver)</name>
-	<name_notnice>Willow -USA Old Ver.-</name_notnice>
 	<region>USA</region>
 	<version>Old Ver</version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (alternating)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>3</buttons>
+	<num_buttons>3</num_buttons>
 </misterarcadedescription>

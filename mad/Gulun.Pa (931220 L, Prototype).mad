@@ -3,7 +3,6 @@
 
 	<setname>gulunpa</setname>
 	<name>Gulun.Pa (931220 L, Prototype)</name>
-	<name_notnice>Gulun.Pa_-_Prototype_1993_-_Japan_931220_L-</name_notnice>
 	<region></region>
 	<version>931220 L, Prototype</version>
 	<alternative>no</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>2</buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

@@ -3,7 +3,6 @@
 
 	<setname>ffight</setname>
 	<name>Final Fight (W, Set 1)</name>
-	<name_notnice>Final Fight -World, set 1-</name_notnice>
 	<region>World</region>
 	<version>Set 1</version>
 	<alternative>no</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>3</buttons>
+	<num_buttons>3</num_buttons>
 </misterarcadedescription>

@@ -3,7 +3,6 @@
 
 	<setname>tetris</setname>
 	<name>Tetris (JP, Set 4)</name>
-	<name_notnice>Tetris (Set 4, Japan, S16A) [FD1094 317-0093]</name_notnice>
 	<region>Japan</region>
 	<version>Set 4</version>
 	<alternative>no</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>3</buttons>
+	<num_buttons>3</num_buttons>
 </misterarcadedescription>

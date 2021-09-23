@@ -3,7 +3,6 @@
 
 	<setname>csclub1</setname>
 	<name>Capcom Sports Club (EU, 970722)</name>
-	<name_notnice>Capcom Sports Club (Euro 970722)</name_notnice>
 	<region>Europe</region>
 	<version>970722</version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>3</buttons>
+	<num_buttons>3</num_buttons>
 </misterarcadedescription>

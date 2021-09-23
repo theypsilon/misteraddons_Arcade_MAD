@@ -3,7 +3,6 @@
 
 	<setname>sf2ceds6</setname>
 	<name>Street Fighter II'- Champion Edition (DStreet-6) [bl]</name>
-	<name_notnice>Street Fighter II'  Champion Edition -Dstreet-6, bootleg-</name_notnice>
 	<region></region>
 	<version>DStreet-6</version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>6</buttons>
+	<num_buttons>6</num_buttons>
 </misterarcadedescription>

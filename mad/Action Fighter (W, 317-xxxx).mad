@@ -3,7 +3,6 @@
 
 	<setname>afighterc</setname>
 	<name>Action Fighter (W, 317-xxxx)</name>
-	<name_notnice>Action Fighter (World, S16A) [FD1089B 317-xxxx]</name_notnice>
 	<region>World</region>
 	<version>FD1089B 317-xxxx</version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip>yes</flip>
 
 	<players>2 (alternating)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>2</buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

@@ -3,7 +3,6 @@
 
 	<setname>daimakair</setname>
 	<name>Daimakaimura (JP, Resale)</name>
-	<name_notnice>Daimakaimura -Japan Resale Ver.-</name_notnice>
 	<region>Japan</region>
 	<version>Resale</version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (alternating)</players>
-	<joystick>4-way</joystick>
+	<move_inputs>4-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>2</buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

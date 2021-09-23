@@ -20,8 +20,8 @@
 	<resolution>15kHz</resolution>
 
 	<players>2 (alternating)</players>
-	<joystick></joystick>
+	<move_inputs></move_inputs>
 	<special_controls>spinner</special_controls>
-	<buttons>2</buttons>
+	<num_buttons>2</num_buttons>
 
 </misterarcadedescription>

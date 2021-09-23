@@ -3,7 +3,6 @@
 
 	<setname>aliensyn5</setname>
 	<name>Alien Syndrome (W, Set 5)</name>
-	<name_notnice>Alien Syndrome (Set 5, World, S16A) [FD1089B 317-0037]</name_notnice>
 	<region>World</region>
 	<version>Set 5</version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>1</buttons>
+	<num_buttons>1</num_buttons>
 </misterarcadedescription>

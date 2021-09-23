@@ -3,7 +3,6 @@
 
 	<setname>comdelux</setname>
 	<name>Commando Deluxe [hb]</name>
-	<name_notnice>Commando Deluxe - HBMAME</name_notnice>
 	<region>World</region>
 	<version></version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip>yes</flip>
 
 	<players>2 (alternating)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>2</buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

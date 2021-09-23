@@ -3,7 +3,6 @@
 
 	<setname>sf2red</setname>
 	<name>Street Fighter II'- Champion Edition (Red Wave) [bl]</name>
-	<name_notnice>Street Fighter II'  Champion Edition -Red Wave, bootleg-</name_notnice>
 	<region></region>
 	<version>Red Wave</version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>6</buttons>
+	<num_buttons>6</num_buttons>
 </misterarcadedescription>

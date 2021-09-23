@@ -3,7 +3,6 @@
 
 	<setname>xmvsf</setname>
 	<name>X-Men Vs. Street Fighter (EU, 961004)</name>
-	<name_notnice>X-Men Vs. Street Fighter (Euro 961004)</name_notnice>
 	<region>Europe</region>
 	<version>961004</version>
 	<alternative>no</alternative>
@@ -22,7 +21,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>6</buttons>
+	<num_buttons>6</num_buttons>
 </misterarcadedescription>

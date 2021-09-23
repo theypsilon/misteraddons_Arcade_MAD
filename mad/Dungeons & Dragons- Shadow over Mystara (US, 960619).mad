@@ -3,7 +3,6 @@
 
 	<setname>ddsomu</setname>
 	<name>Dungeons &amp; Dragons- Shadow over Mystara (US, 960619)</name>
-	<name_notnice>Dungeons &amp; Dragons Shadow over Mystara (USA 960619)</name_notnice>
 	<region>USA</region>
 	<version>960619</version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>4</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>4</buttons>
+	<num_buttons>4</num_buttons>
 </misterarcadedescription>

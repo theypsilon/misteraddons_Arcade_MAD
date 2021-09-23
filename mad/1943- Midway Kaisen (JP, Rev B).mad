@@ -3,7 +3,6 @@
 
 	<setname>1943j</setname>
 	<name>1943- Midway Kaisen (JP, Rev B)</name>
-	<name_notnice>1943 Midway Kaisen</name_notnice>
 	<region>Japan</region>
 	<version>Rev B</version>
 	<alternative>no</alternative>
@@ -21,7 +20,7 @@
 	<flip>yes</flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>3</buttons>
+	<num_buttons>3</num_buttons>
 </misterarcadedescription>

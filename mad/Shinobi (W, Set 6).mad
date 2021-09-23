@@ -3,7 +3,6 @@
 
 	<setname>shinobi</setname>
 	<name>Shinobi (W, Set 6)</name>
-	<name_notnice>Shinobi (Set 6, World, S16A) [No Protection]</name_notnice>
 	<region>World</region>
 	<version>Set 6, No Protection</version>
 	<alternative>no</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (alternating)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>3</buttons>
+	<num_buttons>3</num_buttons>
 </misterarcadedescription>

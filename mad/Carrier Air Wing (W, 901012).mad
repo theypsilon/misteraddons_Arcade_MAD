@@ -3,7 +3,6 @@
 
 	<setname>cawing</setname>
 	<name>Carrier Air Wing (W, 901012)</name>
-	<name_notnice>Carrier Air Wing -World 901012-</name_notnice>
 	<region>World</region>
 	<version>901012</version>
 	<alternative>no</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>3</buttons>
+	<num_buttons>3</num_buttons>
 </misterarcadedescription>

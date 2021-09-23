@@ -21,8 +21,8 @@
 	<resolution>15kHz</resolution>
 
 	<players>2 (simultaneous)</players>
-	<joystick></joystick>
+	<move_inputs></move_inputs>
 	<special_controls>trackball</special_controls>
-	<buttons>1</buttons>
+	<num_buttons>1</num_buttons>
 
 </misterarcadedescription>

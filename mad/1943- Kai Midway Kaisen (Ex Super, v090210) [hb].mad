@@ -3,7 +3,6 @@
 
 	<setname>1943kais01</setname>
 	<name>1943- Kai Midway Kaisen (Ex Super, v090210) [hb]</name>
-	<name_notnice>1943 Kai Midway Kaisen(Ex Super Version 2009-02-10) - HBMame</name_notnice>
 	<region></region>
 	<version>Ex Super, v090210</version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip>yes</flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>3</buttons>
+	<num_buttons>3</num_buttons>
 </misterarcadedescription>

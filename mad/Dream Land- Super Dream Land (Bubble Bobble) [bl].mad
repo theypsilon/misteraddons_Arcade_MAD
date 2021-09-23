@@ -3,7 +3,6 @@
 
 	<setname>dland</setname>
 	<name>Dream Land- Super Dream Land (Bubble Bobble) [bl]</name>
-	<name_notnice>Dream Land - Super Dream Land (bootleg of Bubble Bobble)</name_notnice>
 	<region></region>
 	<version>Bubble Bobble</version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>2-way horizontal</joystick>
+	<move_inputs>2-way horizontal</move_inputs>
 	<special_controls></special_controls>
-	<buttons>2</buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

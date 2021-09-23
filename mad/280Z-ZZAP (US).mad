@@ -21,8 +21,8 @@
 	<resolution>15kHz</resolution>
 
 	<players>1</players>
-	<joystick></joystick>
+	<move_inputs></move_inputs>
 	<special_controls>paddle</special_controls>
-	<buttons>0</buttons>
+	<num_buttons>0</num_buttons>
 
 </misterarcadedescription>

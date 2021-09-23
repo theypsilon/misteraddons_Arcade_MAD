@@ -3,7 +3,6 @@
 
 	<setname>hsf2</setname>
 	<name>Hyper Street Fighter II- The Anniversary Edition (US, 040202)</name>
-	<name_notnice>Hyper Street Fighter II The Anniversary Edition (USA 040202)</name_notnice>
 	<region>USA</region>
 	<version>040202</version>
 	<alternative>no</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>6</buttons>
+	<num_buttons>6</num_buttons>
 </misterarcadedescription>

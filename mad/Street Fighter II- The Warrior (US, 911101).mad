@@ -3,7 +3,6 @@
 
 	<setname>sf2uk</setname>
 	<name>Street Fighter II- The Warrior (US, 911101)</name>
-	<name_notnice>Street Fighter II  The World Warrior -USA 911101-</name_notnice>
 	<region>USA</region>
 	<version>911101</version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>6</buttons>
+	<num_buttons>6</num_buttons>
 </misterarcadedescription>

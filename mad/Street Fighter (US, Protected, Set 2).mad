@@ -3,7 +3,6 @@
 
 	<setname>sfua</setname>
 	<name>Street Fighter (US, Protected, Set 2)</name>
-	<name_notnice>Street Fighter (US, set 2) (protected)</name_notnice>
 	<region>USA</region>
 	<version>Protected, Set 2</version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>6</buttons>
+	<num_buttons>6</num_buttons>
 </misterarcadedescription>

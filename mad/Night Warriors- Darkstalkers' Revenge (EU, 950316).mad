@@ -3,7 +3,6 @@
 
 	<setname>nwarr</setname>
 	<name>Night Warriors- Darkstalkers' Revenge (EU, 950316)</name>
-	<name_notnice>Night Warriors Darkstalkers Revenge (Euro 950316)</name_notnice>
 	<region>Europe</region>
 	<version>950316</version>
 	<alternative>no</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>6</buttons>
+	<num_buttons>6</num_buttons>
 </misterarcadedescription>

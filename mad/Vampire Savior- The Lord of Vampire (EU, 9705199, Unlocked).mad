@@ -3,7 +3,6 @@
 
 	<setname>vsav</setname>
 	<name>Vampire Savior- The Lord of Vampire (EU, 9705199, Unlocked)</name>
-	<name_notnice>Vampire Savior The Lord of Vampire (Euro 970519) [Unlocked]</name_notnice>
 	<region>Europe</region>
 	<version>9705199, Unlocked</version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>6</buttons>
+	<num_buttons>6</num_buttons>
 </misterarcadedescription>

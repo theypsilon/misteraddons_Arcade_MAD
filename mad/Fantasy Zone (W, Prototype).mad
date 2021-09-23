@@ -3,7 +3,6 @@
 
 	<setname>fantzonepr</setname>
 	<name>Fantasy Zone (W, Prototype)</name>
-	<name_notnice>Fantasy Zone (Prototype, S16A) [No Protection]</name_notnice>
 	<region>World</region>
 	<version>Prototype</version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (alternating)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>2</buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

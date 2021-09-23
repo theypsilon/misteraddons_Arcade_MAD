@@ -3,7 +3,6 @@
 
 	<setname>gunsmokeub</setname>
 	<name>Gun Smoke (US, 851115, Set 2)</name>
-	<name_notnice>Gun Smoke (US, 851115, set 2)</name_notnice>
 	<region>USA</region>
 	<version>851115, Set 2</version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip>yes</flip>
 
 	<players>2 (alternating)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>3</buttons>
+	<num_buttons>3</num_buttons>
 </misterarcadedescription>

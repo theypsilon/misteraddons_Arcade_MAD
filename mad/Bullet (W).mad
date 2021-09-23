@@ -3,7 +3,6 @@
 
 	<setname>bullet</setname>
 	<name>Bullet (W)</name>
-	<name_notnice>Bullet (FD1094 317-0041)</name_notnice>
 	<region>World</region>
 	<version>FD1094 317-0041</version>
 	<alternative>no</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>3</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>4</buttons>
+	<num_buttons>4</num_buttons>
 </misterarcadedescription>

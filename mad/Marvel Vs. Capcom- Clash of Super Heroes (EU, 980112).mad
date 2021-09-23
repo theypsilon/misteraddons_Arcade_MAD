@@ -3,7 +3,6 @@
 
 	<setname>mvscr1</setname>
 	<name>Marvel Vs. Capcom- Clash of Super Heroes (EU, 980112)</name>
-	<name_notnice>Marvel Vs. Capcom Clash of Super Heroes (Euro 980112)</name_notnice>
 	<region>Europe</region>
 	<version>980112</version>
 	<alternative>yes</alternative>
@@ -22,7 +21,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>6</buttons>
+	<num_buttons>6</num_buttons>
 </misterarcadedescription>

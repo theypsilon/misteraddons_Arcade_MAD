@@ -3,7 +3,6 @@
 
 	<setname>sboblbobld</setname>
 	<name>Super Bobble Bobble (Set 4) [bl]</name>
-	<name_notnice>Super Bobble Bobble (bootleg, set 4)</name_notnice>
 	<region></region>
 	<version>Set 4</version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>2-way horizontal</joystick>
+	<move_inputs>2-way horizontal</move_inputs>
 	<special_controls></special_controls>
-	<buttons>2</buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

@@ -3,7 +3,6 @@
 
 	<setname>gigawing</setname>
 	<name>Giga Wing (US, 990222)</name>
-	<name_notnice>Giga Wing (USA 990222)</name_notnice>
 	<region>USA</region>
 	<version>990222</version>
 	<alternative>no</alternative>
@@ -22,7 +21,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>2</buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

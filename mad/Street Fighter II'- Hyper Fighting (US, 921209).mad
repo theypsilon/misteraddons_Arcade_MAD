@@ -3,7 +3,6 @@
 
 	<setname>sf2hfu</setname>
 	<name>Street Fighter II'- Hyper Fighting (US, 921209)</name>
-	<name_notnice>Street Fighter II'  Hyper Fighting -USA 921209-</name_notnice>
 	<region>USA</region>
 	<version>921209</version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>6</buttons>
+	<num_buttons>6</num_buttons>
 </misterarcadedescription>

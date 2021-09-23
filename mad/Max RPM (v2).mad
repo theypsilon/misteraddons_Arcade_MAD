@@ -21,8 +21,8 @@
 	<resolution>15kHz</resolution>
 
 	<players>2 (simultaneous)</players>
-	<joystick>2-way vertical</joystick>
+	<move_inputs>2-way vertical</move_inputs>
 	<special_controls>paddle / pedal</special_controls>
-	<buttons>2</buttons>
+	<num_buttons>2</num_buttons>
 
 </misterarcadedescription>

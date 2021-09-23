@@ -3,7 +3,6 @@
 
 	<setname>bublcave11</setname>
 	<name>Bubble Bobble- Lost Cave (v1.1) [hb]</name>
-	<name_notnice>Bubble Bobble Lost Cave V1.1</name_notnice>
 	<region></region>
 	<version>v1.1</version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>2-way horizontal</joystick>
+	<move_inputs>2-way horizontal</move_inputs>
 	<special_controls></special_controls>
-	<buttons>2</buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

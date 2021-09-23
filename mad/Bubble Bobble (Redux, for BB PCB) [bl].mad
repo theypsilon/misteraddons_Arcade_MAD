@@ -3,7 +3,6 @@
 
 	<setname>bbredux</setname>
 	<name>Bubble Bobble (Redux, for BB PCB) [bl]</name>
-	<name_notnice>Bubble Bobble (bootleg redux hack for Bobble Bobble PCB)</name_notnice>
 	<region></region>
 	<version>Redux, for BB PCB</version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>2-way horizontal</joystick>
+	<move_inputs>2-way horizontal</move_inputs>
 	<special_controls></special_controls>
-	<buttons>2</buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

@@ -3,7 +3,6 @@
 
 	<setname>sfar3</setname>
 	<name>Street Fighter Alpha- Warriors' Dreams (EU, 950605)</name>
-	<name_notnice>Street Fighter Alpha Warriors Dreams (Euro 950605)</name_notnice>
 	<region>Europe</region>
 	<version>950605</version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>6</buttons>
+	<num_buttons>6</num_buttons>
 </misterarcadedescription>

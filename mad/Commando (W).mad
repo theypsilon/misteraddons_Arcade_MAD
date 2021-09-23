@@ -3,7 +3,6 @@
 
 	<setname>commando</setname>
 	<name>Commando (W)</name>
-	<name_notnice>Commando</name_notnice>
 	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
@@ -21,7 +20,7 @@
 	<flip>yes</flip>
 
 	<players>2 (alternating)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>2</buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

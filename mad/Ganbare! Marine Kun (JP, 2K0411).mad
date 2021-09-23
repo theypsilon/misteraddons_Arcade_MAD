@@ -3,7 +3,6 @@
 
 	<setname>ganbare</setname>
 	<name>Ganbare! Marine Kun (JP, 2K0411)</name>
-	<name_notnice>Ganbare! Marine Kun -Japan 2K0411-</name_notnice>
 	<region>Japan</region>
 	<version>2K0411</version>
 	<alternative>no</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>1</players>
-	<joystick>4-way</joystick>
+	<move_inputs>4-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>2</buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

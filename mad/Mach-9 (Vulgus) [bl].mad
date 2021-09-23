@@ -3,7 +3,6 @@
 
 	<setname>mach9</setname>
 	<name>Mach-9 (Vulgus) [bl]</name>
-	<name_notnice>Mach-9 (bootleg of Vulgus)</name_notnice>
 	<region></region>
 	<version>Vulgus</version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip>yes</flip>
 
 	<players>2 (alternating)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>2</buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

@@ -3,7 +3,6 @@
 
 	<setname>wb35</setname>
 	<name>Wonder Boy III - Monster Lair (JP, Set 5)</name>
-	<name_notnice>Wonder Boy III Monster Lair (Set 5, Japan, S16A) [FD1089A 317-0086]</name_notnice>
 	<region>Japan</region>
 	<version>Set 5</version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>2</buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

@@ -3,7 +3,6 @@
 
 	<setname>mswordu</setname>
 	<name>Magic Sword- Heroic Fantasy (US, 900715)</name>
-	<name_notnice>Magic Sword  Heroic Fantasy -USA 900725-</name_notnice>
 	<region>USA</region>
 	<version>900715</version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>3</buttons>
+	<num_buttons>3</num_buttons>
 </misterarcadedescription>

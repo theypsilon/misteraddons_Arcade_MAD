@@ -3,7 +3,6 @@
 
 	<setname>aurail1</setname>
 	<name>Aurail (W, Set 2)</name>
-	<name_notnice>Aurail (set 2, World) (FD1089B 317-0168)</name_notnice>
 	<region>World</region>
 	<version>Set 2, FD1089B 317-0168</version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (alternating)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>3</buttons>
+	<num_buttons>3</num_buttons>
 </misterarcadedescription>

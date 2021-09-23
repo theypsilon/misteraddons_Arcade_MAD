@@ -3,7 +3,6 @@
 
 	<setname>mmancp2u</setname>
 	<name>Mega Man- The Power Battle (US, CPS2, 951006, SAMPLE Version)</name>
-	<name_notnice>Mega Man The Power Battle (CPS2, USA 951006, SAMPLE Version)</name_notnice>
 	<region>USA</region>
 	<version>CPS2, 951006, SAMPLE Version</version>
 	<alternative>yes</alternative>
@@ -21,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>3</buttons>
+	<num_buttons>3</num_buttons>
 </misterarcadedescription>

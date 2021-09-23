@@ -3,7 +3,6 @@
 
 	<setname>mshvsfu</setname>
 	<name>Marvel Super Heroes Vs. Street Fighter (US, 970827)</name>
-	<name_notnice>Marvel Super Heroes Vs. Street Fighter (USA 970827)</name_notnice>
 	<region>USA</region>
 	<version>970827</version>
 	<alternative>yes</alternative>
@@ -22,7 +21,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>6</buttons>
+	<num_buttons>6</num_buttons>
 </misterarcadedescription>

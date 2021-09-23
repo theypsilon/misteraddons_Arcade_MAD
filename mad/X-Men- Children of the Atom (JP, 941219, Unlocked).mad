@@ -3,7 +3,6 @@
 
 	<setname>xmcotaj2</setname>
 	<name>X-Men- Children of the Atom (JP, 941219, Unlocked)</name>
-	<name_notnice>X-Men Children of the Atom (USA 941219) [Unlocked]</name_notnice>
 	<region>Japan</region>
 	<version>941219, Unlocked</version>
 	<alternative>yes</alternative>
@@ -22,7 +21,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<joystick>8-way</joystick>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<buttons>6</buttons>
+	<num_buttons>6</num_buttons>
 </misterarcadedescription>
