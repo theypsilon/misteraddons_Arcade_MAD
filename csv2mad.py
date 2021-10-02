@@ -27,7 +27,7 @@ df = df.replace(np.nan, '', regex=True)
 MAD_NAME_COLUMN = "name"
 
 # Create output directory
-OUTPUT_DIR = "output_mads"
+OUTPUT_DIR = "mad"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 ############### MAIN LOOP #########################

@@ -1,18 +1,18 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>ddragon2</setname>
-	<name>Double Dragon II- The Revenge (W)</name>
-	<region>World</region>
-	<version></version>
-	<alternative>yes</alternative>
+	<setname>jtdd2</setname>
+	<name>Double Dragon II- The Revenge (US, Turbo)</name>
+	<region>USA</region>
+	<version>Turbo</version>
+	<alternative>no</alternative>
 	<parent_title>Double Dragon II</parent_title>
 	<platform></platform>
 	<series>Double Dragon</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1988</year>
-	<manufacturer>Technos</manufacturer>
+	<manufacturer>Technos Japan</manufacturer>
 	<category>Beat 'em Up</category>
 
 	<resolution>15kHz</resolution>

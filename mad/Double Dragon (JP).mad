@@ -5,8 +5,8 @@
 	<name>Double Dragon (JP)</name>
 	<region>Japan</region>
 	<version></version>
-	<alternative>no</alternative>
-	<parent_title></parent_title>
+	<alternative>yes</alternative>
+	<parent_title>Double Dragon</parent_title>
 	<platform></platform>
 	<series>Double Dragon</series>
 	<homebrew>no</homebrew>
