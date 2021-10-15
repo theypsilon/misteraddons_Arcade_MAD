@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>bionicc</setname>
-	<name>Bionic Commando</name>
-	<region></region>
-	<version></version>
+	<setname>baddudes</setname>
+	<name>Bad Dudes vs. Dragonninja (US, Rev. 1)</name>
+	<region>USA</region>
+	<version>Rev. 1</version>
 	<alternative>no</alternative>
-	<parent_title></parent_title>
-	<platform>Capcom CPS-0</platform>
+	<parent_title>Bad Dudes vs. Dragonninja</parent_title>
+	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1987</year>
-	<manufacturer>Capcom</manufacturer>
+	<year>1988</year>
+	<manufacturer>Data East</manufacturer>
 	<category>Platform</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>2 (alternating)</players>
+	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>
