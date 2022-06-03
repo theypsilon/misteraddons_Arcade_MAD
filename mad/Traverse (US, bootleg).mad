@@ -16,9 +16,9 @@
 	<manufacturer>Broderbund</manufacturer>
 	<category>Racing</category>
 
+	<resolution>15kHz</resolution>
 	<rotation>vertical (ccw)</rotation>
 	<flip>yes</flip>
-	<resolution>15kHz</resolution>
 
 	<players>2 (alternating)</players>
 	<move_inputs>2-way horizontal</move_inputs>

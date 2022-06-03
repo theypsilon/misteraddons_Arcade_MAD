@@ -6,18 +6,18 @@
 	<region></region>
 	<version>Arrange V1.1</version>
 	<alternative>yes</alternative>
-	<parent_title>DonPachi</parent_title>
+	<parent_title>DoDonPachi</parent_title>
 	<platform>CAVE 68000</platform>
-	<series>DonPachi</series>
+	<series></series>
 	<homebrew>yes</homebrew>
 	<bootleg>no</bootleg>
 	<year>1997</year>
 	<manufacturer>CAVE</manufacturer>
 	<category>Shooter - Vertical</category>
 
+	<resolution>15kHz</resolution>
 	<rotation>vertical (ccw)</rotation>
 	<flip>yes</flip>
-	<resolution>15kHz</resolution>
 
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>

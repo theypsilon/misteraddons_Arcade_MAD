@@ -15,9 +15,9 @@
 	<manufacturer>Atari</manufacturer>
 	<category>Shooter - Multidirectional</category>
 
+	<resolution>31kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
-	<resolution>31kHz</resolution>
 
 	<players>1</players>
 	<move_inputs>2-way horizontal</move_inputs>

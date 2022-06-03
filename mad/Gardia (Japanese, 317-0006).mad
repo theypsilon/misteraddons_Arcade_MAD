@@ -16,9 +16,9 @@
 	<manufacturer>Coreland</manufacturer>
 	<category>Shooter - Vertical</category>
 
+	<resolution>15kHz</resolution>
 	<rotation>vertical (ccw)</rotation>
 	<flip>no</flip>
-	<resolution>15kHz</resolution>
 
 	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>

@@ -15,9 +15,9 @@
 	<manufacturer>Atari</manufacturer>
 	<category>Ball and Paddle</category>
 
+	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
-	<resolution>15kHz</resolution>
 
 	<players>2 (simultaneous)</players>
 	<move_inputs></move_inputs>

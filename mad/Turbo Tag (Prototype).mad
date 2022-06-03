@@ -15,9 +15,9 @@
 	<manufacturer>Bally</manufacturer>
 	<category>Arena</category>
 
+	<resolution>15kHz</resolution>
 	<rotation>vertical (cw)</rotation>
 	<flip>no</flip>
-	<resolution>15kHz</resolution>
 
 	<players>1</players>
 	<move_inputs></move_inputs>

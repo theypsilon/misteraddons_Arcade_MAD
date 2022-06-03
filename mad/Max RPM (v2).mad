@@ -16,9 +16,9 @@
 	<manufacturer>Midway</manufacturer>
 	<category>Racing</category>
 
+	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
-	<resolution>15kHz</resolution>
 
 	<players>2 (simultaneous)</players>
 	<move_inputs>2-way vertical</move_inputs>

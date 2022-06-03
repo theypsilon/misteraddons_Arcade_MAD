@@ -15,9 +15,9 @@
 	<manufacturer>Williams</manufacturer>
 	<category>Ball and Paddle</category>
 
+	<resolution>15kHz</resolution>
 	<rotation>vertical (ccw)</rotation>
 	<flip>no</flip>
-	<resolution>15kHz</resolution>
 
 	<players>1</players>
 	<move_inputs>2-way horizontal</move_inputs>

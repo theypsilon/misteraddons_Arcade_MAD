@@ -1,12 +1,12 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>mbombrdj</setname>
+	<setname>mbombrd</setname>
 	<name>Muscle Bomber Duo- Ultimate Team Battle (W, 931206)</name>
-	<region>Japan</region>
+	<region>World</region>
 	<version>931206</version>
-	<alternative>yes</alternative>
-	<parent_title>Slam Masters</parent_title>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-1.5</platform>
 	<series>Slam Masters</series>
 	<homebrew>no</homebrew>
@@ -23,4 +23,5 @@
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>3</num_buttons>
+
 </misterarcadedescription>

@@ -15,9 +15,9 @@
 	<manufacturer>Gottlieb</manufacturer>
 	<category>Platform - Climb</category>
 
+	<resolution>15kHz</resolution>
 	<rotation></rotation>
 	<flip></flip>
-	<resolution>15kHz</resolution>
 
 	<players>2 (alternating)</players>
 	<move_inputs>4-way diagonal</move_inputs>

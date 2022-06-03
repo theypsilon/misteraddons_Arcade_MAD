@@ -16,9 +16,9 @@
 	<manufacturer>Itisa</manufacturer>
 	<category>Platform - Climb</category>
 
+	<resolution>15kHz</resolution>
 	<rotation>vertical (cw)</rotation>
 	<flip>no</flip>
-	<resolution>15kHz</resolution>
 
 	<players>2 (alternating)</players>
 	<move_inputs>4-way</move_inputs>

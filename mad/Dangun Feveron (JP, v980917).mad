@@ -15,9 +15,9 @@
 	<manufacturer></manufacturer>
 	<category></category>
 
+	<resolution>15kHz</resolution>
 	<rotation></rotation>
 	<flip></flip>
-	<resolution></resolution>
 
 	<players></players>
 	<move_inputs></move_inputs>

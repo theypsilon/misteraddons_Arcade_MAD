@@ -15,9 +15,9 @@
 	<manufacturer>hack</manufacturer>
 	<category>Shooter - Gallery</category>
 
+	<resolution>15kHz</resolution>
 	<rotation>vertical (cw)</rotation>
 	<flip>yes</flip>
-	<resolution>15kHz</resolution>
 
 	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>

@@ -15,9 +15,9 @@
 	<manufacturer>Irem</manufacturer>
 	<category>Shooter - Vertical</category>
 
-	<rotation>vertical (cw)</rotation>
-	<flip>broken</flip>
 	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip></flip>
 
 	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>

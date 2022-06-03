@@ -16,9 +16,9 @@
 	<manufacturer>Midway</manufacturer>
 	<category>Shooter - Multidirectional</category>
 
+	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
-	<resolution>15kHz</resolution>
 
 	<players>3</players>
 	<move_inputs>8-way</move_inputs>

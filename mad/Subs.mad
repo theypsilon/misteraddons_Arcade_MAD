@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>subs</setname>
+	<name>Subs</name>
+	<region></region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title>subs</parent_title>
+	<platform></platform>
+	<series>Subs</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1978</year>
+	<manufacturer>Atari</manufacturer>
+	<category>Racing</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>1</players>
+	<move_inputs>2-way horizontal</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons></num_buttons>
+
+</misterarcadedescription>

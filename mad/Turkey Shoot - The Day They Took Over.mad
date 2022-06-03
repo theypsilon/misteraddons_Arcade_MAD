@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>tshoot</setname>
+	<name>Turkey Shoot - The Day They Took Over</name>
+	<region>World</region>
+	<version>Prototype</version>
+	<alternative>no</alternative>
+	<parent_title>tshoot</parent_title>
+	<platform>Williams 2nd Generation</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1984</year>
+	<manufacturer>Williams</manufacturer>
+	<category>Shooter - Gun</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>1</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons></num_buttons>
+
+</misterarcadedescription>
