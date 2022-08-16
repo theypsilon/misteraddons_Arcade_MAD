@@ -1,0 +1,62 @@
+: mad/.mad, mad/Armed Police Batrider.mad, mad/Computer Space.mad, mad/Dangun Feveron (JP, v980917).mad, mad/Pacmanic Miner.mad, mad/Pang.mad, mad/Space Invaders - Space Invaders M.mad, mad/Space Race.mad
+arkanoid: mad/Arkanoid (Unl. Lives) [hb].mad, mad/Arkanoid (Unl. Lives, slower) [hb].mad, mad/Arkanoid (W).mad
+blktiger: mad/Black Dragon (JP).mad, mad/Black Dragon [bl].mad, mad/Black Tiger (older).mad, mad/Black Tiger (Set 1) [bl].mad, mad/Black Tiger (Set 2) [bl].mad, mad/Black Tiger- Black Dragon (Mixed) [bl].mad, mad/Black Tiger.mad
+contra1: mad/Contra (US, Set 2).mad, mad/Contra (US-AS, Set 2).mad
+contrabj: mad/Contra (Japan 1) [bl].mad, mad/Contra (Japan, Set 1) [bl].mad
+contrabj1: mad/Contra (Japan 2) [bl].mad, mad/Contra (Japan, Set 2) [bl].mad
+contrae: mad/Contra (US, Set 3).mad, mad/Contra (US-AS, Set 3).mad
+contraj: mad/Contra (Japan 1).mad, mad/Contra (JP, Set 1).mad
+contraj1: mad/Contra (Japan 2).mad, mad/Contra (JP, Set 2).mad
+daimakair: mad/Daimakaimura (Japan Resale Ver.) (JP, Resale v2).mad, mad/Daimakaimura (JP, Resale).mad
+darkplnt: mad/Dark Planet (no BKG).mad, mad/Dark Planet.mad
+ddonpach: mad/DoDonPachi (20120212 Arrange Ver. 1.1).mad, mad/DoDonPachi (JP).mad, mad/DoDonPachi.mad
+ddragon2: mad/Double Dragon II- The Revenge (US).mad, mad/Double Dragon II- The Revenge (W).mad
+ddsoma: mad/Dungeons & Dragons- Shadow over Mystara (AS, 96061).mad, mad/Dungeons & Dragons- Shadow over Mystara (AS, 960619).mad
+ddsomjr2: mad/Dungeons & Dragons- Shadow over Mystara (JP, 96022).mad, mad/Dungeons & Dragons- Shadow over Mystara (JP, 960223).mad
+dfeveron: mad/Dangun Feveron.mad, mad/Fever SOS.mad
+dinohunt: mad/Dinosaur Hunter (Cadillacs and Dinosaurs, CPS1, Chinese) [bl].mad, mad/Dinosaur Hunter (Cadillacs and Dinosaurs, CPS1.5, Chinese) [bl].mad
+dotrikun: mad/Dottori-Kun (New).mad, mad/Dottori-Kun (Old).mad, mad/Dottori-Man Jr [hb].mad
+fpoint: mad/Flash Point (JP, Set 2).mad, mad/Flash Point (set 2, Japan) (FD1094 317-0127A).mad
+frogger: mad/Frogger (Konami Bugfixed).mad, mad/Frogger (Sega, Set 2).mad
+galaga: mad/Galaga (Namco Rev. B).mad, mad/Galaga (Namco).mad
+gardia: mad/Gardia (317-0006).mad, mad/Gardia (Japanese, 317-0006).mad
+ghouls: mad/Ghouls'n Ghosts (W).mad, mad/Ghouls'n Ghosts (W, Patched).mad
+gmahou: mad/Great Mahou Daisakusen (JP, 000121).mad, mad/Great Mahou Daisakusen (JP, 000121, Unlocked).mad
+gorf: mad/Gorf (Program 1).mad, mad/Gorf (Speech).mad, mad/Gorf.mad
+megaman: mad/Mega Man- The Power Battle (CPS1.5 Qsound) [hb].mad, mad/Mega Man- The Power Battle (US, 951006).mad
+mmatrix: mad/Mars Matrix- Hyper Solid Shooting (AS, 000412).mad, mad/Mars Matrix- Hyper Solid Shooting (US, 000412).mad
+mshj: mad/Marvel Super Heroes (JP, 951117).mad, mad/Marvel Super Heroes (JP, 951117, Unlocked).mad
+mshvsfj: mad/Marvel Super Heroes Vs. Street Fighter (JP, 970707).mad, mad/Marvel Super Heroes Vs. Street Fighter (JP, 970707, Unlocked).mad
+mvscj: mad/Marvel Vs. Capcom- Clash of Super Heroes (JP, 980123).mad, mad/Marvel Vs. Capcom- Clash of Super Heroes (JP, 980123, Unlocked).mad
+mvscjr1: mad/Marvel Vs. Capcom- Clash of Super Heroes (JP, 980112) [hb].mad, mad/Marvel Vs. Capcom- Clash of Super Heroes (JP, 980112).mad, mad/Marvel Vs. Capcom- Clash of Super Heroes (JP, 980112, Onslaught Edition) [hb].mad
+mvscu: mad/Marvel Vs. Capcom- Clash of Super Heroes (US, 980123).mad, mad/Marvel Vs. Capcom- Clash of Super Heroes (US, 980123, Unlocked).mad
+pitfall2: mad/Pitfall II - The Lost Canvas (Japan) [315-5093].mad, mad/Pitfall II.mad
+polyplay2: mad/Poly Play 2.mad, mad/Poly Play 2c.mad
+progear: mad/Progear (US, 010117).mad, mad/Progear (US, 010117, Second Loop) [hb].mad
+progearj: mad/Progear no Arashi (Japan 010117) [Second Loop] (JP, 010117, Second Loop) [hb].mad, mad/Progear no Arashi (JP, 010117).mad, mad/Progear Red Label- Halfway to Hell (JP, 160117).mad
+punisherbz: mad/Biaofeng Zhanjing (The Punisher, CPS1, Chinese) [bl].mad, mad/Biaofeng Zhanjing (The Punisher, CPS1.5, Chinese) [bl].mad
+raflesia: mad/Rafflesia (315-5162).mad, mad/Rafflesia (Japan) (315-5162).mad
+regulus: mad/Regulus (315-5033, Rev A).mad, mad/Regulus (Rev A., Japan) [315-5033].mad
+seganinj: mad/Sega Ninja (315-5102).mad, mad/Sega Ninja (US) (315-5102).mad
+sfa2: mad/Street Fighter Alpha 2 (EU, 960229).mad, mad/Street Fighter Alpha 2 (EU, 960229, Training Edition) [hb].mad
+sfz2al: mad/Street Fighter Zero 2 (AS, 960826).mad, mad/Street Fighter Zero 2 Alpha (AS, 960813, Unlocked).mad, mad/Street Fighter Zero 2 Alpha (AS, 960825, Unlocked).mad
+sfz2alj: mad/Street Fighter Zero 2 (JP, 960805).mad, mad/Street Fighter Zero 2 Alpha (JP, 960805, Unlocked).mad
+sfz3j: mad/Street Fighter Zero 3 (JP, 980904).mad, mad/Street Fighter Zero 3 (JP, 980904, Unlocked).mad
+sfz3jr2: mad/Street Fighter Zero 3 (JP, 980629).mad, mad/Street Fighter Zero 3 (JP, 980629, Training Edition v1.1) [hb].mad
+sfzj: mad/Street Fighter Zero (JP, 950727).mad, mad/Street Fighter Zero (JP, 950727, Unlocked).mad
+shinobi: mad/Shinobi (W, S16B Set 5).mad, mad/Shinobi (W, Set 6).mad
+spatter: mad/Spatter (315-5xxx).mad, mad/Spatter (US) (315-5xxx).mad
+ssf2ta: mad/Super Street Fighter II Turbo (AS, 940223).mad, mad/Super Street Fighter II Turbo (AS, 940223, Training Edition) [hb].mad
+starjack: mad/Star Jacker (Japan) [No Protection].mad, mad/Star Jacker (Sega).mad
+swat: mad/SWAT (315-5048).mad, mad/SWAT (Japan) [315-5048].mad
+teddybb: mad/TeddyBoy Blues (315-5115, New Ver).mad, mad/TeddyBoy Blues (Japan, New Ver.) [315-5115].mad
+theend: mad/The End (BKG).mad, mad/The End.mad
+ufosensib: mad/UFO Senshi Youko Chan [bootleg].mad, mad/UFO Senshi Youko Chan [MC-8123, 317-0064].mad
+upndown: mad/Up'n Down (Japan) [315-5030].mad, mad/Up'n Down.mad
+vsav: mad/Darkstalkers- Jedah's Damnation (EU, 970519, Aesthetic Mod v1.3) [hb].mad, mad/Vampire Savior- The Lord of Vampire (EU, 970519).mad, mad/Vampire Savior- The Lord of Vampire (EU, 9705199, Aesthetic Mod) [hb].mad, mad/Vampire Savior- The Lord of Vampire (EU, 9705199, Training Edition) [hb].mad, mad/Vampire Savior- The Lord of Vampire (EU, 9705199, Unlocked).mad
+wbmlvcd: mad/Wonder Boy in Monster Land (English, Virtual Console) [decrypted bootleg].mad, mad/Wonder Boy in Monster Land.mad
+wboy: mad/Wonder Boy (Set 1, 315-5177).mad, mad/Wonder Boy (Set 1, Japan) [315-5177].mad
+wmatch: mad/Water Match (315-5064).mad, mad/Water Match (US) [315-5064].mad
+wow: mad/Wizard of Wor (Speech).mad, mad/Wizard of Wor.mad
+xevious: mad/Super Xevious.mad, mad/Xevious.mad
+xmcotaj2: mad/X-Men- Children of the Atom (JP, 941219).mad, mad/X-Men- Children of the Atom (JP, 941219, Unlocked).mad
